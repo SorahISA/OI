@@ -1,0 +1,354 @@
+body {
+    /* FIXME: I'd suggest putting a 0.75em font-size */
+    font: 1em/1.5em sans-serif;
+
+    color: black;
+
+    background-color: #F6F6F6;
+    background-image: -webkit-linear-gradient(#FFFFFF, #EDEDED);
+    background-image:    -moz-linear-gradient(#FFFFFF, #EDEDED);
+    background-image:      -o-linear-gradient(#FFFFFF, #EDEDED);
+    background-image:         linear-gradient(#FFFFFF, #EDEDED);
+    background-attachment: fixed;
+
+    margin: 0;
+}
+
+/* TODO: the following two might be omitted */
+
+td {
+    padding: 0;
+}
+
+a {
+    outline: none;
+}
+
+abbr {
+    /* border-bottom: 1px dotted black; */
+}
+
+/******************************************************************************\
+|                                                                              |
+|                                   Scoreboard                                 |
+|                                   ----------                                 |
+\******************************************************************************/
+
+
+#Scoreboard {
+    width: 80%;
+    table-layout: fixed;
+    margin: 3em auto;
+    position: absolute;
+    left: 90px;
+    right: 90px;
+}
+
+#Scoreboard_cols col.sel {
+    width: 2em;
+}
+
+#Scoreboard_cols col.rank {
+    width: 48px;
+}
+
+#Scoreboard_cols col.team {
+    /* This is the minimum width needed to contain a flag */
+    width: 42px;
+    /* These rules set the horizontal padding to the same value as the
+       vertical one (in presence of a flag with a 2:1 ratio) */
+    width: -webkit-calc(2em + 20px);
+    width:    -moz-calc(2em + 20px);
+    width:         calc(2em + 20px);
+}
+
+#Scoreboard_head tr {
+    height: 2.5em;
+}
+
+#Scoreboard_body tr {
+    height: 2em;
+}
+
+#Scoreboard_head tr th {
+    background-color: #ECECEF;
+    border: 1px #D0D0D2 solid;
+    border-radius: 4px;
+    box-shadow: 0 0 2px 0 #D2D2D4 inset;
+    height: 24px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#Scoreboard_body tr td.team {
+    vertical-align: middle;
+}
+
+#Scoreboard_body tr td.team img {
+    display: block;
+    max-width: 40px;
+    max-height: 20px;
+    margin: 0 auto;
+    box-shadow: 0 0 2px 0 gray;
+}
+
+#Scoreboard_head tr th,
+#Scoreboard_body tr td {
+    text-align: center;
+}
+
+#Scoreboard_body tr td.f_name,
+#Scoreboard_body tr td.l_name {
+    text-align: center;
+    padding: 0 0.5em;
+    cursor: pointer;
+}
+
+#Scoreboard_head tr th.sel {
+    background-image: url('img/tick_black.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#Scoreboard_head tr th.score {
+    cursor: pointer;
+}
+
+#Scoreboard_body tr:hover td.f_name,
+#Scoreboard_body tr:hover td.l_name,
+#Scoreboard_body tr:hover td.team {
+    background-color: rgba(200,200,200,0.35);
+    border-radius: 5px;
+}
+
+#Scoreboard_body tr.selected td.f_name,
+#Scoreboard_body tr.selected td.l_name {
+    font-weight: bold;
+}
+
+/* What follows is the CSS needed to manage the "checkboxes" in the Scoreboard,
+   used to select users. We're simulating checkboxes using table cells, so we
+   have to define their appearence in "normal" status as well as during user
+   interaction. We did this so we can be more flexible on the style: we need
+   to be able to set the background color of the checkbox and to make them a
+   little bigger so that the color can be seen better.
+
+   We use eight colors, taken from the Tango Palette:
+   http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines#Color_Palette
+ */
+
+#Scoreboard_body tr td.sel {
+    background: url('img/tick_black.png') no-repeat center transparent;
+    opacity: 0;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+         -o-user-select: none;
+            user-select: none;
+}
+
+#Scoreboard_body tr td.sel:hover {
+    opacity: 0.3;
+}
+
+#Scoreboard_body tr td.sel:active {
+    opacity: 0.5;
+}
+
+#Scoreboard_body tr.selected td.sel {
+    background: url('img/tick_white.png') no-repeat center transparent;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 4px;
+    opacity: 1;
+}
+
+/* Color 1: Blue */
+
+#Scoreboard_body tr.color1 td.sel {
+    background-color: rgb(52,101,164);
+}
+
+#Scoreboard_body tr.color1 td.sel:hover {
+    background-color: rgb(32,74,135);
+}
+
+#Scoreboard_body tr.color1 td.sel:active {
+    background-color: rgb(26,59,108);
+}
+
+/* Color 2: Butter */
+
+#Scoreboard_body tr.color2 td.sel {
+    background-color: rgb(237,212,0);
+}
+
+#Scoreboard_body tr.color2 td.sel:hover {
+    background-color: rgb(196,160,0);
+}
+
+#Scoreboard_body tr.color2 td.sel:active {
+    background-color: rgb(157,128,0);
+}
+
+/* Color 3: Red */
+
+#Scoreboard_body tr.color3 td.sel {
+    background-color: rgb(204,0,0);
+}
+
+#Scoreboard_body tr.color3 td.sel:hover {
+    background-color: rgb(164,0,0);
+}
+
+#Scoreboard_body tr.color3 td.sel:active {
+    background-color: rgb(131,0,0);
+}
+
+/* Color 4: Chameleon */
+
+#Scoreboard_body tr.color4 td.sel {
+    background-color: rgb(115,210,22);
+}
+
+#Scoreboard_body tr.color4 td.sel:hover {
+    background-color: rgb(78,154,6);
+}
+
+#Scoreboard_body tr.color4 td.sel:active {
+    background-color: rgb(62,123,5);
+}
+
+/* Color 5: Orange */
+
+#Scoreboard_body tr.color5 td.sel {
+    background-color: rgb(245,121,0);
+}
+
+#Scoreboard_body tr.color5 td.sel:hover {
+    background-color: rgb(206,92,0);
+}
+
+#Scoreboard_body tr.color5 td.sel:active {
+    background-color: rgb(165,74,0);
+}
+
+/* Color 6: Plum */
+
+#Scoreboard_body tr.color6 td.sel {
+    background-color: rgb(117,80,123);
+}
+
+#Scoreboard_body tr.color6 td.sel:hover {
+    background-color: rgb(92,53,102);
+}
+
+#Scoreboard_body tr.color6 td.sel:active {
+    background-color: rgb(74,42,82);
+}
+
+/* Color 7: Aluminium */
+
+#Scoreboard_body tr.color7 td.sel {
+    background-color: rgb(136,138,133);
+}
+
+#Scoreboard_body tr.color7 td.sel:hover {
+    background-color: rgb(85,87,83);
+}
+
+#Scoreboard_body tr.color7 td.sel:active {
+    background-color: rgb(68,70,66);
+}
+
+/* Color 8: Chocolate */
+
+#Scoreboard_body tr.color8 td.sel {
+    background-color: rgb(193,125,17);
+}
+
+#Scoreboard_body tr.color8 td.sel:hover {
+    background-color: rgb(143,89,2);
+}
+
+#Scoreboard_body tr.color8 td.sel:active {
+    background-color: rgb(114,71,2);
+}
+
+
+
+#Scoreboard_body tr td.score {
+    opacity: 0.75;
+    border-radius: 5px;
+}
+
+#Scoreboard_body tr td.score.sort_key {
+    border: 1px solid #777777;
+    box-shadow: 0 0 1px white inset;
+}
+
+#Scoreboard_body tr:hover td.score,
+#Scoreboard_body tr.selected td.score,
+#Scoreboard_body tr td.score.sort_key {
+    opacity: 1;
+}
+
+.score_0 {
+    background-color: #F40000;
+    /*background-image: linear-gradient(rgb(204, 0, 0), rgb(244, 0, 0));*/
+}
+
+.score_0_10 {
+    background-color: #EB1D00;
+    /*background-image: linear-gradient(rgb(210, 38, 0), rgb(235, 29, 0));*/
+}
+
+.score_10_20 {
+    background-color: #E23A00;
+    /*background-image: linear-gradient(rgb(216, 77, 0), rgb(226, 58, 0));*/
+}
+
+.score_20_30 {
+    background-color: #D95700;
+    /*background-image: linear-gradient(rgb(222, 115, 0), rgb(217, 87, 0));*/
+}
+
+.score_30_40 {
+    background-color: #D17400;
+    /*background-image: linear-gradient(rgb(228, 154, 0), rgb(209, 116, 0));*/
+}
+
+.score_40_50 {
+    background-color: #C89100;
+    /*background-image: linear-gradient(rgb(234, 192, 0), rgb(200, 145, 0));*/
+}
+
+.score_50_60 {
+    background-color: #B99F00;
+    /*background-image: linear-gradient(rgb(225, 211, 2), rgb(185, 159, 0));*/
+}
+
+.score_60_70 {
+    background-color: #A39E01;
+    /*background-image: linear-gradient(rgb(203, 211, 6), rgb(163, 158, 1));*/
+}
+
+.score_70_80 {
+    background-color: #8E9D02;
+    /*background-image: linear-gradient(rgb(181, 211, 10), rgb(142, 157, 2));*/
+}
+
+.score_80_90 {
+    background-color: #789C03;
+    /*background-image: linear-gradient(rgb(159, 210, 14), rgb(120, 156, 3));*/
+}
+
+.score_90_100 {
+    background-color: #639B04;
+    /*background-image: linear-gradient(rgb(137, 210, 18), rgb(99, 155, 4));*/
+}
+
+.score_100 {
+    background-color: #4E9A05;
+    /*background-image: linear-gradient(rgb(115, 210, 22), rgb(78, 154, 5));*/
+}
