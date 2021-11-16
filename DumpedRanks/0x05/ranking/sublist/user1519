@@ -1,0 +1,24 @@
+[
+    {
+        "user": "user1519",
+        "task": "A",
+        "time": 548,
+        "key": "54",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "user1519",
+        "task": "A",
+        "time": 883,
+        "key": "63",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

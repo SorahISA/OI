@@ -1,0 +1,331 @@
+[
+    {
+        "user": "Alan_2018",
+        "task": "A",
+        "time": 778,
+        "key": "59",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "A",
+        "time": 838,
+        "key": "60",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "A",
+        "time": 925,
+        "key": "66",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "A",
+        "time": 985,
+        "key": "69",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 2385,
+        "key": "100",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 2548,
+        "key": "104",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 2685,
+        "key": "109",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 2756,
+        "key": "110",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "0",
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 2861,
+        "key": "111",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 2888,
+        "key": "112",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "0",
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 2999,
+        "key": "113",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "0",
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 3036,
+        "key": "115",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 3096,
+        "key": "116",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 3223,
+        "key": "119",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 3379,
+        "key": "121",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 3580,
+        "key": "125",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 3664,
+        "key": "128",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 4184,
+        "key": "140",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 4340,
+        "key": "141",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 4532,
+        "key": "145",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 4599,
+        "key": "146",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 4754,
+        "key": "149",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Alan_2018",
+        "task": "C",
+        "time": 4911,
+        "key": "151",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    }
+]

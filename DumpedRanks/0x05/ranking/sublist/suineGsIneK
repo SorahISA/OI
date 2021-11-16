@@ -1,0 +1,35 @@
+[
+    {
+        "user": "suineGsIneK",
+        "task": "A",
+        "time": 523,
+        "key": "50",
+        "token": false,
+        "score": 44.0,
+        "extra": [
+            "44"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "A",
+        "time": 1267,
+        "key": "78",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "A",
+        "time": 1653,
+        "key": "82",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "name": "\u904a\u5712\u8eca (Cart)",
+    "short_name": "E",
+    "contest": "0x05",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (23)",
+        "Subtask 3 (29)",
+        "Subtask 4 (20)",
+        "Subtask 5 (24)",
+        "Subtask 6 (4)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

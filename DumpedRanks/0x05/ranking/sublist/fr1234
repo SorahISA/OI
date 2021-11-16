@@ -1,0 +1,118 @@
+[
+    {
+        "user": "fr1234",
+        "task": "A",
+        "time": 696,
+        "key": "57",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "A",
+        "time": 895,
+        "key": "64",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "B",
+        "time": 2387,
+        "key": "101",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "31",
+            "6",
+            "11",
+            "26",
+            "26"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "D",
+        "time": 3699,
+        "key": "129",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "0",
+            "6",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "E",
+        "time": 6457,
+        "key": "169",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "23",
+            "29",
+            "20",
+            "24",
+            "4"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "F1",
+        "time": 7943,
+        "key": "196",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "0",
+            "8",
+            "4",
+            "6",
+            "8",
+            "14"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "F2",
+        "time": 8331,
+        "key": "202",
+        "token": false,
+        "score": 60.0,
+        "extra": [
+            "0",
+            "12",
+            "6",
+            "9",
+            "12",
+            "21"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "C",
+        "time": 9185,
+        "key": "228",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    }
+]

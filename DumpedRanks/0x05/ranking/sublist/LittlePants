@@ -1,0 +1,106 @@
+[
+    {
+        "user": "LittlePants",
+        "task": "A",
+        "time": 2652,
+        "key": "108",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "LittlePants",
+        "task": "D",
+        "time": 3102,
+        "key": "117",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "0",
+            "6",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittlePants",
+        "task": "D",
+        "time": 3787,
+        "key": "130",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "6",
+            "26",
+            "51",
+            "17"
+        ]
+    },
+    {
+        "user": "LittlePants",
+        "task": "E",
+        "time": 5923,
+        "key": "162",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "23",
+            "29",
+            "20",
+            "24",
+            "4"
+        ]
+    },
+    {
+        "user": "LittlePants",
+        "task": "F1",
+        "time": 7291,
+        "key": "179",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "0",
+            "8",
+            "4",
+            "6",
+            "8",
+            "14"
+        ]
+    },
+    {
+        "user": "LittlePants",
+        "task": "F2",
+        "time": 7341,
+        "key": "182",
+        "token": false,
+        "score": 60.0,
+        "extra": [
+            "0",
+            "12",
+            "6",
+            "9",
+            "12",
+            "21"
+        ]
+    },
+    {
+        "user": "LittlePants",
+        "task": "C",
+        "time": 9211,
+        "key": "229",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "48",
+            "19"
+        ]
+    }
+]

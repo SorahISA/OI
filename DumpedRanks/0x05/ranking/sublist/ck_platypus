@@ -1,0 +1,76 @@
+[
+    {
+        "user": "ck_platypus",
+        "task": "A",
+        "time": 402,
+        "key": "47",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "B",
+        "time": 1538,
+        "key": "80",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "B",
+        "time": 1811,
+        "key": "84",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "0",
+            "0",
+            "6",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "B",
+        "time": 1889,
+        "key": "87",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "31",
+            "6",
+            "11",
+            "26",
+            "26"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "C",
+        "time": 5996,
+        "key": "163",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "48",
+            "19"
+        ]
+    }
+]

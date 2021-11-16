@@ -1,0 +1,246 @@
+[
+    {
+        "user": "Fysty",
+        "task": "A",
+        "time": 926,
+        "key": "67",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "C",
+        "time": 2400,
+        "key": "102",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "48",
+            "19"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "D",
+        "time": 3497,
+        "key": "124",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "6",
+            "26",
+            "51",
+            "17"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "A",
+        "time": 4096,
+        "key": "138",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "B",
+        "time": 4956,
+        "key": "152",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "31",
+            "6",
+            "11",
+            "26",
+            "26"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "E",
+        "time": 6196,
+        "key": "167",
+        "token": false,
+        "score": 43.0,
+        "extra": [
+            "0",
+            "23",
+            "0",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "F1",
+        "time": 6775,
+        "key": "173",
+        "token": false,
+        "score": 4.0,
+        "extra": [
+            "0",
+            "0",
+            "4",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "F2",
+        "time": 6790,
+        "key": "174",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "0",
+            "0",
+            "6",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "F1",
+        "time": 7475,
+        "key": "187",
+        "token": false,
+        "score": 4.0,
+        "extra": [
+            "0",
+            "0",
+            "4",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "F1",
+        "time": 7693,
+        "key": "192",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "0",
+            "8",
+            "4",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "F2",
+        "time": 7706,
+        "key": "194",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "0",
+            "12",
+            "6",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "E",
+        "time": 8907,
+        "key": "219",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "E",
+        "time": 9163,
+        "key": "226",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "E",
+        "time": 9283,
+        "key": "232",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "23",
+            "29",
+            "20",
+            "24",
+            "4"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "F1",
+        "time": 10389,
+        "key": "254",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "0",
+            "8",
+            "4",
+            "6",
+            "8",
+            "14"
+        ]
+    },
+    {
+        "user": "Fysty",
+        "task": "F2",
+        "time": 10395,
+        "key": "255",
+        "token": false,
+        "score": 60.0,
+        "extra": [
+            "0",
+            "12",
+            "6",
+            "9",
+            "12",
+            "21"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "name": "\u518d\u6559\u80b2 (Education)",
+    "short_name": "C",
+    "contest": "0x05",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (12)",
+        "Subtask 3 (21)",
+        "Subtask 4 (48)",
+        "Subtask 5 (19)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "\u97f3\u904a\u5275\u4f5c\u8005 (Rhythm)",
+    "short_name": "D",
+    "contest": "0x05",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (6)",
+        "Subtask 3 (26)",
+        "Subtask 4 (51)",
+        "Subtask 5 (17)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

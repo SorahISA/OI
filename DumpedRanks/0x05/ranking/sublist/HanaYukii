@@ -1,0 +1,86 @@
+[
+    {
+        "user": "HanaYukii",
+        "task": "A",
+        "time": 302,
+        "key": "43",
+        "token": false,
+        "score": 99.0,
+        "extra": [
+            "99"
+        ]
+    },
+    {
+        "user": "HanaYukii",
+        "task": "A",
+        "time": 321,
+        "key": "44",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "HanaYukii",
+        "task": "D",
+        "time": 2645,
+        "key": "106",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "6",
+            "26",
+            "51",
+            "17"
+        ]
+    },
+    {
+        "user": "HanaYukii",
+        "task": "B",
+        "time": 7577,
+        "key": "188",
+        "token": false,
+        "score": 48.0,
+        "extra": [
+            "0",
+            "31",
+            "6",
+            "11",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "HanaYukii",
+        "task": "B",
+        "time": 8085,
+        "key": "199",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "31",
+            "6",
+            "11",
+            "26",
+            "26"
+        ]
+    },
+    {
+        "user": "HanaYukii",
+        "task": "C",
+        "time": 9150,
+        "key": "224",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "48",
+            "19"
+        ]
+    }
+]

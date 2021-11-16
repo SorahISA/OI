@@ -1,0 +1,17 @@
+{
+    "name": "\u96d9\u4eba\u8ff7\u5bae (Maze)",
+    "short_name": "F1",
+    "contest": "0x05",
+    "max_score": 40.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (8)",
+        "Subtask 3 (4)",
+        "Subtask 4 (6)",
+        "Subtask 5 (8)",
+        "Subtask 6 (14)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

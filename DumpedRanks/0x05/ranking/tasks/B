@@ -1,0 +1,17 @@
+{
+    "name": "\u7e6a\u756b\u6559\u5ba4 (Painting)",
+    "short_name": "B",
+    "contest": "0x05",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (31)",
+        "Subtask 3 (6)",
+        "Subtask 4 (11)",
+        "Subtask 5 (26)",
+        "Subtask 6 (26)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

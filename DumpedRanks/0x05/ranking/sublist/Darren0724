@@ -1,0 +1,130 @@
+[
+    {
+        "user": "Darren0724",
+        "task": "A",
+        "time": 260,
+        "key": "42",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Darren0724",
+        "task": "A",
+        "time": 546,
+        "key": "53",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Darren0724",
+        "task": "C",
+        "time": 1599,
+        "key": "81",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "0",
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Darren0724",
+        "task": "C",
+        "time": 1822,
+        "key": "85",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "0",
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Darren0724",
+        "task": "C",
+        "time": 1848,
+        "key": "86",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "0",
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Darren0724",
+        "task": "C",
+        "time": 2041,
+        "key": "92",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "0",
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Darren0724",
+        "task": "C",
+        "time": 2089,
+        "key": "93",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Darren0724",
+        "task": "D",
+        "time": 7462,
+        "key": "185",
+        "token": false,
+        "score": 83.0,
+        "extra": [
+            "0",
+            "6",
+            "26",
+            "51",
+            "0"
+        ]
+    },
+    {
+        "user": "Darren0724",
+        "task": "B",
+        "time": 10768,
+        "key": "264",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

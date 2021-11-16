@@ -1,0 +1,114 @@
+{
+    "A": {
+        "name": "\u5c0b\u86cb 101 (Egg)",
+        "short_name": "A",
+        "contest": "0x05",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "\u7e6a\u756b\u6559\u5ba4 (Painting)",
+        "short_name": "B",
+        "contest": "0x05",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (31)",
+            "Subtask 3 (6)",
+            "Subtask 4 (11)",
+            "Subtask 5 (26)",
+            "Subtask 6 (26)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "\u518d\u6559\u80b2 (Education)",
+        "short_name": "C",
+        "contest": "0x05",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (12)",
+            "Subtask 3 (21)",
+            "Subtask 4 (48)",
+            "Subtask 5 (19)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "\u97f3\u904a\u5275\u4f5c\u8005 (Rhythm)",
+        "short_name": "D",
+        "contest": "0x05",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (6)",
+            "Subtask 3 (26)",
+            "Subtask 4 (51)",
+            "Subtask 5 (17)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "\u904a\u5712\u8eca (Cart)",
+        "short_name": "E",
+        "contest": "0x05",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (23)",
+            "Subtask 3 (29)",
+            "Subtask 4 (20)",
+            "Subtask 5 (24)",
+            "Subtask 6 (4)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F1": {
+        "name": "\u96d9\u4eba\u8ff7\u5bae (Maze)",
+        "short_name": "F1",
+        "contest": "0x05",
+        "max_score": 40.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (8)",
+            "Subtask 3 (4)",
+            "Subtask 4 (6)",
+            "Subtask 5 (8)",
+            "Subtask 6 (14)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F2": {
+        "name": "\u96d9\u4eba\u8ff7\u5bae (Maze)",
+        "short_name": "F2",
+        "contest": "0x05",
+        "max_score": 60.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (12)",
+            "Subtask 3 (6)",
+            "Subtask 4 (9)",
+            "Subtask 5 (12)",
+            "Subtask 6 (21)"
+        ],
+        "order": 6,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}
