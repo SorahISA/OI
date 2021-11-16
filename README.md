@@ -9,5 +9,5 @@ Actually not. Nothing is in here.
   - https://sorahisa.github.io/OI/DumpedRanks/0x06/ranking/Ranking.html
 
 - 2021 北市賽
-  - https://sorahisa.github.io/OI/DumpedRanks/nhspc2021\_tpe/ranking/Ranking.html
+  - https://sorahisa.github.io/OI/DumpedRanks/nhspc2021_tpe/ranking/Ranking.html
 
