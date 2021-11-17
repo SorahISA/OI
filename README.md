@@ -4,7 +4,7 @@ Actually not. Nothing is in here.
 
 ## 計分板們
 
-- [0x00 -- 2020 TOI Simulation](https://sorahisa.github.io/OI/0x00/Scoreboard/0x00/Ranking.html) *
+- [0x00 -- 2020 TOI Simulation](https://sorahisa.github.io/OI/DumpedRanks/0x00/ranking/Ranking.html)
   - Contest Link: https://codeforces.com/group/GG44hyrVLY/contest/271250
 
 - [0x01 -- 2020 花中一模 (Mirror)](https://sorahisa.github.io/OI/0x00/Scoreboard/0x01/Ranking.html) *
