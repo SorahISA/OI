@@ -1,0 +1,131 @@
+[
+    {
+        "user": "ub33",
+        "task": "A",
+        "time": 621,
+        "key": "76",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "20",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "ub33",
+        "task": "A",
+        "time": 852,
+        "key": "77",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "20",
+            "50",
+            "30"
+        ]
+    },
+    {
+        "user": "ub33",
+        "task": "B",
+        "time": 1214,
+        "key": "78",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ub33",
+        "task": "B",
+        "time": 1322,
+        "key": "79",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "23",
+            "20",
+            "16",
+            "41"
+        ]
+    },
+    {
+        "user": "ub33",
+        "task": "D",
+        "time": 5294,
+        "key": "80",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ub33",
+        "task": "D",
+        "time": 5583,
+        "key": "81",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ub33",
+        "task": "D",
+        "time": 5944,
+        "key": "82",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "9",
+            "8",
+            "35",
+            "19",
+            "29"
+        ]
+    },
+    {
+        "user": "ub33",
+        "task": "E",
+        "time": 7595,
+        "key": "83",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "0",
+            "6",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ub33",
+        "task": "E",
+        "time": 10226,
+        "key": "84",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "6",
+            "13",
+            "0",
+            "0"
+        ]
+    }
+]

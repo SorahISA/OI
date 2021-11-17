@@ -1,0 +1,233 @@
+[
+    {
+        "user": "alphabe",
+        "task": "A",
+        "time": 337,
+        "key": "353",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "20",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "A",
+        "time": 383,
+        "key": "355",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "20",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "A",
+        "time": 462,
+        "key": "357",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "20",
+            "50",
+            "30"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "B",
+        "time": 1109,
+        "key": "362",
+        "token": false,
+        "score": 23.0,
+        "extra": [
+            "23",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "B",
+        "time": 1677,
+        "key": "367",
+        "token": false,
+        "score": 23.0,
+        "extra": [
+            "23",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "B",
+        "time": 2186,
+        "key": "370",
+        "token": false,
+        "score": 23.0,
+        "extra": [
+            "23",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "B",
+        "time": 4583,
+        "key": "379",
+        "token": false,
+        "score": 23.0,
+        "extra": [
+            "23",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "B",
+        "time": 5136,
+        "key": "380",
+        "token": false,
+        "score": 23.0,
+        "extra": [
+            "23",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "B",
+        "time": 5173,
+        "key": "381",
+        "token": false,
+        "score": 23.0,
+        "extra": [
+            "23",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "C",
+        "time": 6648,
+        "key": "387",
+        "token": false,
+        "score": 16.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "C",
+        "time": 6903,
+        "key": "389",
+        "token": false,
+        "score": 9.0,
+        "extra": [
+            "0",
+            "0",
+            "9",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "C",
+        "time": 7021,
+        "key": "390",
+        "token": false,
+        "score": 9.0,
+        "extra": [
+            "0",
+            "0",
+            "9",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "C",
+        "time": 7393,
+        "key": "393",
+        "token": false,
+        "score": 9.0,
+        "extra": [
+            "0",
+            "0",
+            "9",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "E",
+        "time": 10038,
+        "key": "407",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "E",
+        "time": 10273,
+        "key": "409",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "F",
+        "time": 10644,
+        "key": "415",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

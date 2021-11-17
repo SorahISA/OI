@@ -1,0 +1,291 @@
+[
+    {
+        "user": "Ccucumber12",
+        "task": "A",
+        "time": 302,
+        "key": "0",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "20",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "A",
+        "time": 432,
+        "key": "1",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "20",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "A",
+        "time": 463,
+        "key": "2",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "20",
+            "50",
+            "30"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "B",
+        "time": 759,
+        "key": "3",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "23",
+            "20",
+            "16",
+            "41"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "C",
+        "time": 1302,
+        "key": "4",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "C",
+        "time": 1513,
+        "key": "5",
+        "token": false,
+        "score": 16.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "C",
+        "time": 2160,
+        "key": "6",
+        "token": false,
+        "score": 16.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "C",
+        "time": 3572,
+        "key": "7",
+        "token": false,
+        "score": 16.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "D",
+        "time": 4349,
+        "key": "8",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "D",
+        "time": 4664,
+        "key": "9",
+        "token": false,
+        "score": 52.0,
+        "extra": [
+            "9",
+            "8",
+            "35",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "D",
+        "time": 4840,
+        "key": "10",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "9",
+            "8",
+            "35",
+            "19",
+            "29"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "E",
+        "time": 6208,
+        "key": "11",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "19",
+            "6",
+            "13",
+            "41",
+            "21"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "F",
+        "time": 7790,
+        "key": "12",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "0",
+            "29",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "F",
+        "time": 8500,
+        "key": "13",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "F",
+        "time": 8899,
+        "key": "14",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "0",
+            "29",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "F",
+        "time": 9086,
+        "key": "15",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "0",
+            "29",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "F",
+        "time": 9725,
+        "key": "16",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "0",
+            "29",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "F",
+        "time": 9771,
+        "key": "17",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "0",
+            "29",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "F",
+        "time": 10284,
+        "key": "18",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "0",
+            "29",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ccucumber12",
+        "task": "F",
+        "time": 10342,
+        "key": "19",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "0",
+            "29",
+            "0",
+            "0"
+        ]
+    }
+]

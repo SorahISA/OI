@@ -1,0 +1,360 @@
+[
+    {
+        "user": "Sha_man",
+        "task": "A",
+        "time": 328,
+        "key": "352",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "20",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "A",
+        "time": 383,
+        "key": "354",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "20",
+            "50",
+            "30"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "B",
+        "time": 894,
+        "key": "359",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "23",
+            "20",
+            "16",
+            "41"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "E",
+        "time": 2245,
+        "key": "371",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "C",
+        "time": 3186,
+        "key": "374",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "E",
+        "time": 4177,
+        "key": "376",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "19",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 5905,
+        "key": "386",
+        "token": false,
+        "score": 9.0,
+        "extra": [
+            "9",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "F",
+        "time": 7234,
+        "key": "392",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "0",
+            "29",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "C",
+        "time": 7789,
+        "key": "395",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "C",
+        "time": 8005,
+        "key": "398",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "C",
+        "time": 8046,
+        "key": "399",
+        "token": false,
+        "score": 9.0,
+        "extra": [
+            "0",
+            "0",
+            "9",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "C",
+        "time": 8291,
+        "key": "400",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "C",
+        "time": 8370,
+        "key": "401",
+        "token": false,
+        "score": 16.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "F",
+        "time": 8738,
+        "key": "402",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "F",
+        "time": 9064,
+        "key": "403",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 9241,
+        "key": "404",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 9281,
+        "key": "405",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 10072,
+        "key": "408",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 10338,
+        "key": "410",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 10480,
+        "key": "412",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 10509,
+        "key": "413",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 10526,
+        "key": "414",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 10677,
+        "key": "416",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "D",
+        "time": 10736,
+        "key": "417",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

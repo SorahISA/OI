@@ -1,0 +1,93 @@
+{
+    "A": {
+        "name": "\u7c3d\u5230\u984c (Registration)",
+        "short_name": "A",
+        "contest": "0x01",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (20)",
+            "Subtask 2 (50)",
+            "Subtask 3 (30)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "\u6c7a\u9b25 (Duel)",
+        "short_name": "B",
+        "contest": "0x01",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (23)",
+            "Subtask 2 (20)",
+            "Subtask 3 (16)",
+            "Subtask 4 (41)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "\u8702\u7aa9\u8ff7\u5716 (Hexagon)",
+        "short_name": "C",
+        "contest": "0x01",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (27)",
+            "Subtask 2 (9)",
+            "Subtask 3 (16)",
+            "Subtask 4 (48)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "\u5927\u6392\u9577\u9f8d (Lineup)",
+        "short_name": "D",
+        "contest": "0x01",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (9)",
+            "Subtask 2 (8)",
+            "Subtask 3 (35)",
+            "Subtask 4 (19)",
+            "Subtask 5 (29)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "\u9053\u8def\u5efa\u8a2d (Road)",
+        "short_name": "E",
+        "contest": "0x01",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (19)",
+            "Subtask 2 (6)",
+            "Subtask 3 (13)",
+            "Subtask 4 (41)",
+            "Subtask 5 (21)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F": {
+        "name": "\u71d2\u96de (Chicken)",
+        "short_name": "F",
+        "contest": "0x01",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (11)",
+            "Subtask 2 (29)",
+            "Subtask 3 (7)",
+            "Subtask 4 (53)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}

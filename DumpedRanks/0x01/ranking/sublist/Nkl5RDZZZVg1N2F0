@@ -1,0 +1,147 @@
+[
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "A",
+        "time": 329,
+        "key": "55",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "20",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "A",
+        "time": 433,
+        "key": "56",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "20",
+            "50",
+            "30"
+        ]
+    },
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "B",
+        "time": 1475,
+        "key": "57",
+        "token": false,
+        "score": 23.0,
+        "extra": [
+            "23",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "B",
+        "time": 1772,
+        "key": "58",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "23",
+            "20",
+            "16",
+            "41"
+        ]
+    },
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "D",
+        "time": 3816,
+        "key": "59",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "D",
+        "time": 4188,
+        "key": "60",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "D",
+        "time": 4937,
+        "key": "61",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "C",
+        "time": 9072,
+        "key": "64",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "D",
+        "time": 9082,
+        "key": "65",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Nkl5RDZZZVg1N2F0",
+        "task": "D",
+        "time": 9158,
+        "key": "66",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

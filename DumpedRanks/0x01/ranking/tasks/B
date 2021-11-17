@@ -1,0 +1,15 @@
+{
+    "name": "\u6c7a\u9b25 (Duel)",
+    "short_name": "B",
+    "contest": "0x01",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (23)",
+        "Subtask 2 (20)",
+        "Subtask 3 (16)",
+        "Subtask 4 (41)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

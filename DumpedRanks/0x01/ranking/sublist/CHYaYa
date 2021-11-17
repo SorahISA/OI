@@ -1,0 +1,160 @@
+[
+    {
+        "user": "CHYaYa",
+        "task": "B",
+        "time": 841,
+        "key": "358",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "23",
+            "20",
+            "16",
+            "41"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "A",
+        "time": 1002,
+        "key": "360",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "20",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "A",
+        "time": 1088,
+        "key": "361",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "20",
+            "50",
+            "30"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "D",
+        "time": 1735,
+        "key": "368",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "D",
+        "time": 2066,
+        "key": "369",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "9",
+            "8",
+            "35",
+            "19",
+            "29"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "C",
+        "time": 5804,
+        "key": "385",
+        "token": false,
+        "score": 16.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 6656,
+        "key": "388",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 7189,
+        "key": "391",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "E",
+        "time": 7437,
+        "key": "394",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "E",
+        "time": 7982,
+        "key": "397",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 9548,
+        "key": "406",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

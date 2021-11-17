@@ -1,0 +1,16 @@
+{
+    "name": "\u9053\u8def\u5efa\u8a2d (Road)",
+    "short_name": "E",
+    "contest": "0x01",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (19)",
+        "Subtask 2 (6)",
+        "Subtask 3 (13)",
+        "Subtask 4 (41)",
+        "Subtask 5 (21)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

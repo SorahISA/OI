@@ -1,0 +1,16 @@
+{
+    "name": "\u5927\u6392\u9577\u9f8d (Lineup)",
+    "short_name": "D",
+    "contest": "0x01",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (9)",
+        "Subtask 2 (8)",
+        "Subtask 3 (35)",
+        "Subtask 4 (19)",
+        "Subtask 5 (29)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
