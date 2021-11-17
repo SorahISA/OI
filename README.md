@@ -10,7 +10,7 @@ Actually not. Nothing is in here.
 - [0x01 -- 2020 花中一模 (Mirror)](https://sorahisa.github.io/OI/DumpedRanks/0x01/ranking/Ranking.html)
   - Contest Link: https://codeforces.com/group/GG44hyrVLY/contest/297533
 
-- [0x02 -- 2020 花中二模 (Mirror)](https://sorahisa.github.io/OI/0x00/Scoreboard/0x02/Ranking.html) *
+- [0x02 -- 2020 花中二模 (Mirror)](https://sorahisa.github.io/OI/DumpedRanks/0x02/ranking/Ranking.html)
   - Contest Link: https://codeforces.com/group/GG44hyrVLY/contest/298479
 
 - [0x03 -- 2020 花中三模 (Mirror)](https://sorahisa.github.io/OI/0x00/Scoreboard/0x03/Ranking.html) *
