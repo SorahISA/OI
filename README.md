@@ -7,7 +7,7 @@ Actually not. Nothing is in here.
 - [0x00 -- 2020 TOI Simulation](https://sorahisa.github.io/OI/DumpedRanks/0x00/ranking/Ranking.html)
   - Contest Link: https://codeforces.com/group/GG44hyrVLY/contest/271250
 
-- [0x01 -- 2020 花中一模 (Mirror)](https://sorahisa.github.io/OI/0x00/Scoreboard/0x01/Ranking.html) *
+- [0x01 -- 2020 花中一模 (Mirror)](https://sorahisa.github.io/OI/DumpedRanks/0x01/ranking/Ranking.html)
   - Contest Link: https://codeforces.com/group/GG44hyrVLY/contest/297533
 
 - [0x02 -- 2020 花中二模 (Mirror)](https://sorahisa.github.io/OI/0x00/Scoreboard/0x02/Ranking.html) *
