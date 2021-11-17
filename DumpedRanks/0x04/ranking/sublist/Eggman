@@ -1,0 +1,28 @@
+[
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 9713,
+        "key": "665",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 9794,
+        "key": "667",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    }
+]

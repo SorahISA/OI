@@ -1,0 +1,29 @@
+[
+    {
+        "user": "daniel071292",
+        "task": "A",
+        "time": 1983,
+        "key": "42",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "daniel071292",
+        "task": "E",
+        "time": 3899,
+        "key": "104",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

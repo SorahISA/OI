@@ -1,0 +1,236 @@
+[
+    {
+        "user": "chyenn",
+        "task": "A",
+        "time": 2259,
+        "key": "50",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "C",
+        "time": 3867,
+        "key": "102",
+        "token": false,
+        "score": 59.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "D",
+        "time": 4151,
+        "key": "111",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 4675,
+        "key": "131",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "A",
+        "time": 5299,
+        "key": "156",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "A",
+        "time": 6179,
+        "key": "193",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 6713,
+        "key": "218",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 7172,
+        "key": "232",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "B",
+        "time": 8120,
+        "key": "269",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 9161,
+        "key": "312",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 9353,
+        "key": "315",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 9396,
+        "key": "317",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 9425,
+        "key": "318",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 9677,
+        "key": "331",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 9805,
+        "key": "334",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 9827,
+        "key": "335",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chyenn",
+        "task": "E",
+        "time": 9913,
+        "key": "341",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

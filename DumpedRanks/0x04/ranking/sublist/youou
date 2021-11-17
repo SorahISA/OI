@@ -1,0 +1,71 @@
+[
+    {
+        "user": "youou",
+        "task": "A",
+        "time": 3282,
+        "key": "82",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "youou",
+        "task": "C",
+        "time": 5142,
+        "key": "149",
+        "token": false,
+        "score": 59.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "0"
+        ]
+    },
+    {
+        "user": "youou",
+        "task": "E",
+        "time": 6367,
+        "key": "202",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "youou",
+        "task": "E",
+        "time": 7448,
+        "key": "238",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "youou",
+        "task": "E",
+        "time": 8589,
+        "key": "289",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "user": "BrantWang",
+        "task": "A",
+        "time": 3253,
+        "key": "603",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "A",
+        "time": 3451,
+        "key": "604",
+        "token": false,
+        "score": 68.0,
+        "extra": [
+            "36",
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "A",
+        "time": 3594,
+        "key": "607",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "B",
+        "time": 5249,
+        "key": "611",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "B",
+        "time": 5397,
+        "key": "612",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    }
+]

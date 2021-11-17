@@ -1,0 +1,150 @@
+[
+    {
+        "user": "yan-jun",
+        "task": "A",
+        "time": 1246,
+        "key": "808",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "A",
+        "time": 1296,
+        "key": "809",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "A",
+        "time": 1358,
+        "key": "810",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "D",
+        "time": 3781,
+        "key": "811",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "D",
+        "time": 3920,
+        "key": "812",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "D",
+        "time": 4287,
+        "key": "813",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "D",
+        "time": 4641,
+        "key": "814",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "C",
+        "time": 6040,
+        "key": "815",
+        "token": false,
+        "score": 59.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "0"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "B",
+        "time": 8934,
+        "key": "816",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "B",
+        "time": 9044,
+        "key": "817",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yan-jun",
+        "task": "B",
+        "time": 9502,
+        "key": "818",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

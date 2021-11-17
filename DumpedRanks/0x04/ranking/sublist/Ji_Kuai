@@ -1,0 +1,112 @@
+[
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 2057,
+        "key": "44",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "B",
+        "time": 3658,
+        "key": "96",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 5099,
+        "key": "144",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 6207,
+        "key": "196",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 6536,
+        "key": "210",
+        "token": false,
+        "score": 34.0,
+        "extra": [
+            "18",
+            "0",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 6710,
+        "key": "217",
+        "token": false,
+        "score": 34.0,
+        "extra": [
+            "18",
+            "0",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "C",
+        "time": 9743,
+        "key": "333",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "E",
+        "time": 10549,
+        "key": "387",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

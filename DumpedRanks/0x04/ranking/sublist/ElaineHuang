@@ -1,0 +1,98 @@
+[
+    {
+        "user": "ElaineHuang",
+        "task": "E",
+        "time": 1344,
+        "key": "22",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "A",
+        "time": 2717,
+        "key": "66",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "B",
+        "time": 4602,
+        "key": "129",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "C",
+        "time": 5569,
+        "key": "164",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "D",
+        "time": 7283,
+        "key": "234",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "C",
+        "time": 9944,
+        "key": "345",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "C",
+        "time": 10238,
+        "key": "369",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    }
+]

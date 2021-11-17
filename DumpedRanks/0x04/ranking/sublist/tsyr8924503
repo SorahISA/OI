@@ -1,0 +1,140 @@
+[
+    {
+        "user": "tsyr8924503",
+        "task": "A",
+        "time": 899,
+        "key": "10",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "tsyr8924503",
+        "task": "B",
+        "time": 2392,
+        "key": "54",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "tsyr8924503",
+        "task": "C",
+        "time": 4922,
+        "key": "139",
+        "token": false,
+        "score": 59.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "0"
+        ]
+    },
+    {
+        "user": "tsyr8924503",
+        "task": "D",
+        "time": 6376,
+        "key": "203",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "tsyr8924503",
+        "task": "D",
+        "time": 6968,
+        "key": "223",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "tsyr8924503",
+        "task": "D",
+        "time": 7396,
+        "key": "237",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "tsyr8924503",
+        "task": "E",
+        "time": 8240,
+        "key": "274",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "tsyr8924503",
+        "task": "E",
+        "time": 9492,
+        "key": "321",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "tsyr8924503",
+        "task": "E",
+        "time": 9931,
+        "key": "343",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "tsyr8924503",
+        "task": "E",
+        "time": 10136,
+        "key": "361",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "12",
+            "21",
+            "38",
+            "0"
+        ]
+    }
+]

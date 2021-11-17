@@ -1,0 +1,210 @@
+[
+    {
+        "user": "yjojdkgk5bp",
+        "task": "A",
+        "time": 1697,
+        "key": "30",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "C",
+        "time": 3655,
+        "key": "95",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "C",
+        "time": 4361,
+        "key": "117",
+        "token": false,
+        "score": 59.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "D",
+        "time": 5212,
+        "key": "152",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "D",
+        "time": 5521,
+        "key": "162",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "D",
+        "time": 5605,
+        "key": "165",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "E",
+        "time": 6774,
+        "key": "220",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "E",
+        "time": 7218,
+        "key": "233",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "E",
+        "time": 7600,
+        "key": "245",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "E",
+        "time": 7783,
+        "key": "255",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "E",
+        "time": 7911,
+        "key": "260",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "E",
+        "time": 7950,
+        "key": "262",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "B",
+        "time": 9379,
+        "key": "316",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "D",
+        "time": 9958,
+        "key": "346",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yjojdkgk5bp",
+        "task": "D",
+        "time": 9990,
+        "key": "350",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

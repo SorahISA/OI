@@ -1,0 +1,15 @@
+{
+    "name": "\u5929\u4f7f\u5cf6\u5927\u5730\u4e3b\u8996\u5bdf\u4e8b\u4ef6 (Traverse)",
+    "short_name": "D",
+    "contest": "0x04",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (18)",
+        "Subtask 2 (19)",
+        "Subtask 3 (16)",
+        "Subtask 4 (47)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

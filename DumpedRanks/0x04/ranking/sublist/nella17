@@ -1,0 +1,97 @@
+[
+    {
+        "user": "nella17",
+        "task": "A",
+        "time": 1838,
+        "key": "34",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "nella17",
+        "task": "A",
+        "time": 1981,
+        "key": "41",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "nella17",
+        "task": "B",
+        "time": 6641,
+        "key": "214",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "nella17",
+        "task": "C",
+        "time": 8143,
+        "key": "270",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "nella17",
+        "task": "C",
+        "time": 8882,
+        "key": "299",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "nella17",
+        "task": "C",
+        "time": 9127,
+        "key": "309",
+        "token": false,
+        "score": 59.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "0"
+        ]
+    },
+    {
+        "user": "nella17",
+        "task": "D",
+        "time": 9914,
+        "key": "342",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

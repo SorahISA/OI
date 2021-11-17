@@ -1,0 +1,137 @@
+[
+    {
+        "user": "Amigos20",
+        "task": "A",
+        "time": 2441,
+        "key": "519",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Amigos20",
+        "task": "A",
+        "time": 3838,
+        "key": "521",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Amigos20",
+        "task": "A",
+        "time": 4140,
+        "key": "522",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Amigos20",
+        "task": "A",
+        "time": 4436,
+        "key": "523",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Amigos20",
+        "task": "A",
+        "time": 4916,
+        "key": "524",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "Amigos20",
+        "task": "D",
+        "time": 7985,
+        "key": "525",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Amigos20",
+        "task": "D",
+        "time": 9332,
+        "key": "526",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Amigos20",
+        "task": "D",
+        "time": 9417,
+        "key": "527",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Amigos20",
+        "task": "D",
+        "time": 9570,
+        "key": "528",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Amigos20",
+        "task": "D",
+        "time": 9751,
+        "key": "529",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

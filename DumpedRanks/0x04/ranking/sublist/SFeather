@@ -1,0 +1,80 @@
+[
+    {
+        "user": "SFeather",
+        "task": "A",
+        "time": 2814,
+        "key": "69",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "SFeather",
+        "task": "A",
+        "time": 3571,
+        "key": "92",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "SFeather",
+        "task": "A",
+        "time": 3734,
+        "key": "99",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "SFeather",
+        "task": "A",
+        "time": 4020,
+        "key": "105",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "SFeather",
+        "task": "A",
+        "time": 4047,
+        "key": "106",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "SFeather",
+        "task": "A",
+        "time": 4069,
+        "key": "107",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

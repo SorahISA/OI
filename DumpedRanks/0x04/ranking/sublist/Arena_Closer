@@ -1,0 +1,111 @@
+[
+    {
+        "user": "Arena_Closer",
+        "task": "A",
+        "time": 784,
+        "key": "6",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "Arena_Closer",
+        "task": "B",
+        "time": 2516,
+        "key": "60",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Arena_Closer",
+        "task": "B",
+        "time": 3600,
+        "key": "93",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    },
+    {
+        "user": "Arena_Closer",
+        "task": "C",
+        "time": 4339,
+        "key": "116",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Arena_Closer",
+        "task": "C",
+        "time": 4576,
+        "key": "127",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Arena_Closer",
+        "task": "E",
+        "time": 9625,
+        "key": "329",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Arena_Closer",
+        "task": "E",
+        "time": 10185,
+        "key": "365",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "12",
+            "21",
+            "38",
+            "0"
+        ]
+    },
+    {
+        "user": "Arena_Closer",
+        "task": "D",
+        "time": 10721,
+        "key": "396",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

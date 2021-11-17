@@ -1,0 +1,113 @@
+[
+    {
+        "user": "jeffreylin0909",
+        "task": "A",
+        "time": 1332,
+        "key": "21",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "C",
+        "time": 3302,
+        "key": "84",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "C",
+        "time": 4273,
+        "key": "113",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "C",
+        "time": 5019,
+        "key": "142",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "C",
+        "time": 5128,
+        "key": "148",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "C",
+        "time": 5242,
+        "key": "154",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "C",
+        "time": 5692,
+        "key": "169",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "41"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "D",
+        "time": 7561,
+        "key": "242",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

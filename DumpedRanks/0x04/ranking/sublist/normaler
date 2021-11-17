@@ -1,0 +1,126 @@
+[
+    {
+        "user": "normaler",
+        "task": "C",
+        "time": 4711,
+        "key": "781",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "normaler",
+        "task": "C",
+        "time": 5044,
+        "key": "783",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "normaler",
+        "task": "C",
+        "time": 5317,
+        "key": "784",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "normaler",
+        "task": "A",
+        "time": 7432,
+        "key": "786",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "normaler",
+        "task": "A",
+        "time": 8157,
+        "key": "788",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "normaler",
+        "task": "D",
+        "time": 9546,
+        "key": "790",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "normaler",
+        "task": "D",
+        "time": 9741,
+        "key": "791",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "normaler",
+        "task": "D",
+        "time": 10024,
+        "key": "792",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "normaler",
+        "task": "D",
+        "time": 10505,
+        "key": "793",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "user": "cmes31419",
+        "task": "A",
+        "time": 1601,
+        "key": "25",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "cmes31419",
+        "task": "B",
+        "time": 2622,
+        "key": "63",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "cmes31419",
+        "task": "D",
+        "time": 4369,
+        "key": "118",
+        "token": false,
+        "score": 16.0,
+        "extra": [
+            "0",
+            "0",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "cmes31419",
+        "task": "D",
+        "time": 4525,
+        "key": "123",
+        "token": false,
+        "score": 53.0,
+        "extra": [
+            "18",
+            "19",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "cmes31419",
+        "task": "C",
+        "time": 6888,
+        "key": "221",
+        "token": false,
+        "score": 59.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "0"
+        ]
+    },
+    {
+        "user": "cmes31419",
+        "task": "E",
+        "time": 10093,
+        "key": "357",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cmes31419",
+        "task": "E",
+        "time": 10303,
+        "key": "373",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cmes31419",
+        "task": "E",
+        "time": 10475,
+        "key": "380",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cmes31419",
+        "task": "D",
+        "time": 10724,
+        "key": "397",
+        "token": false,
+        "score": 53.0,
+        "extra": [
+            "18",
+            "19",
+            "16",
+            "0"
+        ]
+    }
+]

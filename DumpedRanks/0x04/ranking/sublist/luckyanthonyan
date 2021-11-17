@@ -1,0 +1,109 @@
+[
+    {
+        "user": "luckyanthonyan",
+        "task": "A",
+        "time": 2650,
+        "key": "685",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "luckyanthonyan",
+        "task": "A",
+        "time": 2772,
+        "key": "686",
+        "token": false,
+        "score": 68.0,
+        "extra": [
+            "36",
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "luckyanthonyan",
+        "task": "A",
+        "time": 3710,
+        "key": "688",
+        "token": false,
+        "score": 68.0,
+        "extra": [
+            "36",
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "luckyanthonyan",
+        "task": "A",
+        "time": 3943,
+        "key": "689",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "luckyanthonyan",
+        "task": "C",
+        "time": 4889,
+        "key": "693",
+        "token": false,
+        "score": 59.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "0"
+        ]
+    },
+    {
+        "user": "luckyanthonyan",
+        "task": "D",
+        "time": 6050,
+        "key": "695",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "luckyanthonyan",
+        "task": "D",
+        "time": 6732,
+        "key": "701",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "luckyanthonyan",
+        "task": "B",
+        "time": 7844,
+        "key": "703",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    }
+]

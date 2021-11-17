@@ -1,0 +1,56 @@
+[
+    {
+        "user": "fr1234",
+        "task": "A",
+        "time": 1524,
+        "key": "24",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "B",
+        "time": 2682,
+        "key": "65",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "D",
+        "time": 3686,
+        "key": "98",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "fr1234",
+        "task": "D",
+        "time": 4675,
+        "key": "132",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "18",
+            "19",
+            "16",
+            "47"
+        ]
+    }
+]

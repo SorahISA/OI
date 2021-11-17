@@ -1,0 +1,111 @@
+[
+    {
+        "user": "Seanliu",
+        "task": "A",
+        "time": 892,
+        "key": "8",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "Seanliu",
+        "task": "B",
+        "time": 7110,
+        "key": "227",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    },
+    {
+        "user": "Seanliu",
+        "task": "B",
+        "time": 7160,
+        "key": "231",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "Seanliu",
+        "task": "E",
+        "time": 7749,
+        "key": "253",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Seanliu",
+        "task": "E",
+        "time": 8642,
+        "key": "292",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Seanliu",
+        "task": "E",
+        "time": 8795,
+        "key": "296",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Seanliu",
+        "task": "C",
+        "time": 10738,
+        "key": "399",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Seanliu",
+        "task": "C",
+        "time": 10782,
+        "key": "402",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "41"
+        ]
+    }
+]

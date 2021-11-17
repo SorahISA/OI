@@ -1,0 +1,14 @@
+{
+    "name": "\u683c\u96f7\u78bc (Decode)",
+    "short_name": "A",
+    "contest": "0x04",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (36)",
+        "Subtask 2 (32)",
+        "Subtask 3 (32)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

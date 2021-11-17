@@ -1,0 +1,150 @@
+[
+    {
+        "user": "NP-H",
+        "task": "A",
+        "time": 1714,
+        "key": "31",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "A",
+        "time": 1729,
+        "key": "33",
+        "token": false,
+        "score": 68.0,
+        "extra": [
+            "36",
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "A",
+        "time": 1899,
+        "key": "36",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "E",
+        "time": 4413,
+        "key": "120",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "E",
+        "time": 4553,
+        "key": "125",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "E",
+        "time": 4664,
+        "key": "130",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "C",
+        "time": 6028,
+        "key": "187",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "B",
+        "time": 7848,
+        "key": "256",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "B",
+        "time": 8811,
+        "key": "297",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "B",
+        "time": 9603,
+        "key": "328",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    },
+    {
+        "user": "NP-H",
+        "task": "E",
+        "time": 9962,
+        "key": "347",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "user": "Fireball0424",
+        "task": "A",
+        "time": 1252,
+        "key": "720",
+        "token": false,
+        "score": 68.0,
+        "extra": [
+            "36",
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "A",
+        "time": 1531,
+        "key": "721",
+        "token": false,
+        "score": 68.0,
+        "extra": [
+            "36",
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "D",
+        "time": 2306,
+        "key": "722",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "E",
+        "time": 3289,
+        "key": "723",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "C",
+        "time": 4101,
+        "key": "724",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "B",
+        "time": 5314,
+        "key": "727",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "A",
+        "time": 5854,
+        "key": "728",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "B",
+        "time": 6817,
+        "key": "729",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "E",
+        "time": 8440,
+        "key": "731",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "E",
+        "time": 10343,
+        "key": "732",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "E",
+        "time": 10461,
+        "key": "733",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Fireball0424",
+        "task": "E",
+        "time": 10528,
+        "key": "734",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    }
+]

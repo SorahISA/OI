@@ -1,0 +1,154 @@
+[
+    {
+        "user": "casperwang",
+        "task": "A",
+        "time": 1073,
+        "key": "13",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "D",
+        "time": 1645,
+        "key": "27",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "D",
+        "time": 1724,
+        "key": "32",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "C",
+        "time": 4287,
+        "key": "114",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "41"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "B",
+        "time": 5000,
+        "key": "140",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "E",
+        "time": 6290,
+        "key": "200",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "E",
+        "time": 6559,
+        "key": "211",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "E",
+        "time": 7729,
+        "key": "251",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "12",
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "E",
+        "time": 9475,
+        "key": "320",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "12",
+            "21",
+            "38",
+            "0"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "E",
+        "time": 9535,
+        "key": "325",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "12",
+            "21",
+            "38",
+            "0"
+        ]
+    },
+    {
+        "user": "casperwang",
+        "task": "D",
+        "time": 10421,
+        "key": "378",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

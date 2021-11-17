@@ -1,0 +1,75 @@
+{
+    "A": {
+        "name": "\u683c\u96f7\u78bc (Decode)",
+        "short_name": "A",
+        "contest": "0x04",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (36)",
+            "Subtask 2 (32)",
+            "Subtask 3 (32)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "\u9ed1\u767d\u68cb\u8207\u76e3\u7981\u751f\u6d3b (Reversi)",
+        "short_name": "B",
+        "contest": "0x04",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (17)",
+            "Subtask 2 (52)",
+            "Subtask 3 (31)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "\u79cb\u6536\u842c\u9846\u5b50 (Polygon)",
+        "short_name": "C",
+        "contest": "0x04",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (10)",
+            "Subtask 2 (20)",
+            "Subtask 3 (29)",
+            "Subtask 4 (41)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "\u5929\u4f7f\u5cf6\u5927\u5730\u4e3b\u8996\u5bdf\u4e8b\u4ef6 (Traverse)",
+        "short_name": "D",
+        "contest": "0x04",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (18)",
+            "Subtask 2 (19)",
+            "Subtask 3 (16)",
+            "Subtask 4 (47)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "\u5c0f\u8ed2\u5c0f\u7fbd\u53d6\u77f3\u5b50 (Stone)",
+        "short_name": "E",
+        "contest": "0x04",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (12)",
+            "Subtask 2 (21)",
+            "Subtask 3 (38)",
+            "Subtask 4 (29)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}

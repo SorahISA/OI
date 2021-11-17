@@ -1,0 +1,83 @@
+[
+    {
+        "user": "YuiHuang",
+        "task": "A",
+        "time": 3139,
+        "key": "79",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "YuiHuang",
+        "task": "B",
+        "time": 5659,
+        "key": "167",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    },
+    {
+        "user": "YuiHuang",
+        "task": "B",
+        "time": 5925,
+        "key": "186",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "YuiHuang",
+        "task": "D",
+        "time": 7599,
+        "key": "244",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "YuiHuang",
+        "task": "C",
+        "time": 8303,
+        "key": "279",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "YuiHuang",
+        "task": "E",
+        "time": 10485,
+        "key": "381",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

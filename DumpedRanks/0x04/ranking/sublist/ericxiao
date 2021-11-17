@@ -1,0 +1,69 @@
+[
+    {
+        "user": "ericxiao",
+        "task": "A",
+        "time": 515,
+        "key": "0",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ericxiao",
+        "task": "A",
+        "time": 674,
+        "key": "3",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "ericxiao",
+        "task": "B",
+        "time": 2482,
+        "key": "57",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "ericxiao",
+        "task": "E",
+        "time": 8572,
+        "key": "287",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ericxiao",
+        "task": "E",
+        "time": 8639,
+        "key": "291",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

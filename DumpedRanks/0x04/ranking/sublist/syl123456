@@ -1,0 +1,126 @@
+[
+    {
+        "user": "syl123456",
+        "task": "A",
+        "time": 677,
+        "key": "601",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "syl123456",
+        "task": "B",
+        "time": 4848,
+        "key": "613",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "syl123456",
+        "task": "C",
+        "time": 8062,
+        "key": "622",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "syl123456",
+        "task": "C",
+        "time": 8314,
+        "key": "623",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "syl123456",
+        "task": "C",
+        "time": 8703,
+        "key": "625",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "syl123456",
+        "task": "C",
+        "time": 8786,
+        "key": "626",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "syl123456",
+        "task": "C",
+        "time": 9437,
+        "key": "627",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "syl123456",
+        "task": "C",
+        "time": 9588,
+        "key": "630",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "syl123456",
+        "task": "C",
+        "time": 9638,
+        "key": "631",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    }
+]

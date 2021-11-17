@@ -1,0 +1,41 @@
+[
+    {
+        "user": "ScottChou",
+        "task": "A",
+        "time": 4492,
+        "key": "608",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "A",
+        "time": 4763,
+        "key": "609",
+        "token": false,
+        "score": 36.0,
+        "extra": [
+            "36",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "A",
+        "time": 5737,
+        "key": "614",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "name": "\u79cb\u6536\u842c\u9846\u5b50 (Polygon)",
+    "short_name": "C",
+    "contest": "0x04",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (10)",
+        "Subtask 2 (20)",
+        "Subtask 3 (29)",
+        "Subtask 4 (41)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,0 +1,14 @@
+{
+    "name": "\u9ed1\u767d\u68cb\u8207\u76e3\u7981\u751f\u6d3b (Reversi)",
+    "short_name": "B",
+    "contest": "0x04",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (17)",
+        "Subtask 2 (52)",
+        "Subtask 3 (31)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

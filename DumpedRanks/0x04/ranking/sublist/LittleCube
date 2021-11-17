@@ -1,0 +1,387 @@
+[
+    {
+        "user": "LittleCube",
+        "task": "A",
+        "time": 1100,
+        "key": "426",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "A",
+        "time": 1411,
+        "key": "432",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "B",
+        "time": 3498,
+        "key": "447",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "B",
+        "time": 4197,
+        "key": "448",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 4604,
+        "key": "449",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 4691,
+        "key": "450",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 5062,
+        "key": "454",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "D",
+        "time": 5641,
+        "key": "457",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "B",
+        "time": 5861,
+        "key": "458",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "B",
+        "time": 6019,
+        "key": "460",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "17",
+            "52",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "B",
+        "time": 6235,
+        "key": "462",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "D",
+        "time": 6355,
+        "key": "463",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 6489,
+        "key": "464",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 6747,
+        "key": "465",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "D",
+        "time": 8088,
+        "key": "467",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "D",
+        "time": 8306,
+        "key": "468",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 8584,
+        "key": "469",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 8826,
+        "key": "470",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "D",
+        "time": 8838,
+        "key": "471",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "D",
+        "time": 9052,
+        "key": "472",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 9061,
+        "key": "473",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "E",
+        "time": 9680,
+        "key": "474",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 9982,
+        "key": "475",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "D",
+        "time": 10119,
+        "key": "476",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "E",
+        "time": 10276,
+        "key": "477",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 10308,
+        "key": "478",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 10584,
+        "key": "479",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LittleCube",
+        "task": "C",
+        "time": 10717,
+        "key": "480",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    }
+]

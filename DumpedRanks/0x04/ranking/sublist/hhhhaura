@@ -1,0 +1,154 @@
+[
+    {
+        "user": "hhhhaura",
+        "task": "A",
+        "time": 1908,
+        "key": "37",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "C",
+        "time": 3615,
+        "key": "94",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "B",
+        "time": 5256,
+        "key": "155",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "17",
+            "52",
+            "31"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "E",
+        "time": 7984,
+        "key": "263",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "D",
+        "time": 8311,
+        "key": "280",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "E",
+        "time": 8579,
+        "key": "288",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "E",
+        "time": 8715,
+        "key": "294",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "D",
+        "time": 9729,
+        "key": "332",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "D",
+        "time": 10128,
+        "key": "359",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "C",
+        "time": 10387,
+        "key": "377",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "hhhhaura",
+        "task": "C",
+        "time": 10710,
+        "key": "395",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "10",
+            "20",
+            "0",
+            "0"
+        ]
+    }
+]

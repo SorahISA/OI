@@ -1,0 +1,57 @@
+[
+    {
+        "user": "sam571128",
+        "task": "A",
+        "time": 1244,
+        "key": "20",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "36",
+            "32",
+            "32"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "C",
+        "time": 2026,
+        "key": "43",
+        "token": false,
+        "score": 59.0,
+        "extra": [
+            "10",
+            "20",
+            "29",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "D",
+        "time": 3470,
+        "key": "88",
+        "token": false,
+        "score": 18.0,
+        "extra": [
+            "18",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "E",
+        "time": 4591,
+        "key": "128",
+        "token": false,
+        "score": 12.0,
+        "extra": [
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]
