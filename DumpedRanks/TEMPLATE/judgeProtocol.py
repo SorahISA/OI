@@ -44,8 +44,10 @@ def get_all_contestants(contestId):
     sub_id = {}
     for i, sub in enumerate(all_subs):
         # print(sub)
-        if (sub['author']['participantType'] == 'CONTESTANT'):
+        if (sub['author']['participantType'] in ['CONTESTANT', 'VIRTUAL']):
             name = sub['author']['members'][0]['handle']
+            if (sub['author']['participantType'] in ['VIRTUAL']):
+                name = '[virtual] ' + name
             sub_id.setdefault(name, [])
             sub_id[name].append([sub['problem']['index'], sub['id'], sub['relativeTimeSeconds'], i])
     
@@ -74,43 +76,6 @@ def process_subtask(s):
         posR = s.find(' ', posL)
         subtasks.append(float(s[posL:posR]))
     return subtasks
-
-def f_history(contestants):
-    
-    history = []
-    for key in contestants:
-        score = {}
-        for x in contestants[key]:
-            if (len(x) != 5):
-                continue
-            score.setdefault(x[0], [0] * len(x[4]))
-            flag_inc = False
-            for i, val in enumerate(x[4]):
-                if (val > score[x[0]][i]):
-                    score[x[0]][i] = val
-                    flag_inc = True
-            if (flag_inc):
-                history.append([key, x[0], x[2], sum(score[x[0]])])
-    
-    history.sort(key = lambda sub : sub[2])
-    
-    with open('ranking/history', 'w') as f:
-        json.dump(history, f, indent = 4)
-    
-    return history
-
-def f_scores(history):
-    
-    scores = {}
-    for sub in history:
-        scores.setdefault(sub[0], {})
-        scores[sub[0]].setdefault(sub[1], sub[3])
-        scores[sub[0]][sub[1]] = max(scores[sub[0]][sub[1]], sub[3])
-    
-    with open('ranking/scores', 'w') as f:
-        json.dump(scores, f, indent = 4)
-    
-    return scores
 
 def f_contests():
     
@@ -183,6 +148,49 @@ def f_users(contestants):
         json.dump(users, f, indent = 4)
     
     return users
+
+def f_history(contestants, tasks):
+    
+    history = []
+    for key in contestants:
+        score = {}
+        for x in contestants[key]:
+            if (len(x) != 5):
+                continue
+            if (tasks[x[0]]['score_mode'] == 'max_subtask'):
+                score.setdefault(x[0], [0] * len(x[4]))
+                flag_inc = False
+                for i, val in enumerate(x[4]):
+                    if (val > score[x[0]][i]):
+                        score[x[0]][i] = val
+                        flag_inc = True
+                if (flag_inc):
+                    history.append([key, x[0], x[2], sum(score[x[0]])])
+            elif (tasks[x[0]]['score_mode'] == 'max'):
+                score.setdefault(x[0], 0)
+                if (sum(x[4]) > score[x[0]]):
+                    score[x[0]] = sum(x[4]);
+                    history.append([key, x[0], x[2], score[x[0]]])
+    
+    history.sort(key = lambda sub : sub[2])
+    
+    with open('ranking/history', 'w') as f:
+        json.dump(history, f, indent = 4)
+    
+    return history
+
+def f_scores(history):
+    
+    scores = {}
+    for sub in history:
+        scores.setdefault(sub[0], {})
+        scores[sub[0]].setdefault(sub[1], sub[3])
+        scores[sub[0]][sub[1]] = max(scores[sub[0]][sub[1]], sub[3])
+    
+    with open('ranking/scores', 'w') as f:
+        json.dump(scores, f, indent = 4)
+    
+    return scores
 
 def f_subchanges(contestants, tasks):
     
@@ -296,12 +304,12 @@ def main_func():
     except OSError as error:
         print("Directory 'ranking' already created")
     
-    history     = f_history(contestants)
-    scores      = f_scores(history)
     contests    = f_contests()
     tasks       = f_tasks()
     teams       = f_teams()
     users       = f_users(contestants)
+    history     = f_history(contestants, tasks)
+    scores      = f_scores(history)
     subchanges  = f_subchanges(contestants, tasks)
     sublists    = f_sublist(contestants, tasks)
     submissions = f_submissions(contestants)
