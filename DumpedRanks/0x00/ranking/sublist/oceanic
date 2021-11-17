@@ -1,0 +1,62 @@
+[
+    {
+        "user": "oceanic",
+        "task": "A",
+        "time": 4467,
+        "key": "43",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanic",
+        "task": "A",
+        "time": 4629,
+        "key": "46",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanic",
+        "task": "A",
+        "time": 5270,
+        "key": "57",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanic",
+        "task": "A",
+        "time": 7630,
+        "key": "95",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

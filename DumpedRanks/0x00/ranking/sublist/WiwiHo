@@ -1,0 +1,32 @@
+[
+    {
+        "user": "WiwiHo",
+        "task": "A",
+        "time": 353,
+        "key": "0",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "20",
+            "20",
+            "41",
+            "19"
+        ]
+    },
+    {
+        "user": "WiwiHo",
+        "task": "C",
+        "time": 2420,
+        "key": "15",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "0",
+            "10",
+            "0",
+            "20",
+            "0"
+        ]
+    }
+]

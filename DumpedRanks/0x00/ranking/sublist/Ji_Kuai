@@ -1,0 +1,326 @@
+[
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 1720,
+        "key": "9",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "0",
+            "20",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 3113,
+        "key": "17",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 3247,
+        "key": "20",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 3683,
+        "key": "29",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 3794,
+        "key": "31",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 3950,
+        "key": "34",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 3993,
+        "key": "36",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 4267,
+        "key": "39",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 4413,
+        "key": "42",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 4714,
+        "key": "47",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 6979,
+        "key": "82",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 7005,
+        "key": "84",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 7046,
+        "key": "85",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 7089,
+        "key": "87",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 7321,
+        "key": "91",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 7696,
+        "key": "98",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 8890,
+        "key": "111",
+        "token": false,
+        "score": 81.0,
+        "extra": [
+            "0",
+            "20",
+            "20",
+            "41",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 8975,
+        "key": "112",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 9031,
+        "key": "114",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "0",
+            "20",
+            "20",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 9134,
+        "key": "117",
+        "token": false,
+        "score": 81.0,
+        "extra": [
+            "0",
+            "20",
+            "20",
+            "41",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "E",
+        "time": 10689,
+        "key": "137",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

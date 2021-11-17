@@ -1,0 +1,348 @@
+[
+    {
+        "user": "DoIudu123",
+        "task": "A",
+        "time": 729,
+        "key": "408",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "0",
+            "20",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "A",
+        "time": 828,
+        "key": "410",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "20",
+            "20",
+            "41",
+            "19"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "C",
+        "time": 1466,
+        "key": "411",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "0",
+            "10",
+            "0",
+            "20",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "C",
+        "time": 1657,
+        "key": "412",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "0",
+            "10",
+            "0",
+            "20",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "C",
+        "time": 1800,
+        "key": "413",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "0",
+            "10",
+            "0",
+            "20",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "B",
+        "time": 2216,
+        "key": "417",
+        "token": false,
+        "score": 62.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "34",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "B",
+        "time": 3865,
+        "key": "425",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "B",
+        "time": 4963,
+        "key": "427",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "0",
+            "13",
+            "0",
+            "19",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "B",
+        "time": 5290,
+        "key": "429",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "19",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "B",
+        "time": 5403,
+        "key": "431",
+        "token": false,
+        "score": 81.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "19",
+            "34",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "C",
+        "time": 5956,
+        "key": "434",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "0",
+            "10",
+            "0",
+            "20",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "C",
+        "time": 6084,
+        "key": "435",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "20",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "C",
+        "time": 6733,
+        "key": "437",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "C",
+        "time": 7607,
+        "key": "438",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "20",
+            "55"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "D",
+        "time": 7837,
+        "key": "440",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "D",
+        "time": 8309,
+        "key": "442",
+        "token": false,
+        "score": 11.0,
+        "extra": [
+            "0",
+            "11",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "B",
+        "time": 8412,
+        "key": "443",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "D",
+        "time": 8518,
+        "key": "444",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "D",
+        "time": 8902,
+        "key": "446",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "33",
+            "17",
+            "17"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "E",
+        "time": 9573,
+        "key": "451",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "0",
+            "19",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "E",
+        "time": 9926,
+        "key": "453",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "0",
+            "19",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DoIudu123",
+        "task": "E",
+        "time": 10078,
+        "key": "455",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "0",
+            "19",
+            "0",
+            "0"
+        ]
+    }
+]

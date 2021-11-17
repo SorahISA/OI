@@ -1,0 +1,146 @@
+[
+    {
+        "user": "ElaineHuang",
+        "task": "B",
+        "time": 1124,
+        "key": "243",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "B",
+        "time": 1605,
+        "key": "245",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "D",
+        "time": 7820,
+        "key": "250",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "C",
+        "time": 8748,
+        "key": "251",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "C",
+        "time": 8847,
+        "key": "253",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "C",
+        "time": 8948,
+        "key": "254",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "C",
+        "time": 9005,
+        "key": "255",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "B",
+        "time": 9758,
+        "key": "257",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "19",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ElaineHuang",
+        "task": "B",
+        "time": 9849,
+        "key": "258",
+        "token": false,
+        "score": 47.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "19",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

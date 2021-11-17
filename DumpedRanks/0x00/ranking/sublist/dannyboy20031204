@@ -1,0 +1,246 @@
+[
+    {
+        "user": "dannyboy20031204",
+        "task": "A",
+        "time": 970,
+        "key": "407",
+        "token": false,
+        "score": 81.0,
+        "extra": [
+            "0",
+            "20",
+            "20",
+            "41",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "A",
+        "time": 1059,
+        "key": "409",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "20",
+            "20",
+            "41",
+            "19"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "B",
+        "time": 2371,
+        "key": "415",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "B",
+        "time": 2451,
+        "key": "416",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "B",
+        "time": 2719,
+        "key": "420",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "B",
+        "time": 3395,
+        "key": "423",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "B",
+        "time": 3966,
+        "key": "424",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "D",
+        "time": 5625,
+        "key": "430",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "33",
+            "17",
+            "17"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "B",
+        "time": 5830,
+        "key": "432",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "B",
+        "time": 6003,
+        "key": "433",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "B",
+        "time": 8036,
+        "key": "439",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "B",
+        "time": 8190,
+        "key": "441",
+        "token": false,
+        "score": 47.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "19",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "C",
+        "time": 9726,
+        "key": "449",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "C",
+        "time": 9912,
+        "key": "452",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dannyboy20031204",
+        "task": "C",
+        "time": 10689,
+        "key": "457",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    }
+]

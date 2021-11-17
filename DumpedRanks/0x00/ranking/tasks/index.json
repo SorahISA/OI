@@ -1,0 +1,85 @@
+{
+    "A": {
+        "name": "\u7f8e\u9e97\u5b50\u5716 (Beautiful Subgraph)",
+        "short_name": "A",
+        "contest": "0x00",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (20)",
+            "Subtask 3 (20)",
+            "Subtask 4 (41)",
+            "Subtask 5 (19)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "\u55b5\u55b5\u6cb3\u5167\u5854 (Meow Meow Hanoi)",
+        "short_name": "B",
+        "contest": "0x00",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (13)",
+            "Subtask 3 (15)",
+            "Subtask 4 (19)",
+            "Subtask 5 (34)",
+            "Subtask 6 (12)",
+            "Subtask 7 (7)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "\u9084\u8a18\u5f97\u524d\u5e74\u5165\u71df\u8003\u7684\u7b2c\u4e09\u984c\u55ce (Fibonacci Plus Plus)",
+        "short_name": "C",
+        "contest": "0x00",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (10)",
+            "Subtask 3 (15)",
+            "Subtask 4 (20)",
+            "Subtask 5 (55)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "\u9019\u597d\u50cf\u662f\u6703\u5feb\u901f\u4e0a\u5347\u7684\u96f2\u9704\u98db\u8eca\u5462 (Roller Coaster Progression)",
+        "short_name": "D",
+        "contest": "0x00",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (11)",
+            "Subtask 3 (22)",
+            "Subtask 4 (33)",
+            "Subtask 5 (17)",
+            "Subtask 6 (17)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "\u75ab\u5340\u8cd1\u707d\u5c0f\u5e6b\u624b feat. \u50b3\u8aaa\u4e2d\u7684\u50b3\u9001\u9663 (Utopia)",
+        "short_name": "E",
+        "contest": "0x00",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (9)",
+            "Subtask 3 (19)",
+            "Subtask 4 (23)",
+            "Subtask 5 (49)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}

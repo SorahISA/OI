@@ -1,0 +1,17 @@
+{
+    "name": "\u9019\u597d\u50cf\u662f\u6703\u5feb\u901f\u4e0a\u5347\u7684\u96f2\u9704\u98db\u8eca\u5462 (Roller Coaster Progression)",
+    "short_name": "D",
+    "contest": "0x00",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (11)",
+        "Subtask 3 (22)",
+        "Subtask 4 (33)",
+        "Subtask 5 (17)",
+        "Subtask 6 (17)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

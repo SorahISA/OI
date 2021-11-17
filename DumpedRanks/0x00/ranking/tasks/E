@@ -1,0 +1,16 @@
+{
+    "name": "\u75ab\u5340\u8cd1\u707d\u5c0f\u5e6b\u624b feat. \u50b3\u8aaa\u4e2d\u7684\u50b3\u9001\u9663 (Utopia)",
+    "short_name": "E",
+    "contest": "0x00",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (9)",
+        "Subtask 3 (19)",
+        "Subtask 4 (23)",
+        "Subtask 5 (49)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

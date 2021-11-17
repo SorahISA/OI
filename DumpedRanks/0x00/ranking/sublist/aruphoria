@@ -1,0 +1,109 @@
+[
+    {
+        "user": "aruphoria",
+        "task": "A",
+        "time": 904,
+        "key": "2",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "0",
+            "20",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "aruphoria",
+        "task": "B",
+        "time": 5010,
+        "key": "49",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "aruphoria",
+        "task": "C",
+        "time": 5799,
+        "key": "63",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "aruphoria",
+        "task": "C",
+        "time": 5927,
+        "key": "66",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "aruphoria",
+        "task": "C",
+        "time": 6042,
+        "key": "71",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "aruphoria",
+        "task": "E",
+        "time": 8487,
+        "key": "106",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "aruphoria",
+        "task": "E",
+        "time": 10429,
+        "key": "132",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "0",
+            "19",
+            "0",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,448 @@
+[
+    {
+        "user": "enip",
+        "task": "A",
+        "time": 2137,
+        "key": "12",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "A",
+        "time": 2193,
+        "key": "13",
+        "token": false,
+        "score": 81.0,
+        "extra": [
+            "0",
+            "20",
+            "20",
+            "41",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "A",
+        "time": 2244,
+        "key": "14",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "20",
+            "20",
+            "41",
+            "19"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 2758,
+        "key": "16",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 3145,
+        "key": "18",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 3580,
+        "key": "26",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 4024,
+        "key": "37",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "C",
+        "time": 4512,
+        "key": "44",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "D",
+        "time": 5578,
+        "key": "60",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "E",
+        "time": 6179,
+        "key": "72",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "0",
+            "19",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "D",
+        "time": 6774,
+        "key": "80",
+        "token": false,
+        "score": 33.0,
+        "extra": [
+            "0",
+            "11",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "C",
+        "time": 7281,
+        "key": "90",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "C",
+        "time": 7381,
+        "key": "92",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "C",
+        "time": 7459,
+        "key": "94",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "C",
+        "time": 7812,
+        "key": "100",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 8518,
+        "key": "107",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 8619,
+        "key": "109",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 9071,
+        "key": "115",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 9296,
+        "key": "119",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 9404,
+        "key": "120",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 9596,
+        "key": "122",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 9635,
+        "key": "123",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "B",
+        "time": 9861,
+        "key": "127",
+        "token": false,
+        "score": 47.0,
+        "extra": [
+            "0",
+            "13",
+            "15",
+            "19",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "E",
+        "time": 10420,
+        "key": "131",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "0",
+            "19",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "C",
+        "time": 10598,
+        "key": "134",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "C",
+        "time": 10698,
+        "key": "138",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "C",
+        "time": 10742,
+        "key": "139",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "enip",
+        "task": "C",
+        "time": 10789,
+        "key": "140",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "10",
+            "15",
+            "0",
+            "0"
+        ]
+    }
+]

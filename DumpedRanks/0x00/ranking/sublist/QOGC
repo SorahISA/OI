@@ -1,0 +1,62 @@
+[
+    {
+        "user": "QOGC",
+        "task": "A",
+        "time": 3178,
+        "key": "19",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "QOGC",
+        "task": "A",
+        "time": 3272,
+        "key": "21",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "QOGC",
+        "task": "A",
+        "time": 3618,
+        "key": "28",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "QOGC",
+        "task": "A",
+        "time": 5729,
+        "key": "62",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

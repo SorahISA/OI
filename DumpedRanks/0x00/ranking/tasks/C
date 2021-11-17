@@ -1,0 +1,16 @@
+{
+    "name": "\u9084\u8a18\u5f97\u524d\u5e74\u5165\u71df\u8003\u7684\u7b2c\u4e09\u984c\u55ce (Fibonacci Plus Plus)",
+    "short_name": "C",
+    "contest": "0x00",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (10)",
+        "Subtask 3 (15)",
+        "Subtask 4 (20)",
+        "Subtask 5 (55)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "user": "TingTan",
+        "task": "B",
+        "time": 3334,
+        "key": "23",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "TingTan",
+        "task": "B",
+        "time": 3393,
+        "key": "25",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]
