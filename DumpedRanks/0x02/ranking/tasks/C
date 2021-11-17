@@ -1,0 +1,16 @@
+{
+    "name": "\u6253\u5de5 (Work)",
+    "short_name": "C",
+    "contest": "0x02",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (6)",
+        "Subtask 2 (11)",
+        "Subtask 3 (40)",
+        "Subtask 4 (15)",
+        "Subtask 5 (28)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

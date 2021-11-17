@@ -1,0 +1,166 @@
+[
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 2882,
+        "key": "212",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 3146,
+        "key": "214",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "G",
+        "time": 7530,
+        "key": "231",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "G",
+        "time": 7676,
+        "key": "233",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "G",
+        "time": 7753,
+        "key": "235",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "G",
+        "time": 7884,
+        "key": "237",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "E",
+        "time": 8318,
+        "key": "240",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 8648,
+        "key": "242",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 8747,
+        "key": "243",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 8894,
+        "key": "245",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 9724,
+        "key": "257",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 9781,
+        "key": "258",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "30"
+        ]
+    }
+]

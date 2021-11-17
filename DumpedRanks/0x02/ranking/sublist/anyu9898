@@ -1,0 +1,87 @@
+[
+    {
+        "user": "anyu9898",
+        "task": "A",
+        "time": 1266,
+        "key": "326",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "30"
+        ]
+    },
+    {
+        "user": "anyu9898",
+        "task": "G",
+        "time": 3110,
+        "key": "333",
+        "token": false,
+        "score": 35.0,
+        "extra": [
+            "10",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "anyu9898",
+        "task": "G",
+        "time": 3223,
+        "key": "335",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "anyu9898",
+        "task": "C",
+        "time": 4810,
+        "key": "340",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "anyu9898",
+        "task": "C",
+        "time": 5846,
+        "key": "341",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "anyu9898",
+        "task": "C",
+        "time": 10364,
+        "key": "365",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "6",
+            "11",
+            "40",
+            "15",
+            "28"
+        ]
+    }
+]

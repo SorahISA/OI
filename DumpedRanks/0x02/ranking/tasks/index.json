@@ -1,0 +1,113 @@
+{
+    "A": {
+        "name": "\u7af6\u6a19 (Bidding)",
+        "short_name": "A",
+        "contest": "0x02",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (10)",
+            "Subtask 2 (20)",
+            "Subtask 3 (40)",
+            "Subtask 4 (30)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "\u756b\u4f5c\u9451\u5b9a (Art)",
+        "short_name": "B",
+        "contest": "0x02",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (28)",
+            "Subtask 2 (25)",
+            "Subtask 3 (47)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "\u6253\u5de5 (Work)",
+        "short_name": "C",
+        "contest": "0x02",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (6)",
+            "Subtask 2 (11)",
+            "Subtask 3 (40)",
+            "Subtask 4 (15)",
+            "Subtask 5 (28)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "\u6cb3\u5167\u5854 (Hanoi)",
+        "short_name": "D",
+        "contest": "0x02",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (5)",
+            "Subtask 2 (5)",
+            "Subtask 3 (8)",
+            "Subtask 4 (8)",
+            "Subtask 5 (12)",
+            "Subtask 6 (12)",
+            "Subtask 7 (15)",
+            "Subtask 8 (15)",
+            "Subtask 9 (20)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 2
+    },
+    "E": {
+        "name": "\u5c0f\u5929\u4f7f (Angel)",
+        "short_name": "E",
+        "contest": "0x02",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (11)",
+            "Subtask 2 (48)",
+            "Subtask 3 (20)",
+            "Subtask 4 (21)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F": {
+        "name": "\u5857\u9d09\u8df3\u8e8d (Jump)",
+        "short_name": "F",
+        "contest": "0x02",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (22)",
+            "Subtask 2 (13)",
+            "Subtask 3 (7)",
+            "Subtask 4 (11)",
+            "Subtask 5 (35)",
+            "Subtask 6 (12)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "G": {
+        "name": "\u7c3d\u5230\u984c\u4e4b\u4e8c (Registration2)",
+        "short_name": "G",
+        "contest": "0x02",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (10)",
+            "Subtask 2 (25)",
+            "Subtask 3 (65)"
+        ],
+        "order": 6,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}

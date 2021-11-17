@@ -1,0 +1,271 @@
+[
+    {
+        "user": "mieh_pu",
+        "task": "A",
+        "time": 1513,
+        "key": "209",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "G",
+        "time": 2992,
+        "key": "213",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "F",
+        "time": 7104,
+        "key": "227",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "22",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "F",
+        "time": 7224,
+        "key": "229",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "22",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "F",
+        "time": 7322,
+        "key": "230",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "22",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "G",
+        "time": 7668,
+        "key": "232",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "G",
+        "time": 7699,
+        "key": "234",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "F",
+        "time": 7923,
+        "key": "238",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "G",
+        "time": 7934,
+        "key": "239",
+        "token": false,
+        "score": 35.0,
+        "extra": [
+            "10",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "G",
+        "time": 8927,
+        "key": "247",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "G",
+        "time": 8990,
+        "key": "248",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "G",
+        "time": 9189,
+        "key": "250",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "G",
+        "time": 9303,
+        "key": "251",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "G",
+        "time": 9539,
+        "key": "254",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "F",
+        "time": 9699,
+        "key": "256",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "F",
+        "time": 9807,
+        "key": "259",
+        "token": false,
+        "score": 35.0,
+        "extra": [
+            "22",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "E",
+        "time": 10236,
+        "key": "261",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "E",
+        "time": 10289,
+        "key": "262",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "mieh_pu",
+        "task": "E",
+        "time": 10769,
+        "key": "265",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

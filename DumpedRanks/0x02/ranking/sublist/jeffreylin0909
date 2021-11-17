@@ -1,0 +1,134 @@
+[
+    {
+        "user": "jeffreylin0909",
+        "task": "A",
+        "time": 814,
+        "key": "208",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "30"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "C",
+        "time": 3355,
+        "key": "215",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "6",
+            "11",
+            "40",
+            "15",
+            "28"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "F",
+        "time": 5351,
+        "key": "220",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "22",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "G",
+        "time": 6192,
+        "key": "221",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "F",
+        "time": 6338,
+        "key": "222",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "22",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "F",
+        "time": 6558,
+        "key": "224",
+        "token": false,
+        "score": 35.0,
+        "extra": [
+            "22",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "F",
+        "time": 6740,
+        "key": "225",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "22",
+            "13",
+            "7",
+            "11",
+            "35",
+            "12"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "B",
+        "time": 8796,
+        "key": "244",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "28",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jeffreylin0909",
+        "task": "B",
+        "time": 9349,
+        "key": "252",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "28",
+            "0",
+            "0"
+        ]
+    }
+]

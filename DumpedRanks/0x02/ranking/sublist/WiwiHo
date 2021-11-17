@@ -1,0 +1,59 @@
+[
+    {
+        "user": "WiwiHo",
+        "task": "G",
+        "time": 1698,
+        "key": "5",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "WiwiHo",
+        "task": "F",
+        "time": 2324,
+        "key": "10",
+        "token": false,
+        "score": 42.0,
+        "extra": [
+            "22",
+            "13",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "WiwiHo",
+        "task": "C",
+        "time": 2874,
+        "key": "11",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "0",
+            "0",
+            "40",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "WiwiHo",
+        "task": "B",
+        "time": 4042,
+        "key": "20",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "28",
+            "25",
+            "47"
+        ]
+    }
+]

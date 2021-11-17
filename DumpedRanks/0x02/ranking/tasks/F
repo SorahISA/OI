@@ -1,0 +1,17 @@
+{
+    "name": "\u5857\u9d09\u8df3\u8e8d (Jump)",
+    "short_name": "F",
+    "contest": "0x02",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (22)",
+        "Subtask 2 (13)",
+        "Subtask 3 (7)",
+        "Subtask 4 (11)",
+        "Subtask 5 (35)",
+        "Subtask 6 (12)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

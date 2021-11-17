@@ -1,0 +1,128 @@
+[
+    {
+        "user": "Sha_man",
+        "task": "A",
+        "time": 1269,
+        "key": "329",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "30"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "G",
+        "time": 1764,
+        "key": "331",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "G",
+        "time": 1817,
+        "key": "332",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "G",
+        "time": 2528,
+        "key": "338",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "C",
+        "time": 5945,
+        "key": "347",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "6",
+            "11",
+            "40",
+            "15",
+            "28"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "F",
+        "time": 6668,
+        "key": "351",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "0",
+            "0",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "F",
+        "time": 6749,
+        "key": "352",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "B",
+        "time": 9268,
+        "key": "366",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "28",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Sha_man",
+        "task": "B",
+        "time": 10096,
+        "key": "368",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "28",
+            "0",
+            "0"
+        ]
+    }
+]

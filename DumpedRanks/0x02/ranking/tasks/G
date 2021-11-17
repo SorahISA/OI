@@ -1,0 +1,14 @@
+{
+    "name": "\u7c3d\u5230\u984c\u4e4b\u4e8c (Registration2)",
+    "short_name": "G",
+    "contest": "0x02",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (10)",
+        "Subtask 2 (25)",
+        "Subtask 3 (65)"
+    ],
+    "order": 6,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

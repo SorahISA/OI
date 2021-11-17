@@ -1,0 +1,336 @@
+[
+    {
+        "user": "CHYaYa",
+        "task": "A",
+        "time": 355,
+        "key": "323",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "A",
+        "time": 749,
+        "key": "324",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "30"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "C",
+        "time": 2416,
+        "key": "328",
+        "token": false,
+        "score": 66.0,
+        "extra": [
+            "0",
+            "11",
+            "40",
+            "15",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "C",
+        "time": 2923,
+        "key": "330",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "6",
+            "11",
+            "40",
+            "15",
+            "28"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "G",
+        "time": 3613,
+        "key": "337",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 4766,
+        "key": "339",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 6134,
+        "key": "342",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "22",
+            "0",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 6279,
+        "key": "343",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "22",
+            "0",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 6406,
+        "key": "344",
+        "token": false,
+        "score": 42.0,
+        "extra": [
+            "22",
+            "13",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 6774,
+        "key": "345",
+        "token": false,
+        "score": 35.0,
+        "extra": [
+            "22",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 6826,
+        "key": "346",
+        "token": false,
+        "score": 42.0,
+        "extra": [
+            "22",
+            "13",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "B",
+        "time": 7783,
+        "key": "348",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "B",
+        "time": 7852,
+        "key": "350",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "B",
+        "time": 8155,
+        "key": "353",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "28",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 8678,
+        "key": "355",
+        "token": false,
+        "score": 42.0,
+        "extra": [
+            "22",
+            "13",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 8829,
+        "key": "356",
+        "token": false,
+        "score": 42.0,
+        "extra": [
+            "22",
+            "13",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 8912,
+        "key": "357",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "22",
+            "0",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 9031,
+        "key": "358",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 9078,
+        "key": "359",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 9114,
+        "key": "360",
+        "token": false,
+        "score": 42.0,
+        "extra": [
+            "22",
+            "13",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 9222,
+        "key": "361",
+        "token": false,
+        "score": 53.0,
+        "extra": [
+            "22",
+            "13",
+            "7",
+            "11",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CHYaYa",
+        "task": "F",
+        "time": 9652,
+        "key": "362",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "22",
+            "13",
+            "7",
+            "11",
+            "35",
+            "12"
+        ]
+    }
+]

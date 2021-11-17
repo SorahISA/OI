@@ -1,0 +1,133 @@
+[
+    {
+        "user": "alphabe",
+        "task": "A",
+        "time": 910,
+        "key": "325",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "30"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "G",
+        "time": 1573,
+        "key": "327",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "C",
+        "time": 3186,
+        "key": "334",
+        "token": false,
+        "score": 55.0,
+        "extra": [
+            "0",
+            "0",
+            "40",
+            "15",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "C",
+        "time": 3593,
+        "key": "336",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "6",
+            "11",
+            "40",
+            "15",
+            "28"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "B",
+        "time": 7846,
+        "key": "349",
+        "token": false,
+        "score": 53.0,
+        "extra": [
+            "28",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "B",
+        "time": 8439,
+        "key": "354",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "28",
+            "25",
+            "47"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "F",
+        "time": 10080,
+        "key": "363",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "22",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "F",
+        "time": 10223,
+        "key": "364",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "22",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "alphabe",
+        "task": "F",
+        "time": 10741,
+        "key": "367",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "22",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

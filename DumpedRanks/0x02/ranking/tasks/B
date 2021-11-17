@@ -1,0 +1,14 @@
+{
+    "name": "\u756b\u4f5c\u9451\u5b9a (Art)",
+    "short_name": "B",
+    "contest": "0x02",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (28)",
+        "Subtask 2 (25)",
+        "Subtask 3 (47)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

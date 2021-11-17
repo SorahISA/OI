@@ -1,0 +1,20 @@
+{
+    "name": "\u6cb3\u5167\u5854 (Hanoi)",
+    "short_name": "D",
+    "contest": "0x02",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (5)",
+        "Subtask 2 (5)",
+        "Subtask 3 (8)",
+        "Subtask 4 (8)",
+        "Subtask 5 (12)",
+        "Subtask 6 (12)",
+        "Subtask 7 (15)",
+        "Subtask 8 (15)",
+        "Subtask 9 (20)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 2
+}

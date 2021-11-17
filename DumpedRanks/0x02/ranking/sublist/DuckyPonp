@@ -1,0 +1,139 @@
+[
+    {
+        "user": "DuckyPonp",
+        "task": "A",
+        "time": 1496,
+        "key": "57",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DuckyPonp",
+        "task": "A",
+        "time": 1547,
+        "key": "58",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "30"
+        ]
+    },
+    {
+        "user": "DuckyPonp",
+        "task": "G",
+        "time": 3206,
+        "key": "62",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "DuckyPonp",
+        "task": "F",
+        "time": 5142,
+        "key": "69",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DuckyPonp",
+        "task": "F",
+        "time": 5842,
+        "key": "70",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DuckyPonp",
+        "task": "F",
+        "time": 5900,
+        "key": "72",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DuckyPonp",
+        "task": "F",
+        "time": 7235,
+        "key": "76",
+        "token": false,
+        "score": 35.0,
+        "extra": [
+            "22",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DuckyPonp",
+        "task": "F",
+        "time": 8341,
+        "key": "79",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "22",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "DuckyPonp",
+        "task": "F",
+        "time": 8821,
+        "key": "80",
+        "token": false,
+        "score": 35.0,
+        "extra": [
+            "22",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

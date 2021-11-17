@@ -1,0 +1,126 @@
+[
+    {
+        "user": "BrantWang",
+        "task": "G",
+        "time": 3380,
+        "key": "216",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "10",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "G",
+        "time": 3723,
+        "key": "217",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "25",
+            "65"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "A",
+        "time": 4080,
+        "key": "218",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "20",
+            "40",
+            "30"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "B",
+        "time": 6456,
+        "key": "223",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "28",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "B",
+        "time": 6870,
+        "key": "226",
+        "token": false,
+        "score": 28.0,
+        "extra": [
+            "28",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "B",
+        "time": 7130,
+        "key": "228",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "28",
+            "25",
+            "47"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "C",
+        "time": 10156,
+        "key": "260",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "C",
+        "time": 10491,
+        "key": "263",
+        "token": false,
+        "score": 15.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "15",
+            "0"
+        ]
+    },
+    {
+        "user": "BrantWang",
+        "task": "C",
+        "time": 10669,
+        "key": "264",
+        "token": false,
+        "score": 55.0,
+        "extra": [
+            "0",
+            "0",
+            "40",
+            "15",
+            "0"
+        ]
+    }
+]
