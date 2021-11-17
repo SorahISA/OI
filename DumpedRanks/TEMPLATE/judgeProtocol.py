@@ -46,8 +46,7 @@ def get_all_contestants(contestId):
         # print(sub)
         if (sub['author']['participantType'] in ['CONTESTANT', 'VIRTUAL']):
             name = sub['author']['members'][0]['handle']
-            if (sub['author']['participantType'] in ['VIRTUAL']):
-                name = '[virtual] ' + name
+            # status = 1 if (sub['author']['participantType'] in ['VIRTUAL']) else status = 0
             sub_id.setdefault(name, [])
             sub_id[name].append([sub['problem']['index'], sub['id'], sub['relativeTimeSeconds'], i])
     
