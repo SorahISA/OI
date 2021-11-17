@@ -1,0 +1,229 @@
+[
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "E",
+        "time": 1730,
+        "key": "16",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "30",
+            "30"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "A",
+        "time": 2213,
+        "key": "26",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "10",
+            "25",
+            "25",
+            "30"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "D",
+        "time": 2711,
+        "key": "30",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "D",
+        "time": 2789,
+        "key": "32",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "3",
+            "6",
+            "12",
+            "24",
+            "40",
+            "15"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "F1",
+        "time": 5781,
+        "key": "44",
+        "token": false,
+        "score": 2.1,
+        "extra": [
+            "0",
+            "2.1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "F2",
+        "time": 5793,
+        "key": "45",
+        "token": false,
+        "score": 3.9,
+        "extra": [
+            "0",
+            "3.9",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "F2",
+        "time": 6264,
+        "key": "51",
+        "token": false,
+        "score": 3.9,
+        "extra": [
+            "0",
+            "3.9",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "F1",
+        "time": 6281,
+        "key": "52",
+        "token": false,
+        "score": 2.1,
+        "extra": [
+            "0",
+            "2.1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "F1",
+        "time": 6548,
+        "key": "59",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "C",
+        "time": 7769,
+        "key": "81",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "C",
+        "time": 7822,
+        "key": "84",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "C",
+        "time": 7888,
+        "key": "85",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "B",
+        "time": 9362,
+        "key": "110",
+        "token": false,
+        "score": 21.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "B",
+        "time": 10512,
+        "key": "131",
+        "token": false,
+        "score": 21.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "thtsshz_bgwrswh",
+        "task": "B",
+        "time": 10802,
+        "key": "138",
+        "token": false,
+        "score": 21.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "21",
+            "0"
+        ]
+    }
+]

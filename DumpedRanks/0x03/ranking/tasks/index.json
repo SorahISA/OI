@@ -1,0 +1,114 @@
+{
+    "A": {
+        "name": "\u722c\u5c71 (Climbing)",
+        "short_name": "A",
+        "contest": "0x03",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (10)",
+            "Subtask 2 (10)",
+            "Subtask 3 (25)",
+            "Subtask 4 (25)",
+            "Subtask 5 (30)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "\u6392\u5175\u5e03\u9663 (Matrix)",
+        "short_name": "B",
+        "contest": "0x03",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (18)",
+            "Subtask 2 (22)",
+            "Subtask 3 (9)",
+            "Subtask 4 (21)",
+            "Subtask 5 (30)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "\u6392\u5217\u751f\u6210\u5668 (Permutation)",
+        "short_name": "C",
+        "contest": "0x03",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (17)",
+            "Subtask 2 (25)",
+            "Subtask 3 (37)",
+            "Subtask 4 (21)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "\u6233\u6233\u6a02 (Poke)",
+        "short_name": "D",
+        "contest": "0x03",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (3)",
+            "Subtask 2 (6)",
+            "Subtask 3 (12)",
+            "Subtask 4 (24)",
+            "Subtask 5 (40)",
+            "Subtask 6 (15)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "\u627e\u91cd\u8907 (Repeat)",
+        "short_name": "E",
+        "contest": "0x03",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (40)",
+            "Subtask 2 (30)",
+            "Subtask 3 (30)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F1": {
+        "name": "\u677e\u9f20\u7684\u65c5\u884c (Travel)",
+        "short_name": "F1",
+        "contest": "0x03",
+        "max_score": 35.0,
+        "extra_headers": [
+            "Subtask 1 (1.4)",
+            "Subtask 2 (2.1)",
+            "Subtask 3 (4.2)",
+            "Subtask 4 (5.6)",
+            "Subtask 5 (18.9)",
+            "Subtask 6 (2.8)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 1
+    },
+    "F2": {
+        "name": "\u677e\u9f20\u7684\u65c5\u884c (Travel)",
+        "short_name": "F2",
+        "contest": "0x03",
+        "max_score": 65.0,
+        "extra_headers": [
+            "Subtask 1 (2.6)",
+            "Subtask 2 (3.9)",
+            "Subtask 3 (7.8)",
+            "Subtask 4 (10.4)",
+            "Subtask 5 (35.1)",
+            "Subtask 6 (5.2)"
+        ],
+        "order": 6,
+        "score_mode": "max_subtask",
+        "score_precision": 1
+    }
+}

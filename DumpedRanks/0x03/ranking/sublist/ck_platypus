@@ -1,0 +1,364 @@
+[
+    {
+        "user": "ck_platypus",
+        "task": "A",
+        "time": 1296,
+        "key": "280",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "10",
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "A",
+        "time": 1340,
+        "key": "281",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "10",
+            "10",
+            "25",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "A",
+        "time": 1454,
+        "key": "282",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "10",
+            "10",
+            "25",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "A",
+        "time": 1535,
+        "key": "283",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "10",
+            "25",
+            "25",
+            "30"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "E",
+        "time": 2792,
+        "key": "290",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "0",
+            "30",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "E",
+        "time": 2934,
+        "key": "293",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "40",
+            "30",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "E",
+        "time": 2971,
+        "key": "294",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "E",
+        "time": 3142,
+        "key": "295",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "E",
+        "time": 3298,
+        "key": "296",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "E",
+        "time": 3536,
+        "key": "298",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "30",
+            "30"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "D",
+        "time": 4223,
+        "key": "304",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "D",
+        "time": 4251,
+        "key": "305",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "D",
+        "time": 4312,
+        "key": "306",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "3",
+            "6",
+            "12",
+            "24",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "D",
+        "time": 4521,
+        "key": "307",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "3",
+            "6",
+            "12",
+            "24",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "D",
+        "time": 4551,
+        "key": "308",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "3",
+            "6",
+            "12",
+            "24",
+            "40",
+            "15"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "F1",
+        "time": 6584,
+        "key": "315",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "F1",
+        "time": 6800,
+        "key": "317",
+        "token": false,
+        "score": 2.1,
+        "extra": [
+            "0",
+            "2.1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "F1",
+        "time": 8460,
+        "key": "324",
+        "token": false,
+        "score": 22.4,
+        "extra": [
+            "1.4",
+            "2.1",
+            "0",
+            "0",
+            "18.9",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "F1",
+        "time": 10615,
+        "key": "336",
+        "token": false,
+        "score": 22.4,
+        "extra": [
+            "1.4",
+            "2.1",
+            "0",
+            "0",
+            "18.9",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "F2",
+        "time": 10626,
+        "key": "337",
+        "token": false,
+        "score": 41.6,
+        "extra": [
+            "2.6",
+            "3.9",
+            "0",
+            "0",
+            "35.1",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "F2",
+        "time": 11159,
+        "key": "340",
+        "token": false,
+        "score": 6.5,
+        "extra": [
+            "2.6",
+            "3.9",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "F1",
+        "time": 11172,
+        "key": "341",
+        "token": false,
+        "score": 3.5,
+        "extra": [
+            "1.4",
+            "2.1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "F2",
+        "time": 11233,
+        "key": "342",
+        "token": false,
+        "score": 6.5,
+        "extra": [
+            "2.6",
+            "3.9",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ck_platypus",
+        "task": "F2",
+        "time": 11397,
+        "key": "343",
+        "token": false,
+        "score": 6.5,
+        "extra": [
+            "2.6",
+            "3.9",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

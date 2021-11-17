@@ -1,0 +1,17 @@
+{
+    "name": "\u677e\u9f20\u7684\u65c5\u884c (Travel)",
+    "short_name": "F1",
+    "contest": "0x03",
+    "max_score": 35.0,
+    "extra_headers": [
+        "Subtask 1 (1.4)",
+        "Subtask 2 (2.1)",
+        "Subtask 3 (4.2)",
+        "Subtask 4 (5.6)",
+        "Subtask 5 (18.9)",
+        "Subtask 6 (2.8)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 1
+}

@@ -1,0 +1,16 @@
+{
+    "name": "\u722c\u5c71 (Climbing)",
+    "short_name": "A",
+    "contest": "0x03",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (10)",
+        "Subtask 2 (10)",
+        "Subtask 3 (25)",
+        "Subtask 4 (25)",
+        "Subtask 5 (30)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

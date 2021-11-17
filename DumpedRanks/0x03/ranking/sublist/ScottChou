@@ -1,0 +1,164 @@
+[
+    {
+        "user": "ScottChou",
+        "task": "A",
+        "time": 760,
+        "key": "246",
+        "token": false,
+        "score": 70.0,
+        "extra": [
+            "10",
+            "10",
+            "25",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "A",
+        "time": 863,
+        "key": "247",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "10",
+            "25",
+            "25",
+            "30"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "D",
+        "time": 3264,
+        "key": "248",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "3",
+            "6",
+            "12",
+            "24",
+            "40",
+            "15"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "E",
+        "time": 4073,
+        "key": "249",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "30",
+            "30"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "C",
+        "time": 5575,
+        "key": "250",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "B",
+        "time": 6868,
+        "key": "251",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "18",
+            "22",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "C",
+        "time": 7875,
+        "key": "252",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "C",
+        "time": 7952,
+        "key": "253",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "F1",
+        "time": 10101,
+        "key": "254",
+        "token": false,
+        "score": 1.4,
+        "extra": [
+            "1.4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "F2",
+        "time": 10129,
+        "key": "255",
+        "token": false,
+        "score": 2.6,
+        "extra": [
+            "2.6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ScottChou",
+        "task": "C",
+        "time": 10773,
+        "key": "256",
+        "token": false,
+        "score": 79.0,
+        "extra": [
+            "17",
+            "25",
+            "37",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "user": "PeiGan",
+        "task": "A",
+        "time": 353,
+        "key": "278",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "10",
+            "25",
+            "25",
+            "30"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "B",
+        "time": 1680,
+        "key": "284",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "B",
+        "time": 2073,
+        "key": "286",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "D",
+        "time": 2771,
+        "key": "289",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "D",
+        "time": 2846,
+        "key": "291",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "D",
+        "time": 2866,
+        "key": "292",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "3",
+            "6",
+            "12",
+            "24",
+            "40",
+            "15"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "E",
+        "time": 3349,
+        "key": "297",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "30",
+            "30"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "B",
+        "time": 3908,
+        "key": "301",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "B",
+        "time": 4106,
+        "key": "302",
+        "token": false,
+        "score": 21.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "B",
+        "time": 4192,
+        "key": "303",
+        "token": false,
+        "score": 61.0,
+        "extra": [
+            "18",
+            "22",
+            "0",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "B",
+        "time": 5521,
+        "key": "309",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "18",
+            "22",
+            "9",
+            "21",
+            "30"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "B",
+        "time": 5792,
+        "key": "310",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "18",
+            "22",
+            "9",
+            "21",
+            "30"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "C",
+        "time": 6283,
+        "key": "313",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "C",
+        "time": 6367,
+        "key": "314",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "C",
+        "time": 6651,
+        "key": "316",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "C",
+        "time": 8025,
+        "key": "320",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "C",
+        "time": 8084,
+        "key": "321",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "C",
+        "time": 8725,
+        "key": "327",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "F1",
+        "time": 9331,
+        "key": "331",
+        "token": false,
+        "score": 1.4,
+        "extra": [
+            "1.4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "F1",
+        "time": 9603,
+        "key": "332",
+        "token": false,
+        "score": 1.4,
+        "extra": [
+            "1.4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "F2",
+        "time": 9615,
+        "key": "333",
+        "token": false,
+        "score": 2.6,
+        "extra": [
+            "2.6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "PeiGan",
+        "task": "C",
+        "time": 9812,
+        "key": "334",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "17",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

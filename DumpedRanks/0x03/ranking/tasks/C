@@ -1,0 +1,15 @@
+{
+    "name": "\u6392\u5217\u751f\u6210\u5668 (Permutation)",
+    "short_name": "C",
+    "contest": "0x03",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (17)",
+        "Subtask 2 (25)",
+        "Subtask 3 (37)",
+        "Subtask 4 (21)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

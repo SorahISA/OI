@@ -1,0 +1,125 @@
+[
+    {
+        "user": "Ji_Kuai",
+        "task": "A",
+        "time": 2729,
+        "key": "31",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "10",
+            "10",
+            "25",
+            "25",
+            "30"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "B",
+        "time": 4751,
+        "key": "36",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "18",
+            "22",
+            "9",
+            "21",
+            "30"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "E",
+        "time": 6348,
+        "key": "53",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "30",
+            "30"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 7162,
+        "key": "71",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "F1",
+        "time": 7685,
+        "key": "75",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "D",
+        "time": 7802,
+        "key": "83",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "3",
+            "6",
+            "12",
+            "24",
+            "40",
+            "15"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "F1",
+        "time": 9056,
+        "key": "104",
+        "token": false,
+        "score": 1.4,
+        "extra": [
+            "1.4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ji_Kuai",
+        "task": "F2",
+        "time": 9181,
+        "key": "106",
+        "token": false,
+        "score": 2.6,
+        "extra": [
+            "2.6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

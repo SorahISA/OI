@@ -1,0 +1,46 @@
+[
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 6694,
+        "key": "60",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "10",
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "A",
+        "time": 8296,
+        "key": "88",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "10",
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Eggman",
+        "task": "C",
+        "time": 11321,
+        "key": "141",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]
