@@ -28,13 +28,25 @@ Actually not. Nothing is in here.
 
 ## TOI 初選
 
-- [TOI 2019](https://sorahisa.github.io/OI/DumpedRanks/toi2019/ranking/Ranking.html)
+- [TOI 2019 by Brian Su](https://toi2019-ranking.brian.su/)
 
-- [TOI 2020](https://sorahisa.github.io/OI/DumpedRanks/toi2020/ranking/Ranking.html)
+- [TOI 2020 by TFCIS](https://cms.tfcis.org/dumprank/rank/toi2020/)
 
-- [TOI 2021](https://sorahisa.github.io/OI/DumpedRanks/toi2021/ranking/Ranking.html)
+- [TOI 2021 by TFCIS](https://cms.tfcis.org/dumprank/rank/toi2021/)
 
 ## 學科能力競賽
+
+### 全國（模擬）賽
+
+- [2019 全國模擬賽 Official](https://pre-nhspc2019.brian.su/ranking/)
+
+- [2019 全國賽 by TFCIS](https://cms.tfcis.org/dumprank/rank/rank25/)
+
+- [2020 全國賽 by TFCIS](https://cms.tfcis.org/dumprank/rank/rank133/)
+
+### 地區賽
+
+- [2019 北市賽 by TFCIS](https://cms.tfcis.org/dumprank/rank/rank18/)
 
 - [2021 北市賽](https://sorahisa.github.io/OI/DumpedRanks/nhspc2021_tpe/ranking/Ranking.html)
 
