@@ -2,7 +2,9 @@
 
 Actually not. Nothing is in here.
 
-## 計分板們
+# 計分板們
+
+## 0x00
 
 - [0x00 -- 2020 TOI Simulation](https://sorahisa.github.io/OI/DumpedRanks/0x00/ranking/Ranking.html)
   - Contest Link: https://codeforces.com/group/GG44hyrVLY/contest/271250
@@ -23,6 +25,16 @@ Actually not. Nothing is in here.
   - Contest Link: https://codeforces.com/group/GG44hyrVLY/contest/348662
 
 - [0x06 -- 2021 東區模擬賽](https://sorahisa.github.io/OI/DumpedRanks/0x06/ranking/Ranking.html)
+
+## TOI 初選
+
+- [TOI 2019](https://sorahisa.github.io/OI/DumpedRanks/toi2019/ranking/Ranking.html)
+
+- [TOI 2020](https://sorahisa.github.io/OI/DumpedRanks/toi2020/ranking/Ranking.html)
+
+- [TOI 2021](https://sorahisa.github.io/OI/DumpedRanks/toi2021/ranking/Ranking.html)
+
+## 學科能力競賽
 
 - [2021 北市賽](https://sorahisa.github.io/OI/DumpedRanks/nhspc2021_tpe/ranking/Ranking.html)
 
