@@ -110,12 +110,12 @@ if users is None:
 for u in users:
     dumpdata(os.path.join("users",u))
 
-try:
-    os.mkdir("flags")
-except:
-    pass
-for t in teams:
-    dumpdata(os.path.join("flags",t))
+# try:
+    # os.mkdir("flags")
+# except:
+    # pass
+# for t in teams:
+    # dumpdata(os.path.join("flags",t))
 
 try:
     os.mkdir("sublist")
