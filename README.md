@@ -48,6 +48,8 @@ Actually not. Nothing is in here.
 
 - [2021 全國模擬賽](https://sorahisa.github.io/OI/DumpedRanks/nhspc2021_sim/ranking/Ranking.html)
 
+- [2021 全國賽](https://sorahisa.github.io/OI/DumpedRanks/nhspc2021_fin/ranking/Ranking.html)
+
 ### 地區賽
 
 - [2019 北市賽 by TFCIS](https://cms.tfcis.org/dumprank/rank/rank18/)
