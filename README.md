@@ -38,6 +38,8 @@ Actually not. Nothing is in here.
 
 ### 全國（模擬）賽
 
+- [2017 全國賽 by allenwhale](https://allenwhale.github.io/nhspc2017-scoreboard/)
+
 - [2019 全國模擬賽 Official](https://pre-nhspc2019.brian.su/ranking/)
 
 - [2019 全國賽 by TFCIS](https://cms.tfcis.org/dumprank/rank/rank25/)
