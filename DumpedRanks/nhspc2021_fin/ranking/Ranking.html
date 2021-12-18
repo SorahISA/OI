@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset='utf-8'/>
+        <link rel="shortcut icon" href="img/favicon.ico" />
+        <link rel='stylesheet' href='Ranking.css'>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script>
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='lib/jquery.js'%3E%3C/script%3E"));
+}
+if (!("EventSource" in window)) {
+    document.write(unescape("%3Cscript src='lib/eventsource.js'%3E%3C/script%3E"));
+}
+        </script>
+        <script src="lib/raphael.js"></script>
+        <!--[if lt IE 9]>
+            <script src="lib/explorercanvas.js"></script>
+        <![endif]-->
+        <script src="Config.js"></script>
+        <script src="DataStore.js"></script>
+        <script src="HistoryStore.js"></script>
+        <script src="Chart.js"></script>
+        <script src="UserDetail.js"></script>
+        <script src="TimeView.js"></script>
+        <script src="TeamSearch.js"></script>
+        <script src="Overview.js"></script>
+        <script src="Scoreboard.js"></script>
+        <script src="Ranking.js"></script>
+        <title>Ranking</title>
+    </head>
+    <body>
+        <div id="OuterFrame">
+            <div id="LogoPanel">
+                <img src="logo" alt="Logo" />
+            </div>
+            <div id="UpperPanel">
+                <div id="ConnectionStatus_box">
+                    <div id="ConnectionStatus_label">Status</div>
+                    <div id="ConnectionStatus_text"></div>
+                </div>
+            </div>
+            <div id="TimeView">
+                <div id="TimeView_name"></div>
+                <div id="TimeView_selector">
+                    <div id="TimeView_time"></div><div id="TimeView_expand"><div class="caret"></div></div>
+                    <div id="TimeView_selector_elapsed">Elapsed time</div>
+                    <div id="TimeView_selector_remaining">Remaining time</div>
+                    <div id="TimeView_selector_current">Current time</div>
+                </div>
+            </div>
+            <div id="SidePanel">
+                <div id="Overview"></div>
+                <div style="color: #999; text-align: center; font-size: 12px; padding-top: 5px;">
+                    Powered by <a style="color: #00A3DA; text-decoration: none;" href="https://cms-dev.github.io/" target="_blank">CMS</a>
+                </div>
+            </div>
+            <div id="InnerFrame">
+                <table id="Scoreboard">
+                    <colgroup id="Scoreboard_cols"></colgroup>
+                    <thead id="Scoreboard_head"></thead>
+                    <tbody id="Scoreboard_body"></tbody>
+                </table>
+            </div>
+        </div>
+        <input id="TeamSearch_input" type="search" placeholder="Search Team"/>
+        <div id="TeamSearch_bg">
+            <div id="TeamSearch">
+                <img id="TeamSearch_close" src="img/close.png" alt="Close"/>
+                <div id="TeamSearch_body"></div>
+            </div>
+        </div>
+        <div id="UserDetail_bg">
+            <div id="UserDetail">
+                <img id="UserDetail_close" src="img/close.png" alt="Close"/>
+                <div id="UserDetail_header">
+                    <div id="UserDetail_summary">
+                        <img id="UserDetail_face" src="" alt="Face"/>
+                        <div id="UserDetail_f_name"></div>
+                        <div id="UserDetail_l_name"></div>
+                        <div id="UserDetail_team"></div>
+                        <img id="UserDetail_flag" src="" alt="Flag"/>
+                    </div>
+                    <div id="UserDetail_navigator">
+                        <table>
+                            <col class="name"/>
+                            <col class="score"/>
+                            <col class="rank"/>
+                            <col class="show"/>
+                            <thead>
+                                <tr>
+                                    <td></td>
+                                    <td>Score</td>
+                                    <td>Rank</td>
+                                    <td></td>
+                                </tr>
+                            </thead>
+                            <tbody id="UserDetail_scores">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div id="UserDetail_title"></div>
+                <div id="UserDetail_charts">
+                    <canvas id="UserDetail_score_chart" width="920" height="250"></canvas>
+                    <canvas id="UserDetail_rank_chart" width="920" height="250"></canvas>
+                </div>
+                <div id="UserDetail_submissions">
+                </div>
+            </div>
+        </div>
+    </body>
+</html> 
