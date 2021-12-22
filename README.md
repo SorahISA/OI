@@ -13,10 +13,10 @@ Actually not. Nothing is in here.
 - [TOI 2019 by Brian Su](https://toi2019-ranking.brian.su/)
   - [縮時 by Sean Wei](https://youtu.be/y6MWll1w5fU)
 
-- [TOI 2020 by TFCIS](https://cms.tfcis.org/dumprank/rank/toi2020/)
+- [TOI 2020 by TFcis](https://cms.tfcis.org/dumprank/rank/toi2020/)
   - [Problems on TIOJ](https://tioj.ck.tp.edu.tw/problems/tag/2020-TOI-pre)
 
-- [TOI 2021 by TFCIS](https://cms.tfcis.org/dumprank/rank/toi2021/)
+- [TOI 2021 by TFcis](https://cms.tfcis.org/dumprank/rank/toi2021/)
   - [Problems on TIOJ](https://tioj.ck.tp.edu.tw/problems/tag/2021-TOI-pre)
 
 ## 學科能力競賽
@@ -34,9 +34,9 @@ Actually not. Nothing is in here.
 
 - [2019 全國模擬賽 Official](https://pre-nhspc2019.brian.su/ranking/)
 
-- [2019 全國賽 by TFCIS](https://cms.tfcis.org/dumprank/rank/rank25/)
+- [2019 全國賽 by TFcis](https://cms.tfcis.org/dumprank/rank/rank25/)
 
-- [2020 全國賽 by TFCIS](https://cms.tfcis.org/dumprank/rank/rank133/)
+- [2020 全國賽 by TFcis](https://cms.tfcis.org/dumprank/rank/rank133/)
 
 - [2021 全國模擬賽](https://sorahisa.github.io/OI/DumpedRanks/nhspc2021_sim/ranking/Ranking.html)
   - [Official](https://nhspc.cc/2021/ranking/Ranking.html)
@@ -46,7 +46,7 @@ Actually not. Nothing is in here.
 
 ### 地區賽
 
-- [2019 北市賽 by TFCIS](https://cms.tfcis.org/dumprank/rank/rank18/)
+- [2019 北市賽 by TFcis](https://cms.tfcis.org/dumprank/rank/rank18/)
 
 - [2021 北市賽](https://sorahisa.github.io/OI/DumpedRanks/nhspc2021_tpe/ranking/Ranking.html)
 
