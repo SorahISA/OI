@@ -40,7 +40,7 @@ Actually not. Nothing is in here.
 
 - [2017 全國賽 by allenwhale](https://allenwhale.github.io/nhspc2017-scoreboard/)
 
-- [2018 全國賽 記分板截圖](https://sorahisa.github.io/OI/DumpedRanks/nhspc2018_sim/Ranking.jpg)
+- [2018 全國賽 記分板截圖](https://sorahisa.github.io/OI/DumpedRanks/nhspc2018_fin/Ranking.jpg)
 
 - [2019 全國模擬賽 Official](https://pre-nhspc2019.brian.su/ranking/)
 
