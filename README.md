@@ -72,3 +72,9 @@ Actually not. Nothing is in [here](https://github.com/SorahISA/OI/tree/master/pr
 
 - [0x06 -- 2021 東區模擬賽](https://sorahisa.github.io/OI/DumpedRanks/0x06/ranking/Ranking.html)
   - No contest link right now.
+
+## Others
+
+- [2022 JOI Final (Mirror)](https://sorahisa.github.io/OI/DumpedRanks/joi22_fin/ranking/Ranking.html)
+  - [Contest](https://contests.ioi-jp.org/joi-ho-2022/index.html)
+  - [Website](https://www.ioi-jp.org/joi/2021/2022-ho/index.html)
