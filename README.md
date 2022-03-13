@@ -19,6 +19,8 @@ Actually not. Nothing is in [here](https://github.com/SorahISA/OI/tree/master/pr
 - [TOI 2021 by TFcis](https://cms.tfcis.org/dumprank/rank/toi2021/)
   - [Problems on TIOJ](https://tioj.ck.tp.edu.tw/problems/tag/2021-TOI-pre)
 
+- [TOI 2022](https://sorahisa.github.io/OI/DumpedRanks/toi2022/ranking/Ranking.html)
+
 ## 學科能力競賽
 
 ### 全國（模擬）賽
