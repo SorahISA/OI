@@ -188,7 +188,7 @@ var Scoreboard = new function () {
 <tr> \
     <th class=\"sel\"></th> \
     <th class=\"rank\">Rank</th> \
-    <th colspan=\"10\" class=\"f_name\">First Name</th> \
+    <th colspan=\"10\" class=\"f_name\">First Name (發現有誤請告知)</th> \
     <th colspan=\"10\" class=\"l_name\">Last Name</th> \
     <th class=\"team\">Team</th>";
 

@@ -21,7 +21,7 @@ f_users.close()
 # print(team_dict)
 
 for u_id in users:
-    users[u_id]['f_name'] = id_dict[u_id]
+    users[u_id]['f_name'] = id_dict[u_id] + " (" + str(u_id) + ")"
     # users[u_id]['team'] = team_dict[users[u_id]['l_name']]
     with open("ranking/users/" + str(u_id), 'w') as f_user:
         json.dump(users[u_id], f_user, indent = 4)
