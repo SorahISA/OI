@@ -77,6 +77,9 @@ Actually not. Nothing is in [here](https://github.com/SorahISA/OI/tree/master/pr
 
 ## Others
 
+-   BalticOI 2022 ([Official]((https://sorahisa.github.io/OI/DumpedRanks/balticoi22/ranking/Ranking.html)), [Mirror](https://sorahisa.github.io/OI/DumpedRanks/balticoi22-mirror/ranking/Ranking.html))
+    -   [Website](https://www.boi2022.de/)
+
 - [JOI 2021/2022 Final (Mirror)](https://sorahisa.github.io/OI/DumpedRanks/joi22_fin/ranking/Ranking.html)
   - [Contest](https://contests.ioi-jp.org/joi-ho-2022/index.html)
   - [Website](https://www.ioi-jp.org/joi/2021/2022-ho/index.html)
