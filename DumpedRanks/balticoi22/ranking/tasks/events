@@ -1,0 +1,1 @@
+{"name": "events", "short_name": "events", "contest": "boi2022_2d1", "max_score": 100.0, "extra_headers": ["Subtask 1 (10)", "Subtask 2 (10)", "Subtask 3 (15)", "Subtask 4 (15)", "Subtask 5 (20)", "Subtask 6 (30)"], "order": 31, "score_mode": "max_subtask", "score_precision": 0}
