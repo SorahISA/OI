@@ -1,0 +1,1 @@
+[{"user": "mhq_5fup", "task": "device2", "time": 1647982418, "key": "5973", "score": 25.0, "token": false, "extra": ["5", "5", "3", "12", "0", "0"], "subtask_scores": [5.0, 5.0, 3.0, 12.0, 0.0, 0.0]}, {"user": "mhq_5fup", "task": "sugar", "time": 1647982355, "key": "5972", "score": 26.0, "token": false, "extra": ["0", "0", "26", "0"], "subtask_scores": [0.0, 0.0, 26.0, 0.0]}]
