@@ -39,7 +39,7 @@ var UserDetail = new function () {
 
         self.f_name_label = $('#UserDetail_f_name');
         self.l_name_label = $('#UserDetail_l_name');
-        self.team_label = $('#UserDetail_team');
+        // self.team_label = $('#UserDetail_team');
         self.flag_image = $('#UserDetail_flag');
         self.face_image = $('#UserDetail_face');
         self.title_label = $('#UserDetail_title');
@@ -125,14 +125,14 @@ var UserDetail = new function () {
             self.l_name_label.text(self.user["l_name"]);
             self.face_image.attr("src", Config.get_face_url(self.user_id));
 
-            if (self.user["team"]) {
-                self.team_label.text(DataStore.teams[self.user["team"]]["name"]);
-                self.flag_image.attr("src", Config.get_flag_url(self.user['team']));
-                self.flag_image.removeClass("hidden");
-            } else {
-                self.team_label.text("");
-                self.flag_image.addClass("hidden");
-            }
+            // if (self.user["team"]) {
+                // self.team_label.text(DataStore.teams[self.user["team"]]["name"]);
+                // self.flag_image.attr("src", Config.get_flag_url(self.user['team']));
+                // self.flag_image.removeClass("hidden");
+            // } else {
+                // self.team_label.text("");
+                // self.flag_image.addClass("hidden");
+            // }
 
             var s = "<tr class=\"global\"> \
                         <td class=\"name\">Global</td> \
