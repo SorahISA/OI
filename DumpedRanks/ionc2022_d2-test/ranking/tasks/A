@@ -1,0 +1,14 @@
+{
+    "name": "A. \u653e\u5927\u5668 (amplifier)",
+    "short_name": "A",
+    "contest": "2022ionc-d2",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (7)",
+        "Subtask 2 (22)",
+        "Subtask 3 (71)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

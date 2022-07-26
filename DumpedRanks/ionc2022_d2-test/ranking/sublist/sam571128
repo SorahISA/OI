@@ -1,0 +1,250 @@
+[
+    {
+        "user": "sam571128",
+        "task": "D",
+        "time": 456,
+        "key": "7",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "B",
+        "time": 1445,
+        "key": "51",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "B",
+        "time": 1519,
+        "key": "55",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "C",
+        "time": 1675,
+        "key": "60",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "E",
+        "time": 1996,
+        "key": "72",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "59"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "H",
+        "time": 2609,
+        "key": "108",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "H",
+        "time": 2753,
+        "key": "116",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "H",
+        "time": 2830,
+        "key": "120",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "F",
+        "time": 2970,
+        "key": "124",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "45",
+            "55"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "G",
+        "time": 5291,
+        "key": "205",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "1",
+            "2",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "G",
+        "time": 5802,
+        "key": "225",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "5",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "G",
+        "time": 5851,
+        "key": "227",
+        "token": false,
+        "score": 2.0,
+        "extra": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "A",
+        "time": 7108,
+        "key": "279",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "0",
+            "22",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "A",
+        "time": 7284,
+        "key": "285",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "7",
+            "22",
+            "71"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "G",
+        "time": 7481,
+        "key": "291",
+        "token": false,
+        "score": 51.0,
+        "extra": [
+            "0",
+            "2",
+            "3",
+            "46",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "G",
+        "time": 8082,
+        "key": "312",
+        "token": false,
+        "score": 57.0,
+        "extra": [
+            "1",
+            "2",
+            "3",
+            "46",
+            "5",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "G",
+        "time": 8898,
+        "key": "353",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "1",
+            "2",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "G",
+        "time": 8980,
+        "key": "358",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "1",
+            "2",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

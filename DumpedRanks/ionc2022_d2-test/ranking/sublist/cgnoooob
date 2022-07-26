@@ -1,0 +1,95 @@
+[
+    {
+        "user": "cgnoooob",
+        "task": "C",
+        "time": 2168,
+        "key": "81",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "C",
+        "time": 2229,
+        "key": "85",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "C",
+        "time": 2819,
+        "key": "119",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "C",
+        "time": 3005,
+        "key": "126",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "D",
+        "time": 4053,
+        "key": "154",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "B",
+        "time": 6763,
+        "key": "272",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "A",
+        "time": 8470,
+        "key": "330",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "A",
+        "time": 8679,
+        "key": "343",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    }
+]

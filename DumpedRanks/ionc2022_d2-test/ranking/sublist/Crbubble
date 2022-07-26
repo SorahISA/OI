@@ -1,0 +1,141 @@
+[
+    {
+        "user": "Crbubble",
+        "task": "B",
+        "time": 686,
+        "key": "19",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "D",
+        "time": 1021,
+        "key": "28",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "H",
+        "time": 1152,
+        "key": "35",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "H",
+        "time": 1189,
+        "key": "38",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "C",
+        "time": 1599,
+        "key": "56",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "E",
+        "time": 3171,
+        "key": "129",
+        "token": false,
+        "score": 41.0,
+        "extra": [
+            "41",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "E",
+        "time": 3935,
+        "key": "149",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "59"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "G",
+        "time": 4939,
+        "key": "194",
+        "token": false,
+        "score": 5.0,
+        "extra": [
+            "0",
+            "2",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "G",
+        "time": 6283,
+        "key": "244",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "A",
+        "time": 7970,
+        "key": "307",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "F",
+        "time": 8759,
+        "key": "349",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    }
+]

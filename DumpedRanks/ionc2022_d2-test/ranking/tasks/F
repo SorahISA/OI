@@ -1,0 +1,13 @@
+{
+    "name": "F. \u5e8f\u5217\u5207\u5206\u554f\u984c (sequence)",
+    "short_name": "F",
+    "contest": "2022ionc-d2",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (45)",
+        "Subtask 2 (55)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

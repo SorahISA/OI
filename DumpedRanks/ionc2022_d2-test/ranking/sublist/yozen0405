@@ -1,0 +1,213 @@
+[
+    {
+        "user": "yozen0405",
+        "task": "D",
+        "time": 458,
+        "key": "8",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "H",
+        "time": 1046,
+        "key": "29",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "C",
+        "time": 1807,
+        "key": "64",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "B",
+        "time": 2218,
+        "key": "84",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "E",
+        "time": 2895,
+        "key": "123",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "59"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "A",
+        "time": 4366,
+        "key": "166",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "0",
+            "22",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "A",
+        "time": 4590,
+        "key": "175",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "7",
+            "22",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "G",
+        "time": 6342,
+        "key": "249",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "G",
+        "time": 6401,
+        "key": "253",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "G",
+        "time": 6460,
+        "key": "257",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "G",
+        "time": 6512,
+        "key": "259",
+        "token": false,
+        "score": 51.0,
+        "extra": [
+            "0",
+            "2",
+            "3",
+            "46",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "F",
+        "time": 7947,
+        "key": "305",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "F",
+        "time": 8208,
+        "key": "319",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "F",
+        "time": 8374,
+        "key": "326",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "F",
+        "time": 8377,
+        "key": "327",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "F",
+        "time": 8396,
+        "key": "328",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "45",
+            "55"
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "user": "AlanHacker",
+        "task": "A",
+        "time": 795,
+        "key": "23",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "D",
+        "time": 1070,
+        "key": "30",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "B",
+        "time": 1924,
+        "key": "70",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "F",
+        "time": 2749,
+        "key": "115",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "F",
+        "time": 3531,
+        "key": "140",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "C",
+        "time": 3637,
+        "key": "143",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "A",
+        "time": 4693,
+        "key": "182",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "user": "ryan0916",
+        "task": "D",
+        "time": 1618,
+        "key": "57",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "B",
+        "time": 1753,
+        "key": "62",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "C",
+        "time": 3148,
+        "key": "128",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "D",
+        "time": 3821,
+        "key": "147",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "A",
+        "time": 4404,
+        "key": "168",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "A",
+        "time": 4436,
+        "key": "170",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "A",
+        "time": 4594,
+        "key": "177",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "G",
+        "time": 6397,
+        "key": "252",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "H",
+        "time": 6964,
+        "key": "277",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "H",
+        "time": 7144,
+        "key": "282",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "H",
+        "time": 7460,
+        "key": "290",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ryan0916",
+        "task": "H",
+        "time": 7535,
+        "key": "293",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

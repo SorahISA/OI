@@ -1,0 +1,13 @@
+{
+    "name": "E. \u5718\u9ad4\u8cfd\u5206\u7d44\u554f\u984c (grouping)",
+    "short_name": "E",
+    "contest": "2022ionc-d2",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (41)",
+        "Subtask 2 (59)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,0 +1,271 @@
+[
+    {
+        "user": "jmyang",
+        "task": "D",
+        "time": 334,
+        "key": "2",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "H",
+        "time": 493,
+        "key": "10",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "B",
+        "time": 760,
+        "key": "21",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "F",
+        "time": 1437,
+        "key": "49",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "F",
+        "time": 2129,
+        "key": "77",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "F",
+        "time": 2152,
+        "key": "79",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "F",
+        "time": 2229,
+        "key": "86",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "F",
+        "time": 2299,
+        "key": "87",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "F",
+        "time": 2345,
+        "key": "91",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "45",
+            "55"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "E",
+        "time": 4420,
+        "key": "169",
+        "token": false,
+        "score": 41.0,
+        "extra": [
+            "41",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "C",
+        "time": 4880,
+        "key": "189",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "E",
+        "time": 5015,
+        "key": "198",
+        "token": false,
+        "score": 41.0,
+        "extra": [
+            "41",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "E",
+        "time": 6408,
+        "key": "254",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "A",
+        "time": 6529,
+        "key": "261",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "E",
+        "time": 6561,
+        "key": "263",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "59"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "A",
+        "time": 6572,
+        "key": "264",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "A",
+        "time": 7612,
+        "key": "295",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "A",
+        "time": 7778,
+        "key": "300",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "A",
+        "time": 7812,
+        "key": "301",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "A",
+        "time": 7879,
+        "key": "302",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "A",
+        "time": 7893,
+        "key": "303",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "jmyang",
+        "task": "A",
+        "time": 7918,
+        "key": "304",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "name": "D. \u6578\u6578\u5152 (counting)",
+    "short_name": "D",
+    "contest": "2022ionc-d2",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (100)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

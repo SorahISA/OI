@@ -1,0 +1,119 @@
+[
+    {
+        "user": "rycya95",
+        "task": "D",
+        "time": 291,
+        "key": "0",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "B",
+        "time": 1977,
+        "key": "71",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "37",
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "B",
+        "time": 2680,
+        "key": "111",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "37",
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "H",
+        "time": 2878,
+        "key": "122",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "C",
+        "time": 4169,
+        "key": "156",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "B",
+        "time": 6188,
+        "key": "240",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "37",
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "B",
+        "time": 6261,
+        "key": "243",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "B",
+        "time": 6538,
+        "key": "262",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "37",
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "B",
+        "time": 6617,
+        "key": "268",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "E",
+        "time": 7547,
+        "key": "294",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "59"
+        ]
+    }
+]

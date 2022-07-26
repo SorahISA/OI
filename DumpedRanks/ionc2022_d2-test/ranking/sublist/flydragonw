@@ -1,0 +1,163 @@
+[
+    {
+        "user": "flydragonw",
+        "task": "D",
+        "time": 1746,
+        "key": "61",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "D",
+        "time": 2082,
+        "key": "75",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "A",
+        "time": 2172,
+        "key": "82",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "A",
+        "time": 2334,
+        "key": "89",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "D",
+        "time": 2558,
+        "key": "103",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "A",
+        "time": 2702,
+        "key": "114",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "B",
+        "time": 5338,
+        "key": "207",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "37",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "C",
+        "time": 7023,
+        "key": "278",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "H",
+        "time": 8025,
+        "key": "309",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "H",
+        "time": 8237,
+        "key": "320",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "H",
+        "time": 8581,
+        "key": "338",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "H",
+        "time": 8655,
+        "key": "341",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "H",
+        "time": 8719,
+        "key": "346",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "H",
+        "time": 8911,
+        "key": "354",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

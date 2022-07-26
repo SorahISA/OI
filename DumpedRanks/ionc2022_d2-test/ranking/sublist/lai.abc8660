@@ -1,0 +1,441 @@
+[
+    {
+        "user": "lai.abc8660",
+        "task": "D",
+        "time": 804,
+        "key": "24",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "C",
+        "time": 1138,
+        "key": "33",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "B",
+        "time": 1335,
+        "key": "44",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 2047,
+        "key": "74",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 2167,
+        "key": "80",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "H",
+        "time": 2347,
+        "key": "92",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 2352,
+        "key": "94",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "H",
+        "time": 2483,
+        "key": "98",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 2682,
+        "key": "112",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 2997,
+        "key": "125",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 3080,
+        "key": "127",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 3175,
+        "key": "130",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 3372,
+        "key": "136",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 3925,
+        "key": "148",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 4298,
+        "key": "161",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 4364,
+        "key": "165",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 4490,
+        "key": "172",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 4851,
+        "key": "187",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 4885,
+        "key": "190",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 4988,
+        "key": "197",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 5373,
+        "key": "208",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 5430,
+        "key": "210",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 5537,
+        "key": "211",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 5569,
+        "key": "213",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 5624,
+        "key": "214",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 5664,
+        "key": "217",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 5794,
+        "key": "224",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 5873,
+        "key": "230",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 5912,
+        "key": "232",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 6019,
+        "key": "233",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "45",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 6309,
+        "key": "245",
+        "token": false,
+        "score": 41.0,
+        "extra": [
+            "41",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "A",
+        "time": 7679,
+        "key": "299",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "G",
+        "time": 8117,
+        "key": "314",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 8859,
+        "key": "352",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "59"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "G",
+        "time": 8992,
+        "key": "359",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

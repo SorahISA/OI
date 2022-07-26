@@ -1,0 +1,13 @@
+{
+    "name": "B. \u64b2\u514b\u724c (cards)",
+    "short_name": "B",
+    "contest": "2022ionc-d2",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (37)",
+        "Subtask 2 (63)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
