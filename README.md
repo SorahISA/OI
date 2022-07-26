@@ -75,9 +75,19 @@ Actually not. Nothing is in [here](https://github.com/SorahISA/OI/tree/master/pr
 - [0x06 -- 2021 東區模擬賽](https://sorahisa.github.io/OI/DumpedRanks/0x06/ranking/Ranking.html)
   - No contest link right now.
 
+## IONCamp 2022
+
+- [Day 2 團體賽](https://sorahisa.github.io/OI/DumpedRanks/ionc2022_d2/ranking/Ranking.html)
+
+- Day 3 個人賽
+
+- Day 4 個人賽
+
+- Day 5 團體賽
+
 ## Others
 
--   BalticOI 2022 ([Official](https://sorahisa.github.io/OI/DumpedRanks/balticoi22/ranking/Ranking.html), [Mirror](https://sorahisa.github.io/OI/DumpedRanks/balticoi22-mirror/ranking/Ranking.html))
+- BalticOI 2022 ([Official](https://sorahisa.github.io/OI/DumpedRanks/balticoi22/ranking/Ranking.html), [Mirror](https://sorahisa.github.io/OI/DumpedRanks/balticoi22-mirror/ranking/Ranking.html))
     -   [Website](https://www.boi2022.de/)
 
 - [JOI 2021/2022 Final (Mirror)](https://sorahisa.github.io/OI/DumpedRanks/joi22_fin-mirror/ranking/Ranking.html)

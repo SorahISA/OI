@@ -385,15 +385,15 @@ abbr {
     width: 48px;
 }
 
-/* #Scoreboard_cols col.team { */
+#Scoreboard_cols col.team {
     /* This is the minimum width needed to contain a flag */
-    /* width: 42px; */
+    width: 42px;
     /* These rules set the horizontal padding to the same value as the
        vertical one (in presence of a flag with a 2:1 ratio) */
-    /* width: -webkit-calc(2em + 20px); */
-    /* width:    -moz-calc(2em + 20px); */
-    /* width:         calc(2em + 20px); */
-/* } */
+    width: -webkit-calc(2em + 20px);
+    width:    -moz-calc(2em + 20px);
+    width:         calc(2em + 20px);
+}
 
 #Scoreboard_head tr {
     height: 2.5em;
@@ -414,17 +414,17 @@ abbr {
     text-overflow: ellipsis;
 }
 
-/* #Scoreboard_body tr td.team { */
-    /* vertical-align: middle; */
-/* } */
+#Scoreboard_body tr td.team {
+    vertical-align: middle;
+}
 
-/* #Scoreboard_body tr td.team img { */
-    /* display: block; */
-    /* max-width: 40px; */
-    /* max-height: 20px; */
-    /* margin: 0 auto; */
-    /* box-shadow: 0 0 2px 0 gray; */
-/* } */
+#Scoreboard_body tr td.team img {
+    display: block;
+    max-width: 40px;
+    max-height: 20px;
+    margin: 0 auto;
+    box-shadow: 0 0 2px 0 gray;
+}
 
 #Scoreboard_head tr th,
 #Scoreboard_body tr td {
@@ -449,7 +449,8 @@ abbr {
 }
 
 #Scoreboard_body tr:hover td.f_name,
-#Scoreboard_body tr:hover td.l_name {
+#Scoreboard_body tr:hover td.l_name,
+#Scoreboard_body tr:hover td.team {
     background-color: rgba(200,200,200,0.35);
     border-radius: 5px;
 }
@@ -915,6 +916,7 @@ abbr {
 
 #UserDetail_f_name,
 #UserDetail_l_name,
+#UserDetail_team,
 #UserDetail_flag {
     position: absolute;
     right: 470px;
@@ -930,9 +932,9 @@ abbr {
     top: 1.5em;
 }
 
-/* #UserDetail_team { */
-    /* bottom: 100px; */
-/* } */
+#UserDetail_team {
+    bottom: 100px;
+}
 
 #UserDetail_flag {
     bottom: 0;
