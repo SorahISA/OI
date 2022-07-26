@@ -1,0 +1,109 @@
+{
+    "A": {
+        "name": "A. \u653e\u5927\u5668 (amplifier)",
+        "short_name": "A",
+        "contest": "2022ionc-d2",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (7)",
+            "Subtask 2 (22)",
+            "Subtask 3 (71)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "B. \u64b2\u514b\u724c (cards)",
+        "short_name": "B",
+        "contest": "2022ionc-d2",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (37)",
+            "Subtask 2 (63)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "C. \u56db\u8272\u554f\u984c (coloring)",
+        "short_name": "C",
+        "contest": "2022ionc-d2",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "D. \u6578\u6578\u5152 (counting)",
+        "short_name": "D",
+        "contest": "2022ionc-d2",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "E. \u5718\u9ad4\u8cfd\u5206\u7d44\u554f\u984c (grouping)",
+        "short_name": "E",
+        "contest": "2022ionc-d2",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (41)",
+            "Subtask 2 (59)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F": {
+        "name": "F. \u5e8f\u5217\u5207\u5206\u554f\u984c (sequence)",
+        "short_name": "F",
+        "contest": "2022ionc-d2",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (45)",
+            "Subtask 2 (55)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "G": {
+        "name": "G. \u4e92\u76f8\u5408\u4f5c (teamwork)",
+        "short_name": "G",
+        "contest": "2022ionc-d2",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (1)",
+            "Subtask 2 (2)",
+            "Subtask 3 (3)",
+            "Subtask 4 (46)",
+            "Subtask 5 (5)",
+            "Subtask 6 (23)",
+            "Subtask 7 (20)"
+        ],
+        "order": 6,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "H": {
+        "name": "H. \u92ea\u78c1\u78da\u554f\u984c (tiling)",
+        "short_name": "H",
+        "contest": "2022ionc-d2",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 7,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}

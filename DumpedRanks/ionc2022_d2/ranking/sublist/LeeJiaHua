@@ -1,0 +1,223 @@
+[
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 604,
+        "key": "14",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "H",
+        "time": 681,
+        "key": "18",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "F",
+        "time": 1366,
+        "key": "46",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "F",
+        "time": 1384,
+        "key": "48",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "C",
+        "time": 1776,
+        "key": "63",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "B",
+        "time": 1877,
+        "key": "67",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "F",
+        "time": 2174,
+        "key": "83",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "45",
+            "55"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "E",
+        "time": 3251,
+        "key": "134",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "59"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "G",
+        "time": 4148,
+        "key": "155",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "G",
+        "time": 4767,
+        "key": "184",
+        "token": false,
+        "score": 51.0,
+        "extra": [
+            "0",
+            "2",
+            "3",
+            "46",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "G",
+        "time": 4829,
+        "key": "186",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "G",
+        "time": 4859,
+        "key": "188",
+        "token": false,
+        "score": 57.0,
+        "extra": [
+            "1",
+            "2",
+            "3",
+            "46",
+            "5",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "G",
+        "time": 4922,
+        "key": "192",
+        "token": false,
+        "score": 57.0,
+        "extra": [
+            "1",
+            "2",
+            "3",
+            "46",
+            "5",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "A",
+        "time": 5775,
+        "key": "222",
+        "token": false,
+        "score": 22.0,
+        "extra": [
+            "0",
+            "22",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "A",
+        "time": 5834,
+        "key": "226",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "7",
+            "22",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "G",
+        "time": 8126,
+        "key": "315",
+        "token": false,
+        "score": 57.0,
+        "extra": [
+            "1",
+            "2",
+            "3",
+            "46",
+            "5",
+            "0",
+            "0"
+        ]
+    }
+]

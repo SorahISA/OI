@@ -1,0 +1,25 @@
+[
+    {
+        "user": "iambamzhuuuuu",
+        "task": "D",
+        "time": 2637,
+        "key": "109",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "iambamzhuuuuu",
+        "task": "B",
+        "time": 5251,
+        "key": "204",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    }
+]
