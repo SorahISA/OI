@@ -20,5 +20,16 @@
         "extra": [
             "0"
         ]
+    },
+    {
+        "user": "starryneko",
+        "task": "C",
+        "time": 5564,
+        "key": "327",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
     }
 ]

@@ -103,5 +103,57 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "H1De_iN_snOw",
+        "task": "F",
+        "time": 5454,
+        "key": "320",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "H1De_iN_snOw",
+        "task": "F",
+        "time": 5520,
+        "key": "325",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "H1De_iN_snOw",
+        "task": "G",
+        "time": 5837,
+        "key": "354",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "H1De_iN_snOw",
+        "task": "G",
+        "time": 6539,
+        "key": "406",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
     }
 ]

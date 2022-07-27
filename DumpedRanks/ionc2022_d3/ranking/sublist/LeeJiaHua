@@ -66,5 +66,40 @@
         "extra": [
             "100"
         ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "B",
+        "time": 5987,
+        "key": "373",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "B",
+        "time": 6221,
+        "key": "386",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 7677,
+        "key": "449",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "30",
+            "10",
+            "60"
+        ]
     }
 ]

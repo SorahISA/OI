@@ -81,5 +81,70 @@
         "extra": [
             "100"
         ]
+    },
+    {
+        "user": "089487",
+        "task": "A",
+        "time": 5848,
+        "key": "356",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "089487",
+        "task": "G",
+        "time": 6688,
+        "key": "414",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "089487",
+        "task": "G",
+        "time": 6857,
+        "key": "420",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "089487",
+        "task": "F",
+        "time": 7586,
+        "key": "444",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "089487",
+        "task": "F",
+        "time": 8858,
+        "key": "489",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
     }
 ]

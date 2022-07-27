@@ -31,5 +31,60 @@
         "extra": [
             "0"
         ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "B",
+        "time": 5589,
+        "key": "329",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "B",
+        "time": 6022,
+        "key": "376",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "B",
+        "time": 6406,
+        "key": "395",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "B",
+        "time": 6509,
+        "key": "401",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 7188,
+        "key": "430",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
     }
 ]

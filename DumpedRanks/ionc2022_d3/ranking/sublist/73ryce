@@ -53,5 +53,148 @@
         "extra": [
             "0"
         ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 5636,
+        "key": "334",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 5856,
+        "key": "358",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 5893,
+        "key": "361",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 6356,
+        "key": "394",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 6455,
+        "key": "398",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 6514,
+        "key": "402",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 6641,
+        "key": "409",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 6769,
+        "key": "416",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 6911,
+        "key": "422",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 7014,
+        "key": "426",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 7258,
+        "key": "432",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "E",
+        "time": 7549,
+        "key": "442",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "B",
+        "time": 7561,
+        "key": "443",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
     }
 ]

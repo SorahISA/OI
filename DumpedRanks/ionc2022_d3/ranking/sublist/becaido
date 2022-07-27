@@ -114,5 +114,97 @@
         "extra": [
             "0"
         ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 5850,
+        "key": "357",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 6526,
+        "key": "404",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 6715,
+        "key": "415",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "G",
+        "time": 8155,
+        "key": "463",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 8695,
+        "key": "478",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 8735,
+        "key": "479",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 8765,
+        "key": "482",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "F",
+        "time": 8901,
+        "key": "490",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
     }
 ]

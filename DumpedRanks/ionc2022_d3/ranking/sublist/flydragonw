@@ -1,0 +1,35 @@
+[
+    {
+        "user": "flydragonw",
+        "task": "C",
+        "time": 5875,
+        "key": "359",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "C",
+        "time": 5943,
+        "key": "368",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "C",
+        "time": 6073,
+        "key": "379",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

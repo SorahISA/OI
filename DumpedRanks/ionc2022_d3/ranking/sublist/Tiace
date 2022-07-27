@@ -86,5 +86,27 @@
         "extra": [
             "90"
         ]
+    },
+    {
+        "user": "Tiace",
+        "task": "B",
+        "time": 5559,
+        "key": "326",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tiace",
+        "task": "B",
+        "time": 5630,
+        "key": "331",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
     }
 ]

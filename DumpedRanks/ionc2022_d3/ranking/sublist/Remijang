@@ -68,5 +68,41 @@
         "extra": [
             "100"
         ]
+    },
+    {
+        "user": "Remijang",
+        "task": "F",
+        "time": 6171,
+        "key": "382",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "C",
+        "time": 7995,
+        "key": "458",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "C",
+        "time": 8231,
+        "key": "465",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
     }
 ]

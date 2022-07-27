@@ -97,5 +97,44 @@
         "extra": [
             "100"
         ]
+    },
+    {
+        "user": "same0620",
+        "task": "D",
+        "time": 6276,
+        "key": "391",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "30",
+            "10",
+            "60"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "A",
+        "time": 8356,
+        "key": "470",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "A",
+        "time": 8750,
+        "key": "481",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "55",
+            "4"
+        ]
     }
 ]

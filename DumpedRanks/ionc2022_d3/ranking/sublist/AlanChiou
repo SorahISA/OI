@@ -53,5 +53,38 @@
         "extra": [
             "0"
         ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "B",
+        "time": 5765,
+        "key": "349",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "B",
+        "time": 7773,
+        "key": "453",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "B",
+        "time": 8456,
+        "key": "472",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
     }
 ]

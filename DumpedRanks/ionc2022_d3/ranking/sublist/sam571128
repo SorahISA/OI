@@ -56,5 +56,30 @@
         "extra": [
             "100"
         ]
+    },
+    {
+        "user": "sam571128",
+        "task": "D",
+        "time": 6803,
+        "key": "418",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "30",
+            "10",
+            "60"
+        ]
+    },
+    {
+        "user": "sam571128",
+        "task": "G",
+        "time": 8997,
+        "key": "497",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
     }
 ]

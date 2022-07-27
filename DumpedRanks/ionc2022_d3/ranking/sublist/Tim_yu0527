@@ -121,5 +121,60 @@
         "extra": [
             "0"
         ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 5644,
+        "key": "338",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 5658,
+        "key": "339",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 6260,
+        "key": "389",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 6406,
+        "key": "396",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 7542,
+        "key": "441",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
     }
 ]

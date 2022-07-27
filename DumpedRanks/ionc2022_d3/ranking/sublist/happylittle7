@@ -53,5 +53,72 @@
         "extra": [
             "80"
         ]
+    },
+    {
+        "user": "happylittle7",
+        "task": "F",
+        "time": 5676,
+        "key": "341",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "happylittle7",
+        "task": "F",
+        "time": 5905,
+        "key": "363",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "happylittle7",
+        "task": "F",
+        "time": 6303,
+        "key": "392",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "happylittle7",
+        "task": "F",
+        "time": 6980,
+        "key": "424",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "happylittle7",
+        "task": "B",
+        "time": 7493,
+        "key": "438",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
     }
 ]

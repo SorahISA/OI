@@ -42,5 +42,19 @@
         "extra": [
             "80"
         ]
+    },
+    {
+        "user": "slimeishandsome",
+        "task": "F",
+        "time": 8945,
+        "key": "493",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
     }
 ]

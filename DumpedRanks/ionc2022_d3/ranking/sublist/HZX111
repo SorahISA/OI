@@ -31,5 +31,16 @@
         "extra": [
             "0"
         ]
+    },
+    {
+        "user": "HZX111",
+        "task": "C",
+        "time": 7106,
+        "key": "428",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
     }
 ]

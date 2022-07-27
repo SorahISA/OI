@@ -101,5 +101,147 @@
             "10",
             "60"
         ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "B",
+        "time": 5483,
+        "key": "323",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "B",
+        "time": 5584,
+        "key": "328",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "B",
+        "time": 5641,
+        "key": "335",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "B",
+        "time": 5691,
+        "key": "342",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "B",
+        "time": 5754,
+        "key": "348",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "B",
+        "time": 5827,
+        "key": "353",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "B",
+        "time": 5915,
+        "key": "365",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "A",
+        "time": 7696,
+        "key": "450",
+        "token": false,
+        "score": 96.0,
+        "extra": [
+            "41",
+            "55",
+            "0"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "A",
+        "time": 7728,
+        "key": "451",
+        "token": false,
+        "score": 96.0,
+        "extra": [
+            "41",
+            "55",
+            "0"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "A",
+        "time": 7755,
+        "key": "452",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "55",
+            "4"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "G",
+        "time": 8233,
+        "key": "466",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "penguin71630",
+        "task": "F",
+        "time": 8534,
+        "key": "473",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
     }
 ]

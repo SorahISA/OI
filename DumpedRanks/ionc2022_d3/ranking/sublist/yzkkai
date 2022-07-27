@@ -31,5 +31,38 @@
         "extra": [
             "80"
         ]
+    },
+    {
+        "user": "yzkkai",
+        "task": "B",
+        "time": 5610,
+        "key": "330",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "yzkkai",
+        "task": "B",
+        "time": 5642,
+        "key": "337",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "yzkkai",
+        "task": "E",
+        "time": 6161,
+        "key": "381",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
     }
 ]

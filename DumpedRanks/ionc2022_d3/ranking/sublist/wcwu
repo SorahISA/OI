@@ -90,5 +90,45 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "wcwu",
+        "task": "D",
+        "time": 5464,
+        "key": "322",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "30",
+            "10",
+            "60"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "F",
+        "time": 5766,
+        "key": "350",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 7442,
+        "key": "437",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
     }
 ]

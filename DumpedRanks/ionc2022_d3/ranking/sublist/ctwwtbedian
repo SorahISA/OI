@@ -1,0 +1,46 @@
+[
+    {
+        "user": "ctwwtbedian",
+        "task": "C",
+        "time": 6222,
+        "key": "387",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "ctwwtbedian",
+        "task": "B",
+        "time": 7594,
+        "key": "445",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ctwwtbedian",
+        "task": "B",
+        "time": 8150,
+        "key": "462",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ctwwtbedian",
+        "task": "B",
+        "time": 8815,
+        "key": "485",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    }
+]

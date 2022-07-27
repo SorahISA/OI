@@ -110,5 +110,54 @@
         "extra": [
             "100"
         ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "A",
+        "time": 6218,
+        "key": "385",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "G",
+        "time": 7261,
+        "key": "433",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "G",
+        "time": 7324,
+        "key": "435",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "G",
+        "time": 8848,
+        "key": "487",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "50",
+            "0"
+        ]
     }
 ]

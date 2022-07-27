@@ -160,5 +160,28 @@
             "10",
             "60"
         ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "G",
+        "time": 8128,
+        "key": "460",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "50",
+            "50"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "B",
+        "time": 8426,
+        "key": "471",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
     }
 ]

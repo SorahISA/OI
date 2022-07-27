@@ -103,5 +103,68 @@
             "10",
             "60"
         ]
+    },
+    {
+        "user": "Koying",
+        "task": "A",
+        "time": 5767,
+        "key": "351",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "A",
+        "time": 5911,
+        "key": "364",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "A",
+        "time": 5927,
+        "key": "366",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "G",
+        "time": 8817,
+        "key": "486",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "G",
+        "time": 8929,
+        "key": "491",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "50",
+            "0"
+        ]
     }
 ]

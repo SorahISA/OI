@@ -20,5 +20,16 @@
         "extra": [
             "0"
         ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "B",
+        "time": 6525,
+        "key": "403",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
     }
 ]
