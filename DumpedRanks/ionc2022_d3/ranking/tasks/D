@@ -1,0 +1,14 @@
+{
+    "name": "D. \u7c89\u5713\u805a\u96c6 (pearls)",
+    "short_name": "D",
+    "contest": "2022ionc-d3",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (30)",
+        "Subtask 2 (10)",
+        "Subtask 3 (60)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

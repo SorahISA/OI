@@ -1,0 +1,35 @@
+[
+    {
+        "user": "lai.abc8660",
+        "task": "C",
+        "time": 497,
+        "key": "17",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 4387,
+        "key": "247",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 4769,
+        "key": "274",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

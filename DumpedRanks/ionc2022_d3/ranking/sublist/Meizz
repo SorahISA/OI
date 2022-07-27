@@ -1,0 +1,46 @@
+[
+    {
+        "user": "Meizz",
+        "task": "C",
+        "time": 1402,
+        "key": "80",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Meizz",
+        "task": "C",
+        "time": 2576,
+        "key": "158",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Meizz",
+        "task": "C",
+        "time": 2796,
+        "key": "170",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Meizz",
+        "task": "B",
+        "time": 4182,
+        "key": "236",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

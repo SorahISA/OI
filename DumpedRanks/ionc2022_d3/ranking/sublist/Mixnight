@@ -1,0 +1,49 @@
+[
+    {
+        "user": "Mixnight",
+        "task": "C",
+        "time": 1128,
+        "key": "59",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Mixnight",
+        "task": "C",
+        "time": 1199,
+        "key": "64",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Mixnight",
+        "task": "F",
+        "time": 2875,
+        "key": "176",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Mixnight",
+        "task": "B",
+        "time": 4184,
+        "key": "238",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    }
+]

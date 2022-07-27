@@ -1,0 +1,107 @@
+[
+    {
+        "user": "Dash0608",
+        "task": "F",
+        "time": 1480,
+        "key": "86",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "F",
+        "time": 2379,
+        "key": "139",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "C",
+        "time": 2832,
+        "key": "173",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "C",
+        "time": 3168,
+        "key": "192",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "B",
+        "time": 4597,
+        "key": "264",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "B",
+        "time": 4727,
+        "key": "272",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "B",
+        "time": 5039,
+        "key": "293",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "B",
+        "time": 5187,
+        "key": "303",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "B",
+        "time": 5252,
+        "key": "308",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

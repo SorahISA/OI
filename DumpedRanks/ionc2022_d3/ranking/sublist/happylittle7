@@ -1,0 +1,57 @@
+[
+    {
+        "user": "happylittle7",
+        "task": "C",
+        "time": 726,
+        "key": "33",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "happylittle7",
+        "task": "C",
+        "time": 982,
+        "key": "45",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "happylittle7",
+        "task": "C",
+        "time": 1230,
+        "key": "67",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "happylittle7",
+        "task": "C",
+        "time": 1648,
+        "key": "95",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "happylittle7",
+        "task": "B",
+        "time": 2759,
+        "key": "166",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    }
+]

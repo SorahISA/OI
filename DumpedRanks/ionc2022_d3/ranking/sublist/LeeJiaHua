@@ -1,0 +1,70 @@
+[
+    {
+        "user": "LeeJiaHua",
+        "task": "C",
+        "time": 367,
+        "key": "9",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "B",
+        "time": 672,
+        "key": "29",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "B",
+        "time": 1689,
+        "key": "98",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "B",
+        "time": 2055,
+        "key": "112",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "A",
+        "time": 3794,
+        "key": "213",
+        "token": false,
+        "score": 96.0,
+        "extra": [
+            "41",
+            "55",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "E",
+        "time": 5174,
+        "key": "301",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

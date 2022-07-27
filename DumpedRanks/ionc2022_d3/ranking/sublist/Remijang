@@ -1,0 +1,72 @@
+[
+    {
+        "user": "Remijang",
+        "task": "D",
+        "time": 2844,
+        "key": "174",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "30",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "D",
+        "time": 2956,
+        "key": "181",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "30",
+            "10",
+            "60"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 4007,
+        "key": "225",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 4859,
+        "key": "281",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 5059,
+        "key": "295",
+        "token": false,
+        "score": 90.0,
+        "extra": [
+            "90"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 5225,
+        "key": "306",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

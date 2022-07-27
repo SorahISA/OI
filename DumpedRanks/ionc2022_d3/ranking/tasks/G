@@ -1,0 +1,13 @@
+{
+    "name": "G. TypeRacer 2 (typeracer2)",
+    "short_name": "G",
+    "contest": "2022ionc-d3",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (50)",
+        "Subtask 2 (50)"
+    ],
+    "order": 6,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,0 +1,12 @@
+{
+    "name": "B. \u5716\u69cb\u9020\u554f\u984c (construct)",
+    "short_name": "B",
+    "contest": "2022ionc-d3",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (100)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

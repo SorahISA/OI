@@ -1,0 +1,85 @@
+[
+    {
+        "user": "ColtenOuO",
+        "task": "C",
+        "time": 198,
+        "key": "4",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "A",
+        "time": 1304,
+        "key": "72",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "D",
+        "time": 3999,
+        "key": "222",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "D",
+        "time": 4218,
+        "key": "240",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "B",
+        "time": 4507,
+        "key": "258",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "B",
+        "time": 4564,
+        "key": "262",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "B",
+        "time": 4659,
+        "key": "268",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

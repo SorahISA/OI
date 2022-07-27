@@ -1,0 +1,57 @@
+[
+    {
+        "user": "rycya95",
+        "task": "C",
+        "time": 434,
+        "key": "13",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "C",
+        "time": 1594,
+        "key": "93",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "B",
+        "time": 3666,
+        "key": "206",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "B",
+        "time": 4160,
+        "key": "235",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "B",
+        "time": 5033,
+        "key": "292",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "user": "kyoya3510",
+        "task": "C",
+        "time": 2437,
+        "key": "144",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "kyoya3510",
+        "task": "C",
+        "time": 2540,
+        "key": "155",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "kyoya3510",
+        "task": "C",
+        "time": 4183,
+        "key": "237",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

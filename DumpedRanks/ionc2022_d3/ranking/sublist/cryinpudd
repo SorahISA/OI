@@ -1,0 +1,24 @@
+[
+    {
+        "user": "cryinpudd",
+        "task": "C",
+        "time": 4655,
+        "key": "267",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "cryinpudd",
+        "task": "C",
+        "time": 5323,
+        "key": "312",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

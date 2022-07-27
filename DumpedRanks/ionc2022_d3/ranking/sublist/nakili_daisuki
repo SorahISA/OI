@@ -1,0 +1,60 @@
+[
+    {
+        "user": "nakili_daisuki",
+        "task": "C",
+        "time": 1526,
+        "key": "88",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "nakili_daisuki",
+        "task": "C",
+        "time": 1685,
+        "key": "97",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "nakili_daisuki",
+        "task": "B",
+        "time": 2241,
+        "key": "130",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "nakili_daisuki",
+        "task": "C",
+        "time": 2684,
+        "key": "163",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "nakili_daisuki",
+        "task": "F",
+        "time": 4121,
+        "key": "232",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

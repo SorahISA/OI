@@ -1,0 +1,118 @@
+[
+    {
+        "user": "becaido",
+        "task": "D",
+        "time": 1058,
+        "key": "51",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "30",
+            "10",
+            "60"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "C",
+        "time": 1434,
+        "key": "82",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "C",
+        "time": 1471,
+        "key": "84",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "E",
+        "time": 1878,
+        "key": "107",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "B",
+        "time": 2900,
+        "key": "177",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "A",
+        "time": 3610,
+        "key": "205",
+        "token": false,
+        "score": 96.0,
+        "extra": [
+            "41",
+            "55",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "A",
+        "time": 3852,
+        "key": "215",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "55",
+            "4"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "B",
+        "time": 4003,
+        "key": "224",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 4834,
+        "key": "278",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 4938,
+        "key": "285",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

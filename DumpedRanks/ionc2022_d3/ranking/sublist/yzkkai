@@ -1,0 +1,35 @@
+[
+    {
+        "user": "yzkkai",
+        "task": "C",
+        "time": 705,
+        "key": "31",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "yzkkai",
+        "task": "C",
+        "time": 768,
+        "key": "34",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "yzkkai",
+        "task": "B",
+        "time": 5060,
+        "key": "296",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "user": "brown_toad",
+        "task": "C",
+        "time": 580,
+        "key": "22",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "C",
+        "time": 703,
+        "key": "30",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "D",
+        "time": 2192,
+        "key": "122",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "D",
+        "time": 2433,
+        "key": "143",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "D",
+        "time": 3059,
+        "key": "185",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "30",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "E",
+        "time": 4489,
+        "key": "256",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "B",
+        "time": 5332,
+        "key": "313",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

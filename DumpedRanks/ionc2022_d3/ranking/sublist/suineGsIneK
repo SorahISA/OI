@@ -1,0 +1,134 @@
+[
+    {
+        "user": "suineGsIneK",
+        "task": "D",
+        "time": 968,
+        "key": "44",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "D",
+        "time": 997,
+        "key": "46",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "30",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "D",
+        "time": 1104,
+        "key": "55",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "30",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "D",
+        "time": 1206,
+        "key": "65",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "30",
+            "10",
+            "60"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "C",
+        "time": 1369,
+        "key": "76",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "B",
+        "time": 1547,
+        "key": "89",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "C",
+        "time": 1665,
+        "key": "96",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "B",
+        "time": 1744,
+        "key": "101",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "E",
+        "time": 3347,
+        "key": "198",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "F",
+        "time": 4008,
+        "key": "226",
+        "token": false,
+        "score": 83.0,
+        "extra": [
+            "0",
+            "25",
+            "58",
+            "0"
+        ]
+    },
+    {
+        "user": "suineGsIneK",
+        "task": "B",
+        "time": 5217,
+        "key": "304",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

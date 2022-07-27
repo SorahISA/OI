@@ -1,0 +1,14 @@
+{
+    "name": "A. \u641c\u5c0b\u4e8c\u5143\u6a39 (binarytree)",
+    "short_name": "A",
+    "contest": "2022ionc-d3",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (41)",
+        "Subtask 2 (55)",
+        "Subtask 3 (4)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

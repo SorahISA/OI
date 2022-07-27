@@ -1,0 +1,125 @@
+[
+    {
+        "user": "Tim_yu0527",
+        "task": "C",
+        "time": 872,
+        "key": "39",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "C",
+        "time": 949,
+        "key": "40",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "A",
+        "time": 2224,
+        "key": "128",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "E",
+        "time": 4394,
+        "key": "248",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "E",
+        "time": 4431,
+        "key": "252",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "E",
+        "time": 4456,
+        "key": "254",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 4700,
+        "key": "271",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 4869,
+        "key": "283",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 4936,
+        "key": "284",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 5043,
+        "key": "294",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Tim_yu0527",
+        "task": "B",
+        "time": 5265,
+        "key": "309",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]
