@@ -18,15 +18,16 @@
 var escapeHTML = (function() {
     var escapeMap = {
         '&' : '&amp;',
-        '<' : '&lt;',
-        '>' : '&gt;',
+        // '<' : '&lt;',
+        // '>' : '&gt;',
         '"' : '&quot;',
         "'" : '&#x27;',
         '/' : '&#x2F;',
         '`' : '&#x60;'
     };
     var escapeHTML = function(str) {
-        return String(str).replace(/[&<>"'\/`]/g, function(ch) {
+        // return String(str).replace(/[&<>"'\/`]/g, function(ch) {
+        return String(str).replace(/[&"'\/`]/g, function(ch) {
             return escapeMap[ch];
         });
     };
