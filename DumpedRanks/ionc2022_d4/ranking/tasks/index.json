@@ -1,0 +1,115 @@
+{
+    "A": {
+        "name": "A. \u5171\u540c\u5b88\u5247 (commonrule)",
+        "short_name": "A",
+        "contest": "2022ionc-d4",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (6)",
+            "Subtask 2 (40)",
+            "Subtask 3 (12)",
+            "Subtask 4 (11)",
+            "Subtask 5 (31)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "B. \u706b\u7403\u70e4\u9905\u4e7e (cookies)",
+        "short_name": "B",
+        "contest": "2022ionc-d4",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "C": {
+        "name": "C. \u597d\u591a\u53ef\u611b\u8c93\u8c93 (cutecat)",
+        "short_name": "C",
+        "contest": "2022ionc-d4",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "D. So Easy Math Problem (easymath)",
+        "short_name": "D",
+        "contest": "2022ionc-d4",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "E. \u5e73\u65b9\u6578\u56e0\u6578 (factor2)",
+        "short_name": "E",
+        "contest": "2022ionc-d4",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (1)",
+            "Subtask 2 (7)",
+            "Subtask 3 (92)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "F": {
+        "name": "F. \u91d1\u7926 (goldmine)",
+        "short_name": "F",
+        "contest": "2022ionc-d4",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (37)",
+            "Subtask 2 (63)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "G": {
+        "name": "G. \u5967\u68ee\u5927\u8ff7\u5bae (osenmaze)",
+        "short_name": "G",
+        "contest": "2022ionc-d4",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (19)",
+            "Subtask 2 (23)",
+            "Subtask 3 (58)"
+        ],
+        "order": 6,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "H": {
+        "name": "H. Sorting Master (sort)",
+        "short_name": "H",
+        "contest": "2022ionc-d4",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (1)",
+            "Subtask 2 (20)",
+            "Subtask 3 (5)",
+            "Subtask 4 (18)",
+            "Subtask 5 (13)",
+            "Subtask 6 (12)",
+            "Subtask 7 (3)",
+            "Subtask 8 (6)",
+            "Subtask 9 (22)"
+        ],
+        "order": 7,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}

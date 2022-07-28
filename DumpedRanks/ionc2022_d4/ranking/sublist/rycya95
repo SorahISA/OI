@@ -1,0 +1,63 @@
+[
+    {
+        "user": "rycya95",
+        "task": "E",
+        "time": 545,
+        "key": "15",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "E",
+        "time": 894,
+        "key": "26",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "F",
+        "time": 3101,
+        "key": "142",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "F",
+        "time": 3493,
+        "key": "157",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "37",
+            "0"
+        ]
+    },
+    {
+        "user": "rycya95",
+        "task": "D",
+        "time": 4970,
+        "key": "210",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

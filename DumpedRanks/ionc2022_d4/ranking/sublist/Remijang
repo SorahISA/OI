@@ -1,0 +1,256 @@
+[
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 169,
+        "key": "0",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 409,
+        "key": "11",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 628,
+        "key": "17",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 1034,
+        "key": "33",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 1160,
+        "key": "37",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 1218,
+        "key": "43",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 1321,
+        "key": "48",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 1416,
+        "key": "52",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 1543,
+        "key": "56",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 1772,
+        "key": "64",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "E",
+        "time": 2489,
+        "key": "113",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "F",
+        "time": 4672,
+        "key": "200",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "D",
+        "time": 6176,
+        "key": "284",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "C",
+        "time": 7232,
+        "key": "354",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 8146,
+        "key": "416",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 8273,
+        "key": "427",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 8360,
+        "key": "431",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 8541,
+        "key": "449",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 8967,
+        "key": "496",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 9040,
+        "key": "510",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Remijang",
+        "task": "B",
+        "time": 9248,
+        "key": "525",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

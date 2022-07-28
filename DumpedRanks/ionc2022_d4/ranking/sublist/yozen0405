@@ -1,0 +1,37 @@
+[
+    {
+        "user": "yozen0405",
+        "task": "C",
+        "time": 2382,
+        "key": "104",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "F",
+        "time": 4907,
+        "key": "208",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "37",
+            "0"
+        ]
+    },
+    {
+        "user": "yozen0405",
+        "task": "F",
+        "time": 5481,
+        "key": "242",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "user": "patrickh",
+        "task": "B",
+        "time": 2667,
+        "key": "125",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "patrickh",
+        "task": "C",
+        "time": 3622,
+        "key": "163",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "patrickh",
+        "task": "E",
+        "time": 4541,
+        "key": "191",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "patrickh",
+        "task": "F",
+        "time": 6555,
+        "key": "306",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "patrickh",
+        "task": "D",
+        "time": 7754,
+        "key": "391",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "patrickh",
+        "task": "D",
+        "time": 7890,
+        "key": "400",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "patrickh",
+        "task": "E",
+        "time": 8954,
+        "key": "494",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "patrickh",
+        "task": "E",
+        "time": 9014,
+        "key": "508",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "patrickh",
+        "task": "E",
+        "time": 9373,
+        "key": "534",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    }
+]

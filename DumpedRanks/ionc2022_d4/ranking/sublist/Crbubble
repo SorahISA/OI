@@ -1,0 +1,192 @@
+[
+    {
+        "user": "Crbubble",
+        "task": "D",
+        "time": 3181,
+        "key": "146",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "C",
+        "time": 3564,
+        "key": "159",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "C",
+        "time": 3591,
+        "key": "160",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "C",
+        "time": 3615,
+        "key": "162",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "E",
+        "time": 4082,
+        "key": "182",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "D",
+        "time": 5089,
+        "key": "213",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "F",
+        "time": 6178,
+        "key": "285",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "D",
+        "time": 7240,
+        "key": "355",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "D",
+        "time": 8701,
+        "key": "463",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "E",
+        "time": 8807,
+        "key": "475",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "A",
+        "time": 9076,
+        "key": "516",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "A",
+        "time": 9331,
+        "key": "531",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "A",
+        "time": 9361,
+        "key": "532",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "A",
+        "time": 9419,
+        "key": "539",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Crbubble",
+        "task": "A",
+        "time": 9585,
+        "key": "550",
+        "token": false,
+        "score": 11.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "11",
+            "0"
+        ]
+    }
+]

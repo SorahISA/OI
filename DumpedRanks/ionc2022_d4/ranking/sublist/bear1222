@@ -1,0 +1,142 @@
+[
+    {
+        "user": "bear1222",
+        "task": "C",
+        "time": 781,
+        "key": "21",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "F",
+        "time": 1669,
+        "key": "61",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "D",
+        "time": 2263,
+        "key": "98",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "D",
+        "time": 2564,
+        "key": "121",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "D",
+        "time": 2711,
+        "key": "128",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "D",
+        "time": 2740,
+        "key": "130",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "E",
+        "time": 3208,
+        "key": "147",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "A",
+        "time": 6507,
+        "key": "303",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "A",
+        "time": 6648,
+        "key": "312",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "A",
+        "time": 7558,
+        "key": "379",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "bear1222",
+        "task": "A",
+        "time": 7618,
+        "key": "381",
+        "token": false,
+        "score": 11.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "11",
+            "0"
+        ]
+    }
+]

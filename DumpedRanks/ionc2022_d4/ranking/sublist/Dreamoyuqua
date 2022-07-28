@@ -1,0 +1,37 @@
+[
+    {
+        "user": "Dreamoyuqua",
+        "task": "C",
+        "time": 5359,
+        "key": "226",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Dreamoyuqua",
+        "task": "F",
+        "time": 8595,
+        "key": "455",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Dreamoyuqua",
+        "task": "F",
+        "time": 9059,
+        "key": "513",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "name": "F. \u91d1\u7926 (goldmine)",
+    "short_name": "F",
+    "contest": "2022ionc-d4",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (37)",
+        "Subtask 2 (63)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

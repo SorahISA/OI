@@ -1,0 +1,26 @@
+[
+    {
+        "user": "slimeishandsome",
+        "task": "E",
+        "time": 2607,
+        "key": "123",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "slimeishandsome",
+        "task": "D",
+        "time": 4407,
+        "key": "188",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "user": "super.ryanlin",
+        "task": "E",
+        "time": 955,
+        "key": "30",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "C",
+        "time": 1192,
+        "key": "40",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "D",
+        "time": 2170,
+        "key": "85",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "D",
+        "time": 2555,
+        "key": "120",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "D",
+        "time": 2915,
+        "key": "136",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "F",
+        "time": 5230,
+        "key": "218",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "F",
+        "time": 5331,
+        "key": "222",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "37",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 6019,
+        "key": "275",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 6067,
+        "key": "278",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 6112,
+        "key": "281",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 6206,
+        "key": "287",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 6979,
+        "key": "337",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 7112,
+        "key": "344",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 7277,
+        "key": "359",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 7459,
+        "key": "371",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "6",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "F",
+        "time": 7627,
+        "key": "383",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 8834,
+        "key": "480",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "A",
+        "time": 8975,
+        "key": "500",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "super.ryanlin",
+        "task": "E",
+        "time": 9562,
+        "key": "546",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

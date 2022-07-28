@@ -1,0 +1,128 @@
+[
+    {
+        "user": "Koying",
+        "task": "C",
+        "time": 2496,
+        "key": "114",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "F",
+        "time": 2515,
+        "key": "115",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 2525,
+        "key": "116",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 3810,
+        "key": "172",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 4013,
+        "key": "180",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 4322,
+        "key": "187",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 4491,
+        "key": "190",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 4578,
+        "key": "194",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 4850,
+        "key": "203",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 4907,
+        "key": "207",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 5645,
+        "key": "253",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    }
+]

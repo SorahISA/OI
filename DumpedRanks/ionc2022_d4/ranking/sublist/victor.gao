@@ -1,0 +1,191 @@
+[
+    {
+        "user": "victor.gao",
+        "task": "A",
+        "time": 5428,
+        "key": "233",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "6",
+            "40",
+            "12",
+            "11",
+            "31"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "C",
+        "time": 5437,
+        "key": "235",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "D",
+        "time": 5448,
+        "key": "236",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "E",
+        "time": 5455,
+        "key": "238",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "F",
+        "time": 5463,
+        "key": "240",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "E",
+        "time": 5522,
+        "key": "243",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "E",
+        "time": 5638,
+        "key": "250",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "1",
+            "7",
+            "92"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "G",
+        "time": 6973,
+        "key": "336",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "19",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "B",
+        "time": 7709,
+        "key": "388",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "B",
+        "time": 7900,
+        "key": "402",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "B",
+        "time": 7995,
+        "key": "407",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "B",
+        "time": 8259,
+        "key": "425",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "B",
+        "time": 8380,
+        "key": "433",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "B",
+        "time": 8500,
+        "key": "445",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "B",
+        "time": 8972,
+        "key": "498",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "victor.gao",
+        "task": "B",
+        "time": 9575,
+        "key": "549",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

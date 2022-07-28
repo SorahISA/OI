@@ -1,0 +1,12 @@
+{
+    "name": "C. \u597d\u591a\u53ef\u611b\u8c93\u8c93 (cutecat)",
+    "short_name": "C",
+    "contest": "2022ionc-d4",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (100)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

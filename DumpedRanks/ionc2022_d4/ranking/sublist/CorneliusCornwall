@@ -1,0 +1,80 @@
+[
+    {
+        "user": "CorneliusCornwall",
+        "task": "E",
+        "time": 2015,
+        "key": "76",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "E",
+        "time": 2431,
+        "key": "107",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "E",
+        "time": 2540,
+        "key": "118",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "E",
+        "time": 2752,
+        "key": "131",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "E",
+        "time": 7976,
+        "key": "406",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "E",
+        "time": 8811,
+        "key": "476",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    }
+]

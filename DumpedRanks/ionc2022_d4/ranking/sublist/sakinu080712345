@@ -1,0 +1,116 @@
+[
+    {
+        "user": "sakinu080712345",
+        "task": "C",
+        "time": 4596,
+        "key": "196",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "sakinu080712345",
+        "task": "F",
+        "time": 5830,
+        "key": "267",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "sakinu080712345",
+        "task": "D",
+        "time": 7959,
+        "key": "405",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "sakinu080712345",
+        "task": "E",
+        "time": 8258,
+        "key": "424",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "sakinu080712345",
+        "task": "E",
+        "time": 8617,
+        "key": "459",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sakinu080712345",
+        "task": "E",
+        "time": 8995,
+        "key": "504",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sakinu080712345",
+        "task": "A",
+        "time": 9271,
+        "key": "527",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sakinu080712345",
+        "task": "E",
+        "time": 9304,
+        "key": "528",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "sakinu080712345",
+        "task": "E",
+        "time": 9369,
+        "key": "533",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

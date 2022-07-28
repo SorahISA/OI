@@ -1,0 +1,49 @@
+[
+    {
+        "user": "73ryce",
+        "task": "D",
+        "time": 1894,
+        "key": "69",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "D",
+        "time": 3811,
+        "key": "173",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "F",
+        "time": 6421,
+        "key": "300",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "73ryce",
+        "task": "E",
+        "time": 7722,
+        "key": "389",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    }
+]

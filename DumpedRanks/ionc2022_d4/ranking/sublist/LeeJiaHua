@@ -1,0 +1,202 @@
+[
+    {
+        "user": "LeeJiaHua",
+        "task": "C",
+        "time": 299,
+        "key": "5",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "F",
+        "time": 1348,
+        "key": "49",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 2175,
+        "key": "86",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 2245,
+        "key": "96",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 2443,
+        "key": "109",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 2844,
+        "key": "134",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 3151,
+        "key": "144",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 4952,
+        "key": "209",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 5410,
+        "key": "230",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 5849,
+        "key": "268",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "E",
+        "time": 6725,
+        "key": "321",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "D",
+        "time": 7381,
+        "key": "366",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "E",
+        "time": 7544,
+        "key": "378",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "A",
+        "time": 8544,
+        "key": "450",
+        "token": false,
+        "score": 6.0,
+        "extra": [
+            "6",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "B",
+        "time": 9072,
+        "key": "515",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "E",
+        "time": 9087,
+        "key": "517",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "LeeJiaHua",
+        "task": "E",
+        "time": 9250,
+        "key": "526",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

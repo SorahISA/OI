@@ -1,0 +1,28 @@
+[
+    {
+        "user": "algo-Henry_C",
+        "task": "E",
+        "time": 654,
+        "key": "18",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "algo-Henry_C",
+        "task": "E",
+        "time": 856,
+        "key": "24",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    }
+]

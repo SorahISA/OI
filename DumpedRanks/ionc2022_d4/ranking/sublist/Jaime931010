@@ -1,0 +1,35 @@
+[
+    {
+        "user": "Jaime931010",
+        "task": "C",
+        "time": 2240,
+        "key": "95",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Jaime931010",
+        "task": "C",
+        "time": 5535,
+        "key": "245",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Jaime931010",
+        "task": "C",
+        "time": 9325,
+        "key": "530",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "user": "Dash0608",
+        "task": "E",
+        "time": 922,
+        "key": "29",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "B",
+        "time": 5885,
+        "key": "270",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "F",
+        "time": 6740,
+        "key": "323",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "F",
+        "time": 6850,
+        "key": "328",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "F",
+        "time": 7025,
+        "key": "340",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "F",
+        "time": 7252,
+        "key": "358",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "37",
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "E",
+        "time": 8905,
+        "key": "487",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "B",
+        "time": 9117,
+        "key": "518",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "B",
+        "time": 9144,
+        "key": "519",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "Dash0608",
+        "task": "E",
+        "time": 9478,
+        "key": "541",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    }
+]

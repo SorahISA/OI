@@ -1,0 +1,263 @@
+[
+    {
+        "user": "becaido",
+        "task": "C",
+        "time": 295,
+        "key": "3",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "E",
+        "time": 1044,
+        "key": "34",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "1",
+            "7",
+            "92"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "F",
+        "time": 1369,
+        "key": "50",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "D",
+        "time": 1725,
+        "key": "63",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "A",
+        "time": 2188,
+        "key": "90",
+        "token": false,
+        "score": 11.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "11",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "A",
+        "time": 2308,
+        "key": "101",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "6",
+            "40",
+            "12",
+            "11",
+            "31"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "G",
+        "time": 3773,
+        "key": "171",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "19",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "G",
+        "time": 3900,
+        "key": "175",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "19",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "B",
+        "time": 6040,
+        "key": "276",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "B",
+        "time": 6444,
+        "key": "301",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 7540,
+        "key": "377",
+        "token": false,
+        "score": 44.0,
+        "extra": [
+            "1",
+            "20",
+            "5",
+            "18",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 8051,
+        "key": "409",
+        "token": false,
+        "score": 44.0,
+        "extra": [
+            "1",
+            "20",
+            "5",
+            "18",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 8136,
+        "key": "415",
+        "token": false,
+        "score": 57.0,
+        "extra": [
+            "1",
+            "20",
+            "5",
+            "18",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 8215,
+        "key": "419",
+        "token": false,
+        "score": 57.0,
+        "extra": [
+            "1",
+            "20",
+            "5",
+            "18",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 8249,
+        "key": "423",
+        "token": false,
+        "score": 69.0,
+        "extra": [
+            "1",
+            "20",
+            "5",
+            "18",
+            "13",
+            "12",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "B",
+        "time": 8410,
+        "key": "437",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "B",
+        "time": 8592,
+        "key": "453",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "becaido",
+        "task": "H",
+        "time": 9006,
+        "key": "506",
+        "token": false,
+        "score": 44.0,
+        "extra": [
+            "1",
+            "20",
+            "5",
+            "18",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

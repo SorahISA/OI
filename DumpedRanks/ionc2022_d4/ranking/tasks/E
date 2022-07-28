@@ -1,0 +1,14 @@
+{
+    "name": "E. \u5e73\u65b9\u6578\u56e0\u6578 (factor2)",
+    "short_name": "E",
+    "contest": "2022ionc-d4",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (1)",
+        "Subtask 2 (7)",
+        "Subtask 3 (92)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

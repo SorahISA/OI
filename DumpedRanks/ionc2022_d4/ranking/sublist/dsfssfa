@@ -1,0 +1,58 @@
+[
+    {
+        "user": "dsfssfa",
+        "task": "D",
+        "time": 4707,
+        "key": "201",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "dsfssfa",
+        "task": "D",
+        "time": 4873,
+        "key": "206",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "dsfssfa",
+        "task": "D",
+        "time": 5258,
+        "key": "219",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "dsfssfa",
+        "task": "D",
+        "time": 5888,
+        "key": "271",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "dsfssfa",
+        "task": "F",
+        "time": 8994,
+        "key": "503",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "user": "sdfghj",
+        "task": "D",
+        "time": 2527,
+        "key": "117",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "sdfghj",
+        "task": "F",
+        "time": 5789,
+        "key": "261",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    }
+]

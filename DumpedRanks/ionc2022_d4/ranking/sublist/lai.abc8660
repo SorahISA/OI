@@ -1,0 +1,119 @@
+[
+    {
+        "user": "lai.abc8660",
+        "task": "C",
+        "time": 1583,
+        "key": "58",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "F",
+        "time": 3027,
+        "key": "141",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "G",
+        "time": 5149,
+        "key": "215",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 6403,
+        "key": "298",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "D",
+        "time": 6669,
+        "key": "315",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "E",
+        "time": 6720,
+        "key": "320",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "D",
+        "time": 8068,
+        "key": "411",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "D",
+        "time": 8726,
+        "key": "466",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "D",
+        "time": 8755,
+        "key": "469",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "lai.abc8660",
+        "task": "D",
+        "time": 8922,
+        "key": "490",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

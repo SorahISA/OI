@@ -1,0 +1,16 @@
+{
+    "name": "A. \u5171\u540c\u5b88\u5247 (commonrule)",
+    "short_name": "A",
+    "contest": "2022ionc-d4",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (6)",
+        "Subtask 2 (40)",
+        "Subtask 3 (12)",
+        "Subtask 4 (11)",
+        "Subtask 5 (31)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

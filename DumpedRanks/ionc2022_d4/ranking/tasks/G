@@ -1,0 +1,14 @@
+{
+    "name": "G. \u5967\u68ee\u5927\u8ff7\u5bae (osenmaze)",
+    "short_name": "G",
+    "contest": "2022ionc-d4",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (19)",
+        "Subtask 2 (23)",
+        "Subtask 3 (58)"
+    ],
+    "order": 6,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

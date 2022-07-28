@@ -1,0 +1,77 @@
+[
+    {
+        "user": "Meizz",
+        "task": "E",
+        "time": 765,
+        "key": "20",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "Meizz",
+        "task": "E",
+        "time": 1227,
+        "key": "44",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Meizz",
+        "task": "F",
+        "time": 7646,
+        "key": "386",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "Meizz",
+        "task": "D",
+        "time": 8132,
+        "key": "414",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Meizz",
+        "task": "E",
+        "time": 8392,
+        "key": "434",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "Meizz",
+        "task": "E",
+        "time": 8710,
+        "key": "465",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    }
+]

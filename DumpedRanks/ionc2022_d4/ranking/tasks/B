@@ -1,0 +1,12 @@
+{
+    "name": "B. \u706b\u7403\u70e4\u9905\u4e7e (cookies)",
+    "short_name": "B",
+    "contest": "2022ionc-d4",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (100)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

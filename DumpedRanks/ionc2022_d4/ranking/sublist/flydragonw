@@ -1,0 +1,53 @@
+[
+    {
+        "user": "flydragonw",
+        "task": "F",
+        "time": 7199,
+        "key": "351",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "E",
+        "time": 7640,
+        "key": "384",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "E",
+        "time": 7666,
+        "key": "387",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "E",
+        "time": 7724,
+        "key": "390",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

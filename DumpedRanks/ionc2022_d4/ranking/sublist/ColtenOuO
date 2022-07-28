@@ -1,0 +1,229 @@
+[
+    {
+        "user": "ColtenOuO",
+        "task": "C",
+        "time": 920,
+        "key": "28",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "D",
+        "time": 2222,
+        "key": "93",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "D",
+        "time": 2462,
+        "key": "111",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "D",
+        "time": 2689,
+        "key": "126",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "D",
+        "time": 2956,
+        "key": "138",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "F",
+        "time": 3689,
+        "key": "166",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "37",
+            "63"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "A",
+        "time": 4563,
+        "key": "193",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "A",
+        "time": 4812,
+        "key": "202",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "A",
+        "time": 5128,
+        "key": "214",
+        "token": false,
+        "score": 11.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "11",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "E",
+        "time": 6162,
+        "key": "283",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "1",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "H",
+        "time": 8422,
+        "key": "439",
+        "token": false,
+        "score": 1.0,
+        "extra": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "H",
+        "time": 8861,
+        "key": "481",
+        "token": false,
+        "score": 21.0,
+        "extra": [
+            "1",
+            "20",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "H",
+        "time": 8974,
+        "key": "499",
+        "token": false,
+        "score": 21.0,
+        "extra": [
+            "1",
+            "20",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "A",
+        "time": 9311,
+        "key": "529",
+        "token": false,
+        "score": 11.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "11",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "A",
+        "time": 9392,
+        "key": "536",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "6",
+            "0",
+            "0",
+            "11",
+            "0"
+        ]
+    },
+    {
+        "user": "ColtenOuO",
+        "task": "A",
+        "time": 9561,
+        "key": "545",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "6",
+            "0",
+            "0",
+            "11",
+            "0"
+        ]
+    }
+]
