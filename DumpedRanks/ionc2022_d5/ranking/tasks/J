@@ -1,0 +1,13 @@
+{
+    "name": "J. IONC \u4e0b\u6c34\u9053 (sewer)",
+    "short_name": "J",
+    "contest": "2022ionc-d5",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (32)",
+        "Subtask 2 (68)"
+    ],
+    "order": 9,
+    "score_mode": "max",
+    "score_precision": 0
+}

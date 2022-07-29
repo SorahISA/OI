@@ -1,0 +1,31 @@
+{
+    "name": "B. \u9ad8\u901f\u516c\u8def (highway)",
+    "short_name": "B",
+    "contest": "2022ionc-d5",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Test 1 (5)",
+        "Test 2 (5)",
+        "Test 3 (5)",
+        "Test 4 (5)",
+        "Test 5 (5)",
+        "Test 6 (5)",
+        "Test 7 (5)",
+        "Test 8 (5)",
+        "Test 9 (5)",
+        "Test 10 (5)",
+        "Test 11 (5)",
+        "Test 12 (5)",
+        "Test 13 (5)",
+        "Test 14 (5)",
+        "Test 15 (5)",
+        "Test 16 (5)",
+        "Test 17 (5)",
+        "Test 18 (5)",
+        "Test 19 (5)",
+        "Test 20 (5)"
+    ],
+    "order": 1,
+    "score_mode": "max",
+    "score_precision": 2
+}

@@ -1,0 +1,117 @@
+[
+    {
+        "user": "flydragonw",
+        "task": "M",
+        "time": 766,
+        "key": "48",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "H",
+        "time": 1374,
+        "key": "73",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "A",
+        "time": 2712,
+        "key": "146",
+        "token": false,
+        "score": 4.0,
+        "extra": [
+            "4",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "E",
+        "time": 5447,
+        "key": "274",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "J",
+        "time": 10057,
+        "key": "469",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "J",
+        "time": 10453,
+        "key": "492",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "L",
+        "time": 12001,
+        "key": "544",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "C",
+        "time": 13665,
+        "key": "601",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "flydragonw",
+        "task": "C",
+        "time": 14083,
+        "key": "620",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    }
+]

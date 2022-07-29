@@ -1,0 +1,458 @@
+[
+    {
+        "user": "Ryaniscool",
+        "task": "M",
+        "time": 42,
+        "key": "1",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "C",
+        "time": 326,
+        "key": "25",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "C",
+        "time": 363,
+        "key": "30",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "C",
+        "time": 698,
+        "key": "45",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "I",
+        "time": 743,
+        "key": "47",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "H",
+        "time": 848,
+        "key": "51",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "H",
+        "time": 923,
+        "key": "56",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "C",
+        "time": 956,
+        "key": "59",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "5",
+            "95"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "D",
+        "time": 1818,
+        "key": "103",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "D",
+        "time": 1991,
+        "key": "110",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "D",
+        "time": 2720,
+        "key": "147",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "25",
+            "75"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "A",
+        "time": 2856,
+        "key": "158",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "71"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "F",
+        "time": 3606,
+        "key": "187",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "60"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "E",
+        "time": 3904,
+        "key": "203",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "H",
+        "time": 4835,
+        "key": "245",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "86",
+            "14"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "J",
+        "time": 6184,
+        "key": "306",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "J",
+        "time": 6507,
+        "key": "318",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "J",
+        "time": 6535,
+        "key": "320",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "E",
+        "time": 6950,
+        "key": "348",
+        "token": false,
+        "score": 99.0,
+        "extra": [
+            "5",
+            "19",
+            "26",
+            "8",
+            "13",
+            "28",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "L",
+        "time": 8027,
+        "key": "389",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "21",
+            "61",
+            "18"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "B",
+        "time": 9826,
+        "key": "457",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "B",
+        "time": 10391,
+        "key": "489",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "K",
+        "time": 10991,
+        "key": "512",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "7",
+            "0",
+            "33",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "K",
+        "time": 11851,
+        "key": "539",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "7",
+            "20",
+            "33",
+            "40"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "G",
+        "time": 12468,
+        "key": "562",
+        "token": false,
+        "score": 16.0,
+        "extra": [
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "B",
+        "time": 13216,
+        "key": "584",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "B",
+        "time": 14267,
+        "key": "631",
+        "token": false,
+        "score": 31.0,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "M",
+        "time": 14336,
+        "key": "635",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "C",
+        "time": 14357,
+        "key": "641",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "M",
+        "time": 14378,
+        "key": "644",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Ryaniscool",
+        "task": "M",
+        "time": 14379,
+        "key": "646",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

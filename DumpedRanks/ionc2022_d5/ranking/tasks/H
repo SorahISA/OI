@@ -1,0 +1,13 @@
+{
+    "name": "H. \u529b\u91cf\u4eba\uff0c\u6211\u7684\u8d85\u4eba (powerman)",
+    "short_name": "H",
+    "contest": "2022ionc-d5",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (86)",
+        "Subtask 2 (14)"
+    ],
+    "order": 7,
+    "score_mode": "max",
+    "score_precision": 0
+}

@@ -1,0 +1,221 @@
+[
+    {
+        "user": "cgnoooob",
+        "task": "M",
+        "time": 115,
+        "key": "12",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "C",
+        "time": 1375,
+        "key": "74",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "E",
+        "time": 1442,
+        "key": "78",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "C",
+        "time": 1549,
+        "key": "91",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "E",
+        "time": 2529,
+        "key": "137",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "E",
+        "time": 2863,
+        "key": "159",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "E",
+        "time": 2905,
+        "key": "161",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "E",
+        "time": 2959,
+        "key": "163",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "I",
+        "time": 3495,
+        "key": "186",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "A",
+        "time": 4226,
+        "key": "217",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "H",
+        "time": 6624,
+        "key": "327",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "A",
+        "time": 6690,
+        "key": "332",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "71"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "C",
+        "time": 7900,
+        "key": "380",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "C",
+        "time": 9119,
+        "key": "430",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "D",
+        "time": 9852,
+        "key": "461",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "25",
+            "75"
+        ]
+    },
+    {
+        "user": "cgnoooob",
+        "task": "F",
+        "time": 13754,
+        "key": "606",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    }
+]

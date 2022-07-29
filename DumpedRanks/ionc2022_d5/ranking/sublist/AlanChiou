@@ -1,0 +1,489 @@
+[
+    {
+        "user": "AlanChiou",
+        "task": "M",
+        "time": 184,
+        "key": "18",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "M",
+        "time": 241,
+        "key": "20",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "M",
+        "time": 348,
+        "key": "28",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "M",
+        "time": 407,
+        "key": "32",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "A",
+        "time": 647,
+        "key": "44",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "I",
+        "time": 1213,
+        "key": "66",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "H",
+        "time": 1290,
+        "key": "69",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "A",
+        "time": 1658,
+        "key": "97",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "71"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "C",
+        "time": 2225,
+        "key": "121",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "5",
+            "95"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "E",
+        "time": 4666,
+        "key": "236",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "5",
+            "19",
+            "26",
+            "8",
+            "13",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "E",
+        "time": 4896,
+        "key": "246",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "5",
+            "19",
+            "26",
+            "8",
+            "13",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "F",
+        "time": 5660,
+        "key": "282",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "60"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "D",
+        "time": 6556,
+        "key": "323",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "D",
+        "time": 6959,
+        "key": "349",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "D",
+        "time": 7092,
+        "key": "353",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "J",
+        "time": 7197,
+        "key": "357",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "D",
+        "time": 7205,
+        "key": "360",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "D",
+        "time": 7492,
+        "key": "373",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "D",
+        "time": 7613,
+        "key": "376",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "D",
+        "time": 7929,
+        "key": "382",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "25",
+            "75"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "L",
+        "time": 8770,
+        "key": "410",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "L",
+        "time": 8910,
+        "key": "414",
+        "token": false,
+        "score": 21.0,
+        "extra": [
+            "21",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "L",
+        "time": 9929,
+        "key": "463",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "21",
+            "61",
+            "18"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "E",
+        "time": 10743,
+        "key": "500",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "E",
+        "time": 10804,
+        "key": "501",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "5",
+            "19",
+            "26",
+            "8",
+            "13",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "E",
+        "time": 10831,
+        "key": "503",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "5",
+            "19",
+            "26",
+            "8",
+            "13",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "K",
+        "time": 11869,
+        "key": "541",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "B",
+        "time": 12429,
+        "key": "558",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "5",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "B",
+        "time": 13442,
+        "key": "595",
+        "token": false,
+        "score": 27.55,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "1.65",
+            "1.3",
+            "1.05",
+            "1",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0.45",
+            "0.1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "K",
+        "time": 14091,
+        "key": "621",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "7",
+            "0",
+            "33",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "B",
+        "time": 14359,
+        "key": "642",
+        "token": false,
+        "score": 30.1,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "1.65",
+            "1.3",
+            "1.05",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "5",
+            "0.1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanChiou",
+        "task": "B",
+        "time": 14393,
+        "key": "648",
+        "token": false,
+        "score": 33.1,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "1.65",
+            "1.3",
+            "1.05",
+            "1",
+            "1",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "5",
+            "0.1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

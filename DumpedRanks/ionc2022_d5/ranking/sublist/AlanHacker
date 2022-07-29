@@ -1,0 +1,232 @@
+[
+    {
+        "user": "AlanHacker",
+        "task": "M",
+        "time": 4803,
+        "key": "243",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "C",
+        "time": 4983,
+        "key": "249",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "C",
+        "time": 5160,
+        "key": "263",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "C",
+        "time": 5916,
+        "key": "299",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "H",
+        "time": 6600,
+        "key": "326",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "C",
+        "time": 8179,
+        "key": "393",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "E",
+        "time": 8453,
+        "key": "399",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "E",
+        "time": 8552,
+        "key": "404",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "A",
+        "time": 8689,
+        "key": "405",
+        "token": false,
+        "score": 4.0,
+        "extra": [
+            "4",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "E",
+        "time": 8987,
+        "key": "420",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "19",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "E",
+        "time": 9229,
+        "key": "436",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "19",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "E",
+        "time": 9356,
+        "key": "442",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "19",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "C",
+        "time": 9563,
+        "key": "449",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "K",
+        "time": 11021,
+        "key": "515",
+        "token": false,
+        "score": 7.0,
+        "extra": [
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "I",
+        "time": 12951,
+        "key": "574",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "I",
+        "time": 13189,
+        "key": "582",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "AlanHacker",
+        "task": "C",
+        "time": 14350,
+        "key": "637",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "5",
+            "95"
+        ]
+    }
+]

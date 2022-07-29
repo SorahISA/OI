@@ -1,0 +1,817 @@
+[
+    {
+        "user": "wcwu",
+        "task": "M",
+        "time": 138,
+        "key": "15",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "C",
+        "time": 327,
+        "key": "26",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "C",
+        "time": 579,
+        "key": "43",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "5",
+            "95"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "H",
+        "time": 1473,
+        "key": "83",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "D",
+        "time": 1632,
+        "key": "95",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "D",
+        "time": 1698,
+        "key": "98",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "D",
+        "time": 1950,
+        "key": "108",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "25",
+            "75"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 2557,
+        "key": "138",
+        "token": false,
+        "score": 4.0,
+        "extra": [
+            "4",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 2697,
+        "key": "145",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 2987,
+        "key": "164",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "F",
+        "time": 3075,
+        "key": "165",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 3387,
+        "key": "175",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 3435,
+        "key": "178",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 3460,
+        "key": "180",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 4203,
+        "key": "215",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 4333,
+        "key": "224",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "I",
+        "time": 4485,
+        "key": "230",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "F",
+        "time": 5049,
+        "key": "252",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "F",
+        "time": 5206,
+        "key": "268",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "F",
+        "time": 5228,
+        "key": "269",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "F",
+        "time": 5442,
+        "key": "273",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "F",
+        "time": 5781,
+        "key": "286",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "60"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 6442,
+        "key": "312",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "B",
+        "time": 6829,
+        "key": "339",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "B",
+        "time": 6973,
+        "key": "350",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "5",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "B",
+        "time": 7316,
+        "key": "365",
+        "token": false,
+        "score": 29.8,
+        "extra": [
+            "5",
+            "5",
+            "1",
+            "3",
+            "2.55",
+            "2.45",
+            "2.05",
+            "1.9",
+            "1.85",
+            "1.95",
+            "1.75",
+            "1.3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "B",
+        "time": 7913,
+        "key": "381",
+        "token": false,
+        "score": 33.550000000000004,
+        "extra": [
+            "5",
+            "5",
+            "0",
+            "5",
+            "2.65",
+            "2.7",
+            "2.5",
+            "2.35",
+            "2.25",
+            "2.35",
+            "2.05",
+            "1.7",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "B",
+        "time": 8008,
+        "key": "388",
+        "token": false,
+        "score": 38.550000000000004,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "2.65",
+            "2.7",
+            "2.5",
+            "2.35",
+            "2.25",
+            "2.35",
+            "2.05",
+            "1.7",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "I",
+        "time": 8704,
+        "key": "406",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 9023,
+        "key": "422",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "I",
+        "time": 9121,
+        "key": "431",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "I",
+        "time": 9244,
+        "key": "439",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 10424,
+        "key": "490",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "E",
+        "time": 10703,
+        "key": "498",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 10902,
+        "key": "507",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 10935,
+        "key": "508",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 11057,
+        "key": "517",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "E",
+        "time": 11389,
+        "key": "528",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 11396,
+        "key": "529",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "J",
+        "time": 11834,
+        "key": "538",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "J",
+        "time": 11899,
+        "key": "542",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "A",
+        "time": 11931,
+        "key": "543",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "71"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "K",
+        "time": 12587,
+        "key": "564",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "7",
+            "0",
+            "33",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "E",
+        "time": 12601,
+        "key": "565",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "G",
+        "time": 12734,
+        "key": "568",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "E",
+        "time": 12740,
+        "key": "570",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "B",
+        "time": 13105,
+        "key": "580",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "E",
+        "time": 13749,
+        "key": "605",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "B",
+        "time": 13788,
+        "key": "608",
+        "token": false,
+        "score": 27.55,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "2.55",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "E",
+        "time": 14073,
+        "key": "618",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "wcwu",
+        "task": "B",
+        "time": 14302,
+        "key": "632",
+        "token": false,
+        "score": 43.349999999999994,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "2.65",
+            "2.7",
+            "0",
+            "2.35",
+            "2.25",
+            "2.35",
+            "2.05",
+            "1.7",
+            "0",
+            "0",
+            "5",
+            "0.7",
+            "0.65",
+            "0.65",
+            "0.3",
+            "0"
+        ]
+    }
+]

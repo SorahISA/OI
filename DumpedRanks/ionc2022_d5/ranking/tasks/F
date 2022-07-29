@@ -1,0 +1,13 @@
+{
+    "name": "F. IONC \u5927\u516c\u5712 (park)",
+    "short_name": "F",
+    "contest": "2022ionc-d5",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (40)",
+        "Subtask 2 (60)"
+    ],
+    "order": 5,
+    "score_mode": "max",
+    "score_precision": 0
+}
