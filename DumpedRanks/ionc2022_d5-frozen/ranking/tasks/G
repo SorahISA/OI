@@ -1,0 +1,13 @@
+{
+    "name": "G. Poly Bridge (polybridge)",
+    "short_name": "G",
+    "contest": "2022ionc-d5",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (16)",
+        "Subtask 2 (84)"
+    ],
+    "order": 6,
+    "score_mode": "max",
+    "score_precision": 0
+}

@@ -1,0 +1,274 @@
+[
+    {
+        "user": "oceanWen",
+        "task": "M",
+        "time": 207,
+        "key": "19",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "A",
+        "time": 352,
+        "key": "29",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "A",
+        "time": 372,
+        "key": "31",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "A",
+        "time": 420,
+        "key": "34",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "H",
+        "time": 971,
+        "key": "60",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "C",
+        "time": 1284,
+        "key": "68",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "H",
+        "time": 1715,
+        "key": "99",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "C",
+        "time": 1759,
+        "key": "100",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "C",
+        "time": 1958,
+        "key": "109",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "5",
+            "95"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "I",
+        "time": 2581,
+        "key": "139",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "F",
+        "time": 4019,
+        "key": "206",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "E",
+        "time": 4937,
+        "key": "248",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "19",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "F",
+        "time": 5074,
+        "key": "254",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "E",
+        "time": 5078,
+        "key": "255",
+        "token": false,
+        "score": 19.0,
+        "extra": [
+            "0",
+            "19",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "A",
+        "time": 5655,
+        "key": "281",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "F",
+        "time": 5804,
+        "key": "289",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "F",
+        "time": 5861,
+        "key": "293",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "A",
+        "time": 6075,
+        "key": "302",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "A",
+        "time": 7174,
+        "key": "356",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "71"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "J",
+        "time": 8914,
+        "key": "415",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "J",
+        "time": 9038,
+        "key": "424",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "32",
+            "0"
+        ]
+    }
+]

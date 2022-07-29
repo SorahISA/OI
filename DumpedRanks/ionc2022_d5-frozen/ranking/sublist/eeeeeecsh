@@ -1,0 +1,198 @@
+[
+    {
+        "user": "eeeeeecsh",
+        "task": "M",
+        "time": 85,
+        "key": "6",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "H",
+        "time": 792,
+        "key": "49",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "C",
+        "time": 1156,
+        "key": "63",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "C",
+        "time": 1460,
+        "key": "81",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "I",
+        "time": 3671,
+        "key": "191",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "J",
+        "time": 3866,
+        "key": "198",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "J",
+        "time": 4060,
+        "key": "209",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "J",
+        "time": 4209,
+        "key": "216",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "D",
+        "time": 4793,
+        "key": "242",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "A",
+        "time": 6592,
+        "key": "325",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "F",
+        "time": 7344,
+        "key": "366",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "C",
+        "time": 7953,
+        "key": "386",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "F",
+        "time": 8916,
+        "key": "416",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "F",
+        "time": 8958,
+        "key": "418",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "A",
+        "time": 9034,
+        "key": "423",
+        "token": false,
+        "score": 4.0,
+        "extra": [
+            "4",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eeeeeecsh",
+        "task": "A",
+        "time": 9577,
+        "key": "451",
+        "token": false,
+        "score": 29.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "0"
+        ]
+    }
+]

@@ -1,0 +1,197 @@
+{
+    "A": {
+        "name": "A. \u56e0\u6578\u500b\u6578\u524d\u7db4\u548c (factor)",
+        "short_name": "A",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (4)",
+            "Subtask 2 (9)",
+            "Subtask 3 (16)",
+            "Subtask 4 (71)"
+        ],
+        "order": 0,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "B": {
+        "name": "B. \u9ad8\u901f\u516c\u8def (highway)",
+        "short_name": "B",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Test 1 (5)",
+            "Test 2 (5)",
+            "Test 3 (5)",
+            "Test 4 (5)",
+            "Test 5 (5)",
+            "Test 6 (5)",
+            "Test 7 (5)",
+            "Test 8 (5)",
+            "Test 9 (5)",
+            "Test 10 (5)",
+            "Test 11 (5)",
+            "Test 12 (5)",
+            "Test 13 (5)",
+            "Test 14 (5)",
+            "Test 15 (5)",
+            "Test 16 (5)",
+            "Test 17 (5)",
+            "Test 18 (5)",
+            "Test 19 (5)",
+            "Test 20 (5)"
+        ],
+        "order": 1,
+        "score_mode": "max",
+        "score_precision": 2
+    },
+    "C": {
+        "name": "C. \u53d6\u77f3\u5b50\u904a\u6232 (kgame)",
+        "short_name": "C",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (5)",
+            "Subtask 2 (95)"
+        ],
+        "order": 2,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "D": {
+        "name": "D. \u56e0\u6578\u8ddf\u56e0\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u8ddf\u56e0\u6578\u8ddf\u56e0\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u7684\u6700\u5c0f\u516c\u500d\u6578 (lcmgcd)",
+        "short_name": "D",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (25)",
+            "Subtask 2 (75)"
+        ],
+        "order": 3,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "E": {
+        "name": "E. \u58d3\u788e\u9322 (money)",
+        "short_name": "E",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (5)",
+            "Subtask 2 (19)",
+            "Subtask 3 (26)",
+            "Subtask 4 (8)",
+            "Subtask 5 (13)",
+            "Subtask 6 (28)",
+            "Subtask 7 (1)"
+        ],
+        "order": 4,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "F": {
+        "name": "F. IONC \u5927\u516c\u5712 (park)",
+        "short_name": "F",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (40)",
+            "Subtask 2 (60)"
+        ],
+        "order": 5,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "G": {
+        "name": "G. Poly Bridge (polybridge)",
+        "short_name": "G",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (16)",
+            "Subtask 2 (84)"
+        ],
+        "order": 6,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "H": {
+        "name": "H. \u529b\u91cf\u4eba\uff0c\u6211\u7684\u8d85\u4eba (powerman)",
+        "short_name": "H",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (86)",
+            "Subtask 2 (14)"
+        ],
+        "order": 7,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "I": {
+        "name": "I. \u53c8\u4e00\u500b\u5e8f\u5217\u554f\u984c (sequence2)",
+        "short_name": "I",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 8,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "J": {
+        "name": "J. IONC \u4e0b\u6c34\u9053 (sewer)",
+        "short_name": "J",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (32)",
+            "Subtask 2 (68)"
+        ],
+        "order": 9,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "K": {
+        "name": "K. \u85cf\u5bf6\u5716 (treasure)",
+        "short_name": "K",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (7)",
+            "Subtask 2 (20)",
+            "Subtask 3 (33)",
+            "Subtask 4 (40)"
+        ],
+        "order": 10,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "L": {
+        "name": "L. TypeRacer 3 (typeracer3)",
+        "short_name": "L",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (21)",
+            "Subtask 2 (61)",
+            "Subtask 3 (18)"
+        ],
+        "order": 11,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "M": {
+        "name": "M. Hello, IONC! (ioncamp)",
+        "short_name": "M",
+        "contest": "2022ionc-d5",
+        "max_score": 100.0,
+        "extra_headers": [
+            "Subtask 1 (100)"
+        ],
+        "order": 12,
+        "score_mode": "max",
+        "score_precision": 0
+    }
+}

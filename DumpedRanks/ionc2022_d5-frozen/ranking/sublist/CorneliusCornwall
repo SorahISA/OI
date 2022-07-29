@@ -1,0 +1,397 @@
+[
+    {
+        "user": "CorneliusCornwall",
+        "task": "M",
+        "time": 42,
+        "key": "2",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "H",
+        "time": 1297,
+        "key": "70",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "H",
+        "time": 1520,
+        "key": "86",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "D",
+        "time": 1543,
+        "key": "89",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "I",
+        "time": 2075,
+        "key": "113",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "I",
+        "time": 2145,
+        "key": "114",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "D",
+        "time": 2788,
+        "key": "154",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "C",
+        "time": 3473,
+        "key": "181",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "5",
+            "95"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "I",
+        "time": 4114,
+        "key": "211",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "E",
+        "time": 4739,
+        "key": "239",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "B",
+        "time": 5004,
+        "key": "250",
+        "token": false,
+        "score": 10.0,
+        "extra": [
+            "5",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "F",
+        "time": 5578,
+        "key": "277",
+        "token": false,
+        "score": 40.0,
+        "extra": [
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "F",
+        "time": 6549,
+        "key": "322",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "F",
+        "time": 6681,
+        "key": "331",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "F",
+        "time": 6747,
+        "key": "334",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "F",
+        "time": 6868,
+        "key": "343",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "F",
+        "time": 6923,
+        "key": "347",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "60"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "D",
+        "time": 7126,
+        "key": "355",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "D",
+        "time": 7439,
+        "key": "370",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "D",
+        "time": 8179,
+        "key": "392",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "D",
+        "time": 8544,
+        "key": "402",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "D",
+        "time": 9117,
+        "key": "429",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "D",
+        "time": 9152,
+        "key": "433",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "25",
+            "75"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "K",
+        "time": 9571,
+        "key": "450",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "A",
+        "time": 9594,
+        "key": "452",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "K",
+        "time": 9944,
+        "key": "465",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "B",
+        "time": 10088,
+        "key": "471",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "K",
+        "time": 10221,
+        "key": "481",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "CorneliusCornwall",
+        "task": "K",
+        "time": 10390,
+        "key": "488",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

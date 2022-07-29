@@ -1,0 +1,13 @@
+{
+    "name": "C. \u53d6\u77f3\u5b50\u904a\u6232 (kgame)",
+    "short_name": "C",
+    "contest": "2022ionc-d5",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (5)",
+        "Subtask 2 (95)"
+    ],
+    "order": 2,
+    "score_mode": "max",
+    "score_precision": 0
+}

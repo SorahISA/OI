@@ -1,0 +1,480 @@
+[
+    {
+        "user": "Koying",
+        "task": "M",
+        "time": 147,
+        "key": "16",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "C",
+        "time": 719,
+        "key": "46",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "C",
+        "time": 796,
+        "key": "50",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "C",
+        "time": 873,
+        "key": "54",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "C",
+        "time": 929,
+        "key": "57",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "5",
+            "95"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 1338,
+        "key": "71",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 2214,
+        "key": "119",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 2449,
+        "key": "131",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 2505,
+        "key": "136",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 2728,
+        "key": "149",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "H",
+        "time": 3091,
+        "key": "166",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 3455,
+        "key": "179",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "D",
+        "time": 3484,
+        "key": "184",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 3492,
+        "key": "185",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 3622,
+        "key": "189",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 3678,
+        "key": "193",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 3709,
+        "key": "195",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 3739,
+        "key": "197",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 3883,
+        "key": "200",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 4027,
+        "key": "207",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 4095,
+        "key": "210",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 4269,
+        "key": "221",
+        "token": false,
+        "score": 45.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 4291,
+        "key": "223",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "5",
+            "19",
+            "26",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 5133,
+        "key": "259",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "5",
+            "19",
+            "26",
+            "8",
+            "13",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 5180,
+        "key": "266",
+        "token": false,
+        "score": 71.0,
+        "extra": [
+            "5",
+            "19",
+            "26",
+            "8",
+            "13",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "E",
+        "time": 5891,
+        "key": "296",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "I",
+        "time": 6541,
+        "key": "321",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "J",
+        "time": 8424,
+        "key": "398",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "J",
+        "time": 8547,
+        "key": "403",
+        "token": false,
+        "score": 32.0,
+        "extra": [
+            "32",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "J",
+        "time": 9040,
+        "key": "425",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "J",
+        "time": 9087,
+        "key": "427",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "F",
+        "time": 10195,
+        "key": "478",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "F",
+        "time": 10234,
+        "key": "482",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "Koying",
+        "task": "A",
+        "time": 10436,
+        "key": "491",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    }
+]

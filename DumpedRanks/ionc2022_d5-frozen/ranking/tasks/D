@@ -1,0 +1,13 @@
+{
+    "name": "D. \u56e0\u6578\u8ddf\u56e0\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u8ddf\u56e0\u6578\u8ddf\u56e0\u6578\u7684\u6700\u5927\u516c\u56e0\u6578\u7684\u6700\u5c0f\u516c\u500d\u6578 (lcmgcd)",
+    "short_name": "D",
+    "contest": "2022ionc-d5",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (25)",
+        "Subtask 2 (75)"
+    ],
+    "order": 3,
+    "score_mode": "max",
+    "score_precision": 0
+}

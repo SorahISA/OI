@@ -1,0 +1,75 @@
+[
+    {
+        "user": "YYOuO",
+        "task": "M",
+        "time": 344,
+        "key": "27",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "YYOuO",
+        "task": "H",
+        "time": 1465,
+        "key": "82",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "YYOuO",
+        "task": "A",
+        "time": 2491,
+        "key": "133",
+        "token": false,
+        "score": 4.0,
+        "extra": [
+            "4",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "YYOuO",
+        "task": "H",
+        "time": 2747,
+        "key": "151",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "YYOuO",
+        "task": "C",
+        "time": 3418,
+        "key": "177",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "YYOuO",
+        "task": "C",
+        "time": 5278,
+        "key": "270",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "5",
+            "95"
+        ]
+    }
+]

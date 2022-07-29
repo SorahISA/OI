@@ -1,0 +1,332 @@
+[
+    {
+        "user": "johnson_zeng",
+        "task": "M",
+        "time": 89,
+        "key": "8",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "C",
+        "time": 504,
+        "key": "38",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "C",
+        "time": 532,
+        "key": "39",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "C",
+        "time": 1497,
+        "key": "85",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "C",
+        "time": 1555,
+        "key": "92",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "5",
+            "95"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "H",
+        "time": 1923,
+        "key": "106",
+        "token": false,
+        "score": 86.0,
+        "extra": [
+            "86",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "A",
+        "time": 2193,
+        "key": "116",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "A",
+        "time": 2216,
+        "key": "120",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "D",
+        "time": 2727,
+        "key": "148",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "25",
+            "75"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "A",
+        "time": 3620,
+        "key": "188",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "A",
+        "time": 3674,
+        "key": "192",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "A",
+        "time": 3898,
+        "key": "202",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "A",
+        "time": 4056,
+        "key": "208",
+        "token": false,
+        "score": 13.0,
+        "extra": [
+            "4",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "F",
+        "time": 4238,
+        "key": "219",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "40",
+            "60"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "A",
+        "time": 4767,
+        "key": "240",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "4",
+            "9",
+            "16",
+            "71"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "L",
+        "time": 5700,
+        "key": "283",
+        "token": false,
+        "score": 61.0,
+        "extra": [
+            "0",
+            "61",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "L",
+        "time": 5783,
+        "key": "287",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "L",
+        "time": 5848,
+        "key": "291",
+        "token": false,
+        "score": 82.0,
+        "extra": [
+            "21",
+            "61",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "H",
+        "time": 7089,
+        "key": "352",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "86",
+            "14"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "I",
+        "time": 7944,
+        "key": "384",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "G",
+        "time": 9476,
+        "key": "446",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "G",
+        "time": 9536,
+        "key": "447",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "E",
+        "time": 9920,
+        "key": "462",
+        "token": false,
+        "score": 66.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "8",
+            "13",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "E",
+        "time": 10069,
+        "key": "470",
+        "token": false,
+        "score": 66.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "8",
+            "13",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "johnson_zeng",
+        "task": "E",
+        "time": 10152,
+        "key": "474",
+        "token": false,
+        "score": 66.0,
+        "extra": [
+            "0",
+            "19",
+            "26",
+            "8",
+            "13",
+            "0",
+            "0"
+        ]
+    }
+]
